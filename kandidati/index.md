@@ -1,34 +1,24 @@
 ---
 layout: page
-title: Pirátští kandidáti do zastupitelstva města Npajedla
+title: Pirátští kandidáti do zastupitelstva města Napajedla
 rbar: ""
-ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidati.jpg
+ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidatix.jpg
 ---
 
-1. [**Jaroslav Ševčík**](/lide/jaroslav-sevcik), 32 let, správce T. J. Sokol Uherské Hradiště
-2. [**František Elfmark, DiS.**](/lide/frantisek-elfmark), 39 let, poslanec ČR, grafik a tvůrce webů
-3. [**Dušan Jurčík**](/lide/dusan-jurcik), 36 let, vývojový pracovník v logistice
-4. [**František Prachman**](/lide/frantisek-prachman), 52 let, OSVČ, kameraman
-5. [**Marek Houser**](/lide/marek-houser), 29 let, marketingový specialista, asistent poslance
-6. **Ing. Lucie Zelinková**, 33 let, administrativní pracovnice
-7. **Jaroslav Trubačík**, 39 let, vedoucí nákupu
-8. **Renata Malinová**, 24 let, dělnice
-9. **Ing. Lenka Kolářová**, 39 let, personalistka
-10. **Barbora Štěrbová**, 26 let, administrativní pracovnice
-11. **Antonín Macháček**, 56 let, OSVČ ve stavebnictví
-12. **Bc. Matěj Obdržálek**, 25 let, student VŠ
-13. **Mgr. Marie Sára Barlogová**, 31 let, sociální pracovnice
-14. **Pavel Škrášek**, 34 let, ředitel společnosti
-15. **Marek Pochylý**, 29 let, OSVČ, IT specialista
-16. **Ing. Martin Řezníček**, 28 let, elektrotechnik
-17. **Ing. Dagmara Hečová**, 41 let, učitelka
-18. **Petr Ondrašík**, 24 let, technik
-19. **Radek Dostálek**, 48 let, OSVČ
-20. **Mgr. Jana Daňhelová**, 51 let, učitelka
-21. **Michal Procházka**, 36 let, OSVČ, propagační pracovník
-22. **Mgr. Ivo Vojtík**, 54 let, ředitel ZŠ
-23. **Vojtěch Jahoda**, 28 let, OSVČ v reklamě a kultuře
-24. **Ing. Martina Houserová**, 28 let, marketingová koordinátorka
-25. **Mgr. Libor Daňhel**, 52 let, učitel
-26. **Mgr. Jiřina Velebová**, 60 let, učitelka
-27. **David Juřička**, 27 let, technik kontroly
+1. **Tomáš Čabla**, 39 let, kuchař
+2. **Jiří Krkoška**, 35 let, technik elektronik
+3. **Michal Štěpaník**, 39 let, elektrotechnik
+4. **Jan Rožek**, 26 let, cnc operátor
+5. **Ing. Jarmila Foralová**, 46 let, OSVČ
+6. **Marcel Sukup**, 33 let, dělník
+7. **Nikola Častulíková**, 19 let, studentka
+8. **Mgr. Bohdana Ambrožová**, 49 let, učitelka
+9. **Bc. Michal Krátký**, 38 let, mistr
+10. **Marie Hamplová**, 71 let, důchodkyně
+11. **Bohdana Čablová**, 42 let, účetní
+12. **Martin Potěšil**, 37 let, invalidní důchodce
+13. **Šárka Řiháčková**, 39 let, dělnice
+14. **Michal Chlud**, 36 let, elektrikář
+15. **Radek Štěpaník**, 38 let, lektor a HR pracovník
+16. **Břetislav Loveček**, 35 let, dělník
+17. **Hana Čablová**, 62 let, důchodkyně
