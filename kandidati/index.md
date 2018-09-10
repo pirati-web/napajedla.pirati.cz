@@ -5,9 +5,9 @@ rbar: ""
 ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidatix.jpg
 ---
 
-1. **Tomáš Čabla**, 39 let, kuchař
-2. **Jiří Krkoška**, 35 let, technik elektronik
-3. **Michal Štěpaník**, 39 let, elektrotechnik
+1. [**Tomáš Čabla**](/lide/tomas-cabla), 39 let, kuchař
+2. [**Jiří Krkoška**](/lide/jiri-krkoska), 35 let, technik elektronik
+3. [**Michal Štěpaník**](/lide/michal-stepanik), 39 let, elektrotechnik
 4. **Jan Rožek**, 26 let, cnc operátor
 5. **Ing. Jarmila Foralová**, 46 let, OSVČ
 6. **Marcel Sukup**, 33 let, dělník
