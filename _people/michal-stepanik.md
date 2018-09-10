@@ -1,7 +1,7 @@
 ---
 uid: michal.stepanik
-name:     Michal štěpaník  	# běžně používáné jméno
-fullname: Michal štěpaník  	# jméno s tituly etc.
+name:     Michal Štěpaník  	# běžně používáné jméno
+fullname: Michal Štěpaník  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
