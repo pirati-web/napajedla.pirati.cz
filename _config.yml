@@ -7,7 +7,7 @@
 
 # Site settings
 title: Pirátská strana | NAPA
-email: marek.houser@pirati.cz
+email: to@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
   Web Pirátů z Napajedel.
 url: "https://napajedla.pirati.cz" # the base hostname & protocol for your site
