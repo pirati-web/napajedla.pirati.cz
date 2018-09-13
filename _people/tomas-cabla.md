@@ -5,7 +5,7 @@ fullname: Tomáš Čabla  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kontakt
 
-img: people/tom.jpg   # 165 x 220
+img: people/tomas.jpg   # 165 x 220
 description: kuchař # kratký popis, max 160 znaků
 mail:
 - tomas.cabla@pirati.cz
