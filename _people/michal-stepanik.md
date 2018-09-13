@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 img: people/michal.jpg   # 165 x 220
 description: elektrotechnik # kratký popis, max 160 znaků
 mail:
-- michal.stepanik@pirati.cz
+- stepanik.michal@seznam.cz
 profiles:
   facebook: https://www.facebook.com/stepanik.michal
 ordkontakty: 1
