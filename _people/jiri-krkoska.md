@@ -5,7 +5,7 @@ fullname: Jiří Krkoška  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
-img: people/ppp.jpg   # 165 x 220
+img: people/jirka.jpg   # 165 x 220
 description: technik elektronik # kratký popis, max 160 znaků
 ---
 
