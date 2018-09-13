@@ -7,6 +7,11 @@ category:                   # kategorie: clenove
 
 img: people/michal.jpg   # 165 x 220
 description: elektrotechnik # kratký popis, max 160 znaků
+mail:
+- michal.stepanik@pirati.cz
+profiles:
+  facebook: https://www.facebook.com/stepanik.michal
+ordkontakty: 1
 ---
 
 Michal Štěpaník (*27. října 1978, Zlín) žije v Napajedlích, vystudoval ISŠ Otrokovice obor mechanik-elektronik. Od roku 2000 je zaměstnán v Continental Barum jako elektrotechnik.
