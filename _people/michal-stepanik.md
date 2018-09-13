@@ -5,7 +5,7 @@ fullname: Michal Štěpaník  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
-img: people/ppp.jpg   # 165 x 220
+img: people/michal.jpg   # 165 x 220
 description: elektrotechnik # kratký popis, max 160 znaků
 ---
 
