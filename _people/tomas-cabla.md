@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kontakt
 
 img: people/tomas.jpg   # 165 x 220
-description: kuchař # kratký popis, max 160 znaků
+description: kuchař, zastupitel města # kratký popis, max 160 znaků
 mail:
 - tomas.cabla@pirati.cz
 profiles:
