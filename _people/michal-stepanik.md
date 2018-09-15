@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/michal.jpg   # 165 x 220
-description: elektrotechnik # kratký popis, max 160 znaků
+description: elektrotechnik<br>kandidát do zastupitelstva # kratký popis, max 160 znaků
 mail:
 - stepanik.michal@seznam.cz
 profiles:
