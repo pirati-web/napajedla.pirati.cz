@@ -6,7 +6,7 @@ date: 2018-04-17T06:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/zasuh.jpg
-tags: 'Uherské-Hradiště rada zastupitelstvo'
+tags: 
 ---
 Poslanec za Českou pirátskou stranu František Elfmark a současný člen Rady Města UH rezignoval na svůj dosavadní městský post a od 1. května již nebude uvolněným radním. Nadále bude vykonávat pouze funkci radního neuvolněného. Jeho rezignaci z plně placené funkce na svém posledním dubnovém zasedání posvětilo také zastupitelstvo. V souladu s <a href="https://www.pirati.cz/tiskove-zpravy/verejne-funkce-kumulace-odmen.html" target="_blank">pirátskými myšlenkami</a> tedy opustil pozici, za kterou od říjnových voleb pobíral standardní finanční odměnu od města současně s poslaneckým platem. Dál bude od úřadu mít pouze o řád nižší tabulkovou odměnu.
 
