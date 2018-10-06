@@ -14,6 +14,6 @@ Mimo zmíněnou online reklamu na Facebooku investovali nejvíce do video spotů
 
 "Se zvědavostí se těšíme na finální přepočet ceny za jeden hlas a za obdržený mandát."
 
-![rozpocet2018](https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/rozpocet.PNG "Rozpočet kampaně 2018 - Piráti UH")
+![rozpocet2018](https://raw.githubusercontent.com/pirati-web/napajedla.pirati.cz/master/assets/img/miscellaneous/rozpocet.PNG "Rozpočet kampaně 2018 - Piráti UH")
 
 - - -
