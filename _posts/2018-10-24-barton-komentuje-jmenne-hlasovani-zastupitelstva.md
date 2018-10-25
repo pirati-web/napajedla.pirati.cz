@@ -4,7 +4,7 @@ category:     blog
 tags:         vláda legislativa
 layout:       post
 title:        "Jmenné hlasování zastupitelstva může osvětlit některé podezřelé případy prodeje majetku obcí, komentuje legislativní návrh Pirátů Lukáš Bartoň"
-image:        /assets/img/barton.jpg
+image:        /assets/img/posts/barton.jpg
 author:       Lukáš Bartoň
 ---
 
