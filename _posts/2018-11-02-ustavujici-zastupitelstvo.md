@@ -5,7 +5,7 @@ title: 'Starostkou zvolena ing.Irena Brabcová'
 date: 2018-11-02T01:30:00.032Z
 author: Jiří Krkoška 
 authorId: jiri.krkoska
-image: /assets/img/posts/radnice.jpg
+image: /assets/img/posts/radnice1.jpg
 tags: 'Napajedla volby starosta'
 ---
 
