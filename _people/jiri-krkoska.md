@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/jirka.jpg   # 165 x 220
-description: technik elektronik<br>kandidát do zastupitelstva # kratký popis, max 160 znaků
+description: technik elektronik<br>zastupitel města # kratký popis, max 160 znaků
 ---
 
 Jiří Krkoška (*26. srpna 1982, Zlín) je nezávislým kandidátem.
