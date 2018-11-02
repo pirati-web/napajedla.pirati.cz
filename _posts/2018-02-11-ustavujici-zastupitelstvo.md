@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Starostkou zvolena ing.Irena Brabcová'
-date: 2018-10-04T01:30:00.032Z
+date: 2018-11-02T01:30:00.032Z
 author: Jiří Krkoška 
 authorId: jiri.krkoska
 image: /assets/img/posts/radnice.jpg
