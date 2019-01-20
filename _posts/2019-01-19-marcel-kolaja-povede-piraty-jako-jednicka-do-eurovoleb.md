@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní
 layout:       post
 title:        "Piráty povede do eurovoleb Marcel Kolaja"
-image:        /assets/img/kolaja.jpg 
+image:        /assets/img/posts/kolaja.jpg 
 author:       Mediální odbor
 ---
 
