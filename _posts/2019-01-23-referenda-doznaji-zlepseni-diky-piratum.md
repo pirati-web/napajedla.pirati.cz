@@ -4,7 +4,7 @@ category:     blog
 tags:         sněmovna otevřený-stát celostátní
 layout:       post
 title:        "Piráti prosadili vylepšení místních a krajských referend"
-image:        /assets/img/articles/2018/pikal-vojtech.jpg 
+image:        /assets/img/posts/pikal-vojtech.jpg 
 author:       Mediální odbor
 ---
 
