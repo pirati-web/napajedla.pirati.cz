@@ -5,7 +5,7 @@ title: 'Rozpočet města na rok 2019 a výhled 2020-23'
 date: 2019-02-05T01:30:00.032Z
 author: Tomáš Čabla
 authorId: tomas.cabla
-image: /assets/img/posts/radnice1.jpg
+image: /assets/img/posts/radnice2.jpg
 tags: 'Napajedla zastupitelstvo kontrolni-vybor'
 ---
 
