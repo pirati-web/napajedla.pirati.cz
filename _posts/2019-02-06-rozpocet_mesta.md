@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Rozpočet města na rok 2019 a výhled 2020-23'
-date: 2019-02-07T01:30:00.032Z
+date: 2019-02-05T01:30:00.032Z
 author: Tomáš Čabla
 authorId: tomas.cabla
 image: /assets/img/posts/
