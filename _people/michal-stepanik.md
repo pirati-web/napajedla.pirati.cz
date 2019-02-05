@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 img: people/michal.jpg   # 165 x 220
 description: elektrotechnik<br>člen kontrolního výboru # kratký popis, max 160 znaků
 mail:
-- stepanik.michal@seznam.cz
+- michal.stepanik@pirati.cz
 profiles:
   facebook: https://www.facebook.com/stepanik.michal
 ordkontakty: 1
