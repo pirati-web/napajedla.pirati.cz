@@ -31,7 +31,7 @@ Tomáš Čabla se zdržel hlasování a Jirka Krkoška hlasoval proti rozpočtu.
 Stejně tak hlasovali naši pirátští zastupitelé k střednědobému výhledu.  Na konci tohoto období nezbude z přebytku z minulých let v městské pokladně skoro nic (2022 - 1.5mil.kč; 2023 - 5mil.kč). Tento výhled tak nepočítá s možnými nižšími příjmy města v dalších letech.
  
 4) OZV č. 3/2018, o regulaci provozování hazardních her
-Naši pirátští zastupitelé se zdrželi hlasování, stávající počet 60ks hracích automatů považujeme za vysoký a chceme úplné omezení na území města vyjma Průmyslové zóny nebo úplný zákaz. OZV [zde](http://napajedla.cz/urednideska/1546/OZV%20%C4%8D.3-2018%20o%20regulaci%20provozov%C3%A1n%C3%AD%20hazardn%C3%ADch%20her.pdf){:target="_blank"}
+Naši pirátští zastupitelé se zdrželi hlasování, stávající počet 60ks hracích automatů považujeme za vysoký a chceme úplné omezení na území města vyjma Průmyslové zóny nebo úplný zákaz. OZV [zde](http://napajedla.cz/urednideska/1546/OZV%20%C4%8D.3-2018%20o%20regulaci%20provozov%C3%A1n%C3%AD%20hazardn%C3%ADch%20her.pdf){:target="_blank"}.
 
  
 KONTROLNÍ VÝBOR
@@ -39,7 +39,5 @@ KONTROLNÍ VÝBOR
  
 Další veřejné zasedání zastupitelstva proběhne dne 20.2.2019 na které vás zveme.
 
-
-foto: Tomáš Vydržal
 
 ---
