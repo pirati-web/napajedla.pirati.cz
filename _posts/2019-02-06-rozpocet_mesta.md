@@ -5,7 +5,7 @@ title: 'Rozpočet města na rok 2019 a výhled 2020-23'
 date: 2019-02-05T01:30:00.032Z
 author: Tomáš Čabla
 authorId: tomas.cabla
-image: /assets/img/posts/
+image: /assets/img/posts/radnice1.jpg
 tags: 'Napajedla zastupitelstvo kontrolni-vybor'
 ---
 
@@ -35,5 +35,8 @@ KONTROLNÍ VÝBOR
 28.1.2019 proběhlo první jednání Kontrolního výboru, kterého se za Piráty zúčastnil Michal Štěpaník. Byl schválen plán činnosti. A proběhla i první kontrolní činnost v jednotlivých odborech či příspěvkových organizacích města.
  
 Další veřejné zasedání zastupitelstva proběhne dne 20.2.2019 na které vás zveme.
+
+
+foto: Tomáš Vydržal
 
 ---
