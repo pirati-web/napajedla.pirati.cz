@@ -11,10 +11,9 @@ tags: 'Napajedla zastupitelstvo kontrolni-vybor'
 
 Vážení spoluobčané,
 
-přinášíme vám informace o hlasování pirátských zastupitelů v zastupitelstvu města konaného v závěru loňského roku. Proběhlo již i první zasedání Kontrolního výboru. Jednání zastupitelstva města Napajedla proběhlo 28.11.2018.
+přinášíme vám informace o hlasování pirátských zastupitelů v zastupitelstvu města konaného v závěru loňského roku. Proběhlo již i první zasedání Kontrolního výboru. 
 
-
-Naši pirátští zastupitelé ve čtyřech usneseních hlasovali proti usnesení nebo se zdrželi.
+Jednání zastupitelstva města Napajedla proběhlo 28.11.2018. Naši pirátští zastupitelé ve čtyřech usneseních hlasovali proti usnesení nebo se zdrželi.
  
 1) Schválení uzavření směnné a kupní smlouvy - lokalita Výhledy.
 Jirka Krkoška se zdržel hlasování. Předchozí zastupitelstva  uzavřela smlouvu o smlouvě budoucí na směnu stavebních pozemků města Napajedla za pozemky pod komunikacemi, které developer v dané lokalitě potřebuje k dokončení projektu Výhledy. Smlouvu považuje za nevýhodnou pro město.
