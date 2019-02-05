@@ -15,6 +15,7 @@ přinášíme vám informace o hlasování pirátských zastupitelů v zastupite
 
 
 Naši pirátští zastupitelé ve čtyřech usneseních hlasovali proti usnesení nebo se zdrželi.
+ 
 1) Schválení uzavření směnné a kupní smlouvy - lokalita Výhledy.
 Jirka Krkoška se zdržel hlasování. Předchozí zastupitelstva  uzavřela smlouvu o smlouvě budoucí na směnu stavebních pozemků města Napajedla za pozemky pod komunikacemi, které developer v dané lokalitě potřebuje k dokončení projektu Výhledy. Smlouvu považuje za nevýhodnou pro město.
 
