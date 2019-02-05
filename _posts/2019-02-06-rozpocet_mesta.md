@@ -10,6 +10,7 @@ tags: 'Napajedla zastupitelstvo kontrolni-vybor'
 ---
 
 Vážení spoluobčané,
+
 přinášíme vám informace o hlasování pirátských zastupitelů v zastupitelstvu města konaného v závěru loňského roku. Proběhlo již i první zasedání Kontrolního výboru. Jednání zastupitelstva města Napajedla proběhlo 28.11.2018.
 
 
