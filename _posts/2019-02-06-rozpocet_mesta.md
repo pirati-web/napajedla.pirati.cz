@@ -21,7 +21,7 @@ Jirka Krkoška se zdržel hlasování. Předchozí zastupitelstva  uzavřela sml
 2) Rozpočet města Napajedla na rok 2018
 Naši pirátští zastupitelé navrhli několik požadavků, ale ty se nepodařilo prosadit. 
 Tomáš Čabla navrhoval koupi pozemků pro tvorbu biokoridorů, rekonstrukci ulice Divišova (dle sdělení vedení města bude rekonstrukce provedena po obnově inženýrských sítí).
-Jirka Krkoška navrhl stavbu chodníků v průmyslové zóně (dle sdělení vedení města je příprava v jednání), zbudování nádrže na zachytávání dešťové vody ze střechy budoucího komplexu bazénu a haly. Posledním jeho návrhem byl rozklikávací rozpočet a transparentní účetnictví města s transparentním účtem (například jako v [Novém Městě na Moravě](http://rozpocet.nmnm.cz/cz/){:target="_blank"}
+Jirka Krkoška navrhl stavbu chodníků v průmyslové zóně (dle sdělení vedení města je příprava v jednání), zbudování nádrže na zachytávání dešťové vody ze střechy budoucího komplexu bazénu a haly. Posledním jeho návrhem byl rozklikávací rozpočet a transparentní účetnictví města s transparentním účtem (například jako v [Novém Městě na Moravě](http://rozpocet.nmnm.cz/cz/){:target="_blank"} ).
  Rozpočet tak čerpá z přebytků z minulých let (díky projektům které město z různých důvodů nerealizovalo)! Rozpočet města jsme proto nepodpořili. Piráti Napajedla mají jinou koncepci na budoucí rozvoj infrastruktury města.  Nejlepší řešení nových staveb pro sportovní činnost, která nebude již více zatěžovat centrum města vidíme v území kolem plánované Jižní spojky. Budeme se zasazovat o znovu navrácení změn v Územním plánu, které vytvářely rezervy pro individuální bydlení. 
 Tomáš Čabla se zdržel hlasování a Jirka Krkoška hlasoval proti rozpočtu. 
  
