@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Pozvánka na Zastupitelstvo'
+title: 'Pozvánka na zastupitelstvo'
 date: 2019-02-14T01:30:00.032Z
 author: Michal Štěpaník
 authorId: michal.stepanik
