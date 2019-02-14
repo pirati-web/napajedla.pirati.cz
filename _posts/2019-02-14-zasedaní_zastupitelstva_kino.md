@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Rozpočet města na rok 2019 a výhled 2020-23'
+title: 'Rozpočet města na rok 2019 a výhled 2020-2023'
 date: 2019-02-14T01:30:00.032Z
 author: Michal Štěpaník
 authorId: michal.stepanik
