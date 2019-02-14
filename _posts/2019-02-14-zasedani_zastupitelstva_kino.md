@@ -13,6 +13,7 @@ Ve středu 20.2.2019 proběhne další zasedání zastupitelstva města. V jedna
 
 
 K projednávaným bodům budou patřit i dvě petice: 
+
 Petice "nesouhlas s výstavbou cementárny CEMEX" a petice občanů "ul.Bartošova",
 tyto body budou projednány v kině od 18.00hod.
 
