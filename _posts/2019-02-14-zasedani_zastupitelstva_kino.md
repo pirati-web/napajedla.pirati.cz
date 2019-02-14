@@ -9,7 +9,6 @@ image: /assets/img/posts/kino1.jpg
 tags: 'Napajedla zastupitelstvo kino'
 ---
 
-Pozvánka na Zastupitelstvo.
 Ve středu 20.2.2019 proběhne další zasedání zastupitelstva města. V jednacím sále na radnici od 15.00hod.
 
 
