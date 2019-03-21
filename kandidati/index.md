@@ -10,7 +10,7 @@ ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets
 3. [**Michal Štěpaník**](/lide/michal-stepanik), 40 let, člen Kontrolního výboru města Napajedla
 
 
-Program Pirátů pro Napajedla 2018-2022
+<h2><strong>Program Pirátů pro Napajedla 2018-2022</strong></h2>
 
 ---
 
