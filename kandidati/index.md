@@ -7,7 +7,7 @@ ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets
 
 1. [**Tomáš Čabla**](/lide/tomas-cabla), 40 let, zastupitel města Napajedla
 2. [**Jiří Krkoška**](/lide/jiri-krkoska), 36 let, zastupitel města Napajedla
-3. [**Michal Štěpaník**](/lide/michal-stepanik),40 let, člen Kontrolního výboru města Napajedla
+3. [**Michal Štěpaník**](/lide/michal-stepanik), 40 let, člen Kontrolního výboru města Napajedla
 
 
 Program Pirátů pro Napajedla 2018-2022
