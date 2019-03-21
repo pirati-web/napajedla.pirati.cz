@@ -25,7 +25,6 @@ ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets
 
 ---
 title: Program Pirátů pro Napajedla 2018-2022
-rbar: ""
 ---
 
 <h2><strong><em>&ldquo;Město nevl&aacute;dne občanům, ale občan&eacute; vl&aacute;dnou městu.&rdquo;</em></strong></h2>
