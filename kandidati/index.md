@@ -24,7 +24,10 @@ ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets
 17. **Hana Čablová**, 62 let, důchodkyně
 
 ---
+layout: page
 title: Program Pirátů pro Napajedla 2018-2022
+rbar: ""
+ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbprogramx.jpg
 ---
 
 <h2><strong><em>&ldquo;Město nevl&aacute;dne občanům, ale občan&eacute; vl&aacute;dnou městu.&rdquo;</em></strong></h2>
