@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pirátští kandidáti do zastupitelstva města Napajedla
+title: Piráti v Napajedlích
 rbar: ""
 ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidatix.jpg
 ---
