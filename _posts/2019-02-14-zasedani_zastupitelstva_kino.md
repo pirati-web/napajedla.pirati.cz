@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Pozvánka na 3.zastupitelstvo volebního období 2018-2022'
+title: 'Pozvánka na 3. zastupitelstvo volebního období 2018-2022'
 date: 2019-02-14T01:30:00.032Z
 author: Michal Štěpaník
 authorId: michal.stepanik
