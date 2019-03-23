@@ -6,7 +6,7 @@ date: 2019-03-22T01:30:00.032Z
 author: Tomáš Čabla
 authorId: tomas.cabla
 image: /assets/img/posts/radnice1.jpg
-tags: 'Napajedla zastupitelstvo kontrolni-vybor'
+tags: 'Napajedla zastupitelstvo'
 ---
 
 Vážení spoluobčané, přinášíme vám informace o hlasování pirátských zastupitelů v zastupitelstvu města konaného dne 20.2. 2019.
