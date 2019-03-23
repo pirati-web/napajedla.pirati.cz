@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: '3. zasedání zastupitelstva 20.2.2019'
-date: 2019-02-05T01:30:00.032Z
+date: 2019-03-22T01:30:00.032Z
 author: Tomáš Čabla
 authorId: tomas.cabla
 image: /assets/img/posts/radnice1.jpg
