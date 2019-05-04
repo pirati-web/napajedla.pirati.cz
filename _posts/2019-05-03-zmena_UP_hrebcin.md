@@ -17,6 +17,10 @@ Za zmínku ještě stojí i další návrh na změnu využití pozemků v lokali
 
 Videoreportáž na Seznam TV je [zde](https://www.seznamzpravy.cz/clanek/slavny-hrebcin-v-ohrozeni-cast-pastvin-kde-vyrustaji-sampioni-dostihu-se-ma-zmenit-na-bytovky-71521?utm_source=Seznamzpravy_static&utm_medium=Zpravy_dne_sidebar&utm_campaign=&autoplay=1){:target="_blank"}.
 
+Fotky stromů jsou [zde](https://drive.google.com/drive/folders/1-4tA5OYgZw3A6i4gc4bmsd1mnCRymiNA){:target="_blank"}.
+
+
+
 
 
 
