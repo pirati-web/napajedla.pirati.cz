@@ -5,7 +5,7 @@ title: '4. zasedání zastupitelstva 23.4.2019 -změny v ÚP'
 date: 2019-05-03T01:30:00.032Z
 author: mediální odbor
 authorId: 
-image: /assets/img/posts/radnice1.jpg
+image: /assets/img/posts/hrebcin.jpg
 tags: 'Napajedla zastupitelstvo hrebcin uzemni-plan'
 ---
 Ve středu 24. dubna 2019 proběhlo další zasedání zastupitelstva města Napajedla.  Nejdelší diskuze proběhla u bodu č. 2 a tím byl Návrh na pořízení změny Územního plánu Napajedla (ÚPN) zkráceným postupem. 
