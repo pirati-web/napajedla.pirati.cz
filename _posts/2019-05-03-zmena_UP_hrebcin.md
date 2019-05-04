@@ -6,7 +6,7 @@ date: 2019-05-03T01:30:00.032Z
 author: Jiří Krkoška
 authorId: jiri.krkoska
 image: /assets/img/posts/hrebcin.jpg
-tags: 'Napajedla zastupitelstvo hrebcin uzemni-plan'
+tags: 'Napajedla zastupitelstvo zámek hřebčín uzemní-plán'
 ---
 Ve středu 24. dubna 2019 proběhlo další zasedání zastupitelstva města Napajedla.  Nejdelší diskuze proběhla u bodu č. 2 a tím byl Návrh na pořízení změny Územního plánu Napajedla (ÚPN) zkráceným postupem. 
 Piráti Napajedla navrhli zastupitelstvu, aby o jednotlivých lokalitách v tomto návrhu bylo hlasováno samostatně a ne jako celku. Některé lokality jsme podpořit chtěli, ale koaliční zastupitelé odhlasovali, že se bude o návrhu hlasovat jako celku.
