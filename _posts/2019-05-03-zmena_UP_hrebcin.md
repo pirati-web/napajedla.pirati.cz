@@ -15,8 +15,7 @@ Naši zastupitelé hlasovali proti změně územního plánu, který z lokality 
 
 Za zmínku ještě stojí i další návrh na změnu využití pozemků v lokalitě Pahrbek, kde přítomní majitelé 4 domů prohlásili, že domy kupovali od firmy ARCHKES a.s jako rodinné (byli takto prezentovány v reklamách na koupi), ale koupili si ubytovací zařízení na pozemcích zemědělských. Změna ÚPN tak napravuje tenhle „podvod“ na majitele nemovitostí. Členem představenstva firmy je pan Rostislav Kotásek, člen Kontrolního výboru zastupitelstva města Napajedla a ODS.
 
- 
-
+Videoreportáž na Seznam TV je [zde](https://www.seznamzpravy.cz/clanek/slavny-hrebcin-v-ohrozeni-cast-pastvin-kde-vyrustaji-sampioni-dostihu-se-ma-zmenit-na-bytovky-71521?utm_source=Seznamzpravy_static&utm_medium=Zpravy_dne_sidebar&utm_campaign=&autoplay=1){:target="_blank"}.
 
 
 
