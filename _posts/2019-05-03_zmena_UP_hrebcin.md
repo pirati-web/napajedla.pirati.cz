@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: '4. zasedání zastupitelstva 23.4.2019 -změny v ÚP'
 date: 2019-05-03T01:30:00.032Z
-author: Michal Štěpaník
-authorId: michal.stepanik
+author: mediální odbor
+authorId: 
 image: /assets/img/posts/radnice1.jpg
 tags: 'Napajedla zastupitelstvo'
 ---
