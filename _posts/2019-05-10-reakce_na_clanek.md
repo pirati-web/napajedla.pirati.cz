@@ -25,7 +25,7 @@ Slovní záznam zastupitele:
 
 [Zde je zápis z jednání na úřední desce města](https://www.napajedla.cz/urednideska/1644/ZM%20%C4%8D._04%20dne%2024.04.2019.pdf){:target="_blank"}
 
-V hlasování č.8 **Pořízení změny č. 1 Územního plánu Napajedla zkráceným postupem podle ust. § 55a stavebního zákona** jsme hlasovali volbou “zdržel se” to je naším postojem proti předkládaném návrhu jako celku.
+V hlasování č.8 **Pořízení změny č. 1 Územního plánu Napajedla zkráceným postupem podle ust. § 55a stavebního zákona** jsme hlasovali volbou “zdržel se”, ta je naším postojem proti předkládaném návrhu jako celku.
 S bytovou výstavbou nesouhlasíme, neboť si myslíme, že majitelé již dříve mohli učinit i jiné kroky, které by vedly k zachování areálu hřebčína jako celku. Bez tohoto pokusu o „záchranu“ financování jeho chodu. Hřebčín Napajedla považujeme za kulturní dědictví.
 
 
