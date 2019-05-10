@@ -25,7 +25,7 @@ Mrkněte na video a dozvíte se více.....
 
 
 
-
+---
 Postup pořízení změny Územního plánu zkráceným postupem je [zde](https://drive.google.com/file/d/1U_XP3olt4RVn3_i-EeiNIkU3DMStZn6R/view?usp=sharing){:target="_blank"}.
 
 Náš YouTube kanál naleznete [zde](https://www.youtube.com/channel/UCgoN2Mo3r-xe0iO6N5HRWHA){:target="_blank"}
