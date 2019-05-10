@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Upřesnění na náš článek ze zasedání zastupitelstva 24.4.2019'
-date: 2018-05-03T01:30:00.032Z
+date: 2018-05-10T15:30:00.032Z
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/upn.jpg
