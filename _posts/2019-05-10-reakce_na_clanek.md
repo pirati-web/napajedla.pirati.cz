@@ -19,7 +19,7 @@ V hlasování č.8 **Pořízení změny č. 1 Územního plánu Napajedla zkrác
 S bytovou výstavbou nesouhlasíme, neboť si myslíme, že majitelé již dříve mohli učinit i jiné kroky, které by vedly k zachování areálu hřebčína jako celku. Bez tohoto pokusu o „záchranu“ financování jeho chodu. Hřebčín Napajedla považujeme za kulturní dědictví.
 
 Slovní záznam zastupitele: 
-Mrkněte na video a dozvíte se více.....
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/He1OBnI4pWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
