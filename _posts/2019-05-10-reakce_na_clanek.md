@@ -15,7 +15,7 @@ tags: 'Napajedla zastupitelstvo hřebčín uzemní-plán'
 [Zde je zápis z jednání na úřední desce města](https://www.napajedla.cz/urednideska/1644/ZM%20%C4%8D._04%20dne%2024.04.2019.pdf){:target="_blank"}.
 
 
-V hlasování č.8 Pořízení změny č. 1 Územního plánu Napajedla zkráceným postupem podle ust. § 55a stavebního zákona jsme hlasovali volbou “zdržel se” to je naším postojem proti předkládaném návrhu jako celku.
+V hlasování č.8 **Pořízení změny č. 1 Územního plánu Napajedla zkráceným postupem podle ust. § 55a stavebního zákona** jsme hlasovali volbou “zdržel se” to je naším postojem proti předkládaném návrhu jako celku.
 S bytovou výstavbou nesouhlasíme, neboť si myslíme, že majitelé již dříve mohli učinit i jiné kroky, které by vedly k zachování areálu hřebčína jako celku. Bez tohoto pokusu o „záchranu“ financování jeho chodu. Hřebčín Napajedla považujeme za kulturní dědictví.
 
 Slovní záznam zastupitele: 
@@ -24,7 +24,9 @@ Mrkněte na video a dozvíte se více.....
 <iframe width="560" height="315" src="https://www.youtube.com/embed/He1OBnI4pWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Postup pořízení změny Územního plánu zkráceným postupem je [zde](https://drive.google.com/file/d/1U_XP3olt4RVn3_i-EeiNIkU3DMStZn6R/view?usp=sharing){:target="_blank"}.zde: 
+
+
+Postup pořízení změny Územního plánu zkráceným postupem je [zde](https://drive.google.com/file/d/1U_XP3olt4RVn3_i-EeiNIkU3DMStZn6R/view?usp=sharing){:target="_blank"}.
 
 Náš YouTube kanál naleznete [zde](https://www.youtube.com/channel/UCgoN2Mo3r-xe0iO6N5HRWHA){:target="_blank"}
 
