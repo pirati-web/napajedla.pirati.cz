@@ -12,7 +12,7 @@ tags: 'Napajedla zastupitelstvo hřebčín uzemní-plán'
 
 24.4.2019 na veřejném jednání zastupitelstva jsme měli hlasovat o mnoha rozdílných návrzích v jednom balíku. Náš návrh, aby bylo o jednotlivých návrzích hlasováno samostatně podpořili jen 3 zastupitelé, s námi tedy 5. Dva se zdrželi. O tom se můžete přesvědčit v zápisu z jednání zastupitelstva na webových stránkách města (hlasování č.7)
 
-[zde zápis z jednání na úřední desce](https://www.napajedla.cz/urednideska/1644/ZM%20%C4%8D._04%20dne%2024.04.2019.pdf){:target="_blank"}.
+[Zde je zápis z jednání na úřední desce města](https://www.napajedla.cz/urednideska/1644/ZM%20%C4%8D._04%20dne%2024.04.2019.pdf){:target="_blank"}.
 
 
 V hlasování č.8 Pořízení změny č. 1 Územního plánu Napajedla zkráceným postupem podle ust. § 55a stavebního zákona jsme hlasovali volbou “zdržel se” to je naším postojem proti předkládaném návrhu jako celku.
