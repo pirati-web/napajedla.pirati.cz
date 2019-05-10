@@ -8,7 +8,7 @@ authorId: michal.stepanik
 image: /assets/img/posts/upn.jpg
 tags: 'Napajedla zastupitelstvo hřebčín uzemní-plán'
 ---
-Bytová výstavba v areálu hřebčína? Lokalita Pahrbek a požadavky Správy železniční dopravní cesty jdou tyto návrhy dohromady? My si myslíme že NE, že je důležité hlasovat a projednávat jednotlivě. Důležité informace pro občany Napajedel.
+**Bytová výstavba v areálu hřebčína? Lokalita Pahrbek a požadavky Správy železniční dopravní cesty. Jdou tyto návrhy dohromady? My si myslíme že NE, že je důležité hlasovat a projednávat návrhy jednotlivě.**
 
 24.4.2019 na veřejném jednání zastupitelstva jsme měli hlasovat o mnoha rozdílných návrzích v jednom balíku. Náš návrh, aby bylo o jednotlivých návrzích hlasováno samostatně podpořili jen 3 zastupitelé, s námi tedy 5. Dva se zdrželi. O tom se můžete přesvědčit v zápisu z jednání zastupitelstva na webových stránkách města (hlasování č.7)
 
