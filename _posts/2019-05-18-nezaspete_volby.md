@@ -4,7 +4,7 @@ category:     blog
 tags:         celostátní volby evropská-unie
 layout:       post
 title:        "Piráti v hudebním klipu vyzývají: Nezaspěte volby"
-image:        /assets/img/posts/nazaspete.jpg
+image: /assets/img/posts/nezaspete.jpg
 author:       Mediální odbor
 ---
 
