@@ -6,6 +6,8 @@ date: 2019-06-17T01:30:00.032Z
 author: mediální odbor
 image: /assets/img/posts/zastup.jpg
 tags: 'Napajedla zastupitelstvo kino'
+
+
  
 
 **Nestyďte se za své hlasování, vyzývají Piráti**
