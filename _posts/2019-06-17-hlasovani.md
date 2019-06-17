@@ -16,6 +16,7 @@ Piráti plní předvolební sliby, chtějí více ztransparentnit rozhodovací p
 V mnoha městech jsou občané již zvyklí kdykoliv se podívat na zasedání jejich místního zastupitelstva ze záznamu. Díky Pirátskému návrhu to bude možné i v Napajedlích.
 
 > „Doposud měli občané možnost sledovat Zastupitelstvo prostřednictvím místní televize nebo online pouze v době konání Zastupitelstva. Pokud však někoho zpětně zajímala jakákoliv fakta, tak ze samotných zápisů toho moc nevyčetl. Díky našemu návrhu se už žádné podstatné informace ze zápisu nevytrousí,“ říká předkladatel návrhu Tomáš Čabla. 
+
 Součástí tohoto návrhu je povinnost, aby se zvukový záznam stal nedílnou součástí zápisu.
 
 
