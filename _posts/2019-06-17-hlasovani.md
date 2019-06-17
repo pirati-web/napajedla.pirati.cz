@@ -4,7 +4,7 @@ category:     blog
 tags:         zastupitelstvo
 layout:       post
 title:        "Nestyďte se za své hlasování, vyzývají Piráti"
-image:        /assets/img/posts/start-kampane-nod.JPG
+image:        /assets/img/posts/zastup.jpg
 author:       Mediální odbor
 ---
  
