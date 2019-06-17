@@ -1,5 +1,4 @@
----
-date:         2019-06-17
+date:         2019-06-17T01:30:00.032Z
 category:     blog
 tags:         zastupitelstvo
 layout:       post
