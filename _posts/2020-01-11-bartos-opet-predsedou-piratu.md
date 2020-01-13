@@ -4,7 +4,7 @@ category:     blog
 tags:         piráti celostátní
 layout:       post
 title:        "Ivan Bartoš obhájil post předsedy Pirátů"
-image:        /assets/img/posts/bartos-pikal-ferjencik.JPG
+image:        /assets/img/posts/bartos-pikal-ferjencik.jpg
 author:       Mediální odbor
 ---
 
