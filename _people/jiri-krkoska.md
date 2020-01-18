@@ -1,7 +1,7 @@
 ---
 uid: jiri.krkoska
-name:     Jiří Krkoška  	# běžně používáné jméno
-fullname: Jiří Krkoška  	# jméno s tituly etc.
+name:     Jiří K.  	# běžně používáné jméno
+fullname: Jiří K.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
