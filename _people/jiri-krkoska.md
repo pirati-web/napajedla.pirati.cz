@@ -9,7 +9,7 @@ img: people/jirka.jpg   # 165 x 220
 description: technik elektronik<br>zastupitel města # kratký popis, max 160 znaků
 ---
 
-Jiří Krkoška (*26. srpna 1982, Zlín) je zastupitelem města Napajedla, nezávislým kandidátem.
+Jiří K. (*1982, Zlín) je zastupitelem města Napajedla, nezávislým kandidátem.
 
 Svůj profesní život započal jako zaměstnanec Ministerstva obrany a obdobné činnosti se věnoval jako člen aktivních záloh. Po ukončení jedné etapy života se věnuje technickým řešením v oblasti aplikací automatizačních technologií do výrobních procesů.
 
