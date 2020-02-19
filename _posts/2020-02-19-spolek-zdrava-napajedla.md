@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Piráti vítají iniciativu spolku Zdravá Napajedla'
-date: 2020-02-019
+date: 2020-02-19
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/sazimestromy.jpg
