@@ -8,8 +8,7 @@ category:                   # kategorie: clenove
 img: people/michal.jpg   # 165 x 220
 description: elektrotechnik<br>zastupitel města od února 2020<br>člen kontrolního výboru # kratký popis, max 160 znaků
 mail:
-- michal.stepanik@pirati.cz
-- stepanik@napajedla.cz
+- michal.stepanik@pirati.cz<br>stepanik@napajedla.cz
 profiles:
   facebook: https://www.facebook.com/stepanik.michal
 ordkontakty: 1
