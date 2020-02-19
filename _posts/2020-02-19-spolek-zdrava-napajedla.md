@@ -10,5 +10,6 @@ tags: 'napajedla zdravá-napajedla životní-prostředí'
 ---
 Piráti Napajedla vítají iniciativu spolku Zdravá Napajedla a zvou všechny komu není lhostejné prostředí v jakém žijeme na jejich akci.
 
-Více informací o termínu sázení a místech výsadby najdete na webu Zdravých Napajedel.
+
+Více informací o termínu sázení a místech výsadby najdete na webu [Zdravých Napajedel](https://www.https://www.zdravanapajedla.cz/sazime-budoucnost-stromy-pro-napajedla/){:target="_blank"}
 ---
