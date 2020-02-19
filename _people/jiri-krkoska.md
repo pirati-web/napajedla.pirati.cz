@@ -6,10 +6,10 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/jirka.jpg   # 165 x 220
-description: technik elektronik<br>zastupitel města # kratký popis, max 160 znaků
+description: technik elektronik<br>zastupitel města 2018-2020  # kratký popis, max 160 znaků
 ---
 
-Jiří K. (*1982, Zlín) je zastupitelem města Napajedla, nezávislým kandidátem.
+Jiří K. (*1982, Zlín) byl zastupitelem města Napajedla od října 2018 do února 2020, nezávislým kandidátem.
 
 Svůj profesní život započal jako zaměstnanec Ministerstva obrany a obdobné činnosti se věnoval jako člen aktivních záloh. Po ukončení jedné etapy života se věnuje technickým řešením v oblasti aplikací automatizačních technologií do výrobních procesů.
 
