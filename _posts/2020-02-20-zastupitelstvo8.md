@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Pozvánka na 8. zastupitelstvo volebního období 2018-2022'
-date: 2012-02-21T11:30:00.032Z
+date: 2012-02-22T11:30:00.032Z
 author: Tomáš Čabla
 authorId: tomas.cabla
 image: /assets/img/posts/pozvanka8.jpg
@@ -13,12 +13,12 @@ Ve středu 26.2.2020 proběhne další zasedání zastupitelstva města. V jedna
 
 
 Program jednání:
-A) ÚVODNÍ ČÁST
-1 – Zahájení, slib nového člena ZM
-2 - Schválení zápisu z minulého zasedání
-3 - Volba návrhové komise
-4 - Stanovení ověřovatelů zápisu
-5 - Schválení programu
+A) ÚVODNÍ ČÁST 
+1 – Zahájení, slib nového člena ZM 
+2 - Schválení zápisu z minulého zasedání 
+3 - Volba návrhové komise 
+4 - Stanovení ověřovatelů zápisu 
+5 - Schválení programu 
 
 B) PROJEDNÁNÍ PŘEDKLÁDANÝCH ZPRÁV
 1 - Uzavření kupní smlouvy na odkoupení spoluvlastnického podílu k pozemkům pod bytovým
