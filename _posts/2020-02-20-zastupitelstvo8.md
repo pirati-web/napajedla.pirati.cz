@@ -12,7 +12,7 @@ tags: 'Napajedla zastupitelstvo'
 Ve středu 26.2.2020 proběhne další zasedání zastupitelstva města. V jednacím sále na radnici od 15.00hod. **Jednání se nově zůčastní Michal Štěpaník, který převzal mandát po odstoupení Jiřího Krkošky, který odstoupil ze zdravotních důvodů.** Jirkovi přejeme brzké uzdravení a děkujeme za dosud odvedenou práci v zastupitelstvu.
 
 
-##**Program jednání:**
+## **Program jednání:**
 
 **A) ÚVODNÍ ČÁST** 
 
