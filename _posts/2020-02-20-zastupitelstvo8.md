@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Pozvánka na 8. zastupitelstvo volebního období 2018-2022'
-date: 2012-02-22T11:30:00.032Z
+date: 2012-02-21T04:30:00.032Z
 author: Tomáš Čabla
 authorId: tomas.cabla
 image: /assets/img/posts/pozvanka8.jpg
