@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Vedení Napajedelské radnice si odhlasovalo mimořádné odměny, Piráti jsou proti.'
+title: 'Vedení napajedelské radnice si odhlasovalo mimořádné odměny, Piráti jsou proti.'
 date: 2020-02-27
 author: Jaromír Horký
 authorId: jaromir.horky
