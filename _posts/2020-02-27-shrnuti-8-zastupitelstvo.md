@@ -16,7 +16,7 @@ Mimořádné odměny je možné přiznat za splnění mimořádných nebo zvlá�
 
 komentuje pirátský zastupitel Michal Štěpaník.
 
-Piráti z Napajedel nevidí žádný důvod k vyplacení mimořádných odměn nad rámec pravidelné měsíční odměny. V jiných městech Zlínského kraje není tato praxe běžná a odměny nejsou tímto způsobem vypláceny. Zeptali jsme se třeba pirátského místostarosty města Kroměříže Vratislav Krejčíře, jak pohlíží na mimořádnou odměnu on.
+Piráti z Napajedel nevidí žádný důvod k vyplacení mimořádných odměn nad rámec pravidelné měsíční odměny. V jiných městech Zlínského kraje není tato praxe běžná a odměny nejsou tímto způsobem vypláceny. **Zeptali jsme se třeba pirátského místostarosty města Kroměříže Vratislav Krejčíře,** jak pohlíží na mimořádnou odměnu on.
 > „Uvolněný politik veřejnou funkci vykonává 24 hodin, 7 dní v týdnu a v souladu s ustanovením §103 zákona o obcích je jeho hlavním posláním reprezentovat město a starat se o něj, účastnit se jednání, komisí, návštěv atd.“ 
 
 a dodává: 
