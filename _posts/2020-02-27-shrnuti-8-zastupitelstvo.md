@@ -8,7 +8,8 @@ authorId: jaromir.horky
 image: /assets/img/posts/zastup8.jpg  
 tags: 'napajedla zastupitelstvo'
 ---
-Napajedla, 27.2.2020 – *Na středečním zasedání Zastupitelstva města Napajedla byl koaliční vládou schválen návrh na udělení mimořádné odměny v celkové výši převyšující 130 tisíc korun. Tato odměna byla přidělena starostce Ireně Brabcové a místostarostovi Zbyňkovi Ohnoutkovi. Podle Pirátských zastupitelů a zkušeností z jiných obcí Zlínského kraje jde pouze o další účelové vysávání městské kasy.** 
+Napajedla, 27.2.2020 – **Na středečním zasedání Zastupitelstva města Napajedla byl koaliční vládou schválen návrh na udělení mimořádné odměny v celkové výši převyšující 130 tisíc korun. Tato odměna byla přidělena starostce Ireně Brabcové a místostarostovi Zbyňkovi Ohnoutkovi. Podle Pirátských zastupitelů a zkušeností z jiných obcí Zlínského kraje jde pouze o další účelové vysávání městské kasy.** 
+
 Mimořádné odměny je možné přiznat za splnění mimořádných nebo zvláště významných úkolů obce. Starosta i místostarosta obce má především reprezentovat a zastupovat obec navenek, to např. při slavnostních, formálních příležitostech, ale též při právních jednáních.
 
 > „Je tedy třeba jejich účast při rozsvěcování vánočního stromu nebo jiné kulturní akce tím mimořádným úkolem? Není to ani pracovní jednání při stavbě dálnice D55 nebo pomoc při přípravě kulturních akcí, stejně tak to, že obec dosáhla dobrého hospodářského výsledku. Je to jejich povinnost a normální pracovní náplň,” komentuje pirátský zastupitel Michal Štěpaník.
