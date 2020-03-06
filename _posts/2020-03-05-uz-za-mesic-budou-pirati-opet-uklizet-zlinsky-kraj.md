@@ -11,6 +11,10 @@ tags: 'zlinsky-kraj uklidme-cesko hana-ancincova michal-stepanik denis-rychtar j
 Piráti ze Zlínského kraje se již 6. rokem účastní dobrovolnické eko-kampaně „Ukliďme svět, ukliďme Česko!“ Cílem akce je nejen uklidit naše okolí, ale i ve společné věci zapojit různé zájmové skupiny lidí, např. školáky, vysokoškoláky, úředníky, skauty, pejskaře či politiky. A taktéž mediálně zviditelnit dlouhodobě neřešenou problematiku černých skládek a odhazování odpadků.
  
 Hlavní termín letošní akce je v sobotu 4. dubna, řada úklidů se však uskuteční i mimo tento termín.
+
+**[Napajedla](https://www.facebook.com/events/241845786841164/){:target="_blank"}**:
+
+V Napajedlích se Piráti sejdou v hlavní úklidovou sobotu v 9 hodin na Chmelnickém mostu. *„Projdeme řeku Moravu od Chmelnického mostu po Pahrbek a uklidíme i břehy,”* komentuje úklid zastupitel **Michal Štěpaník**.
  
 **[Střítež nad Bečvou](https://www.facebook.com/events/131071381521967/){:target="_blank"}**:
 
@@ -28,9 +32,6 @@ Piráti v Kroměříži vsadili na hlas lidu, sami totiž navrhovali a rozhodova
 
 Na úklid v čele s poslancem! Piráti z Uherského Hradiště se vydají uklízet na Výšinu svatého Metoděje přímo v centru města. *„Úklidu se v Uherském Hradišti účastním pravidelně a jsem velmi rád, že i díky naší osvětě, kterou se snažíme provádět, vnímá své okolí a čistotu okolí čím dál více lidí. Je to velmi pozitivní. Uklízet budeme okolí "Vykopávek", kde najdete jednu z nejhezčích vyhlídek na naše krásné město,”* říká poslanec **František Elfmark**, jenž se organizace úklidu zhostil. 
 
-**[Napajedla](https://www.facebook.com/events/241845786841164/){:target="_blank"}**:
-
-V Napajedlích se Piráti sejdou v hlavní úklidovou sobotu v 9 hodin na Chmelnickém mostu. *„Projdeme řeku Moravu od Chmelnického mostu po Pahrbek a uklidíme i břehy,”* komentuje úklid zastupitel **Michal Štěpaník**.
 
 **[Vizovice](https://www.facebook.com/events/208518277186011/){:target="_blank"}**:
 
