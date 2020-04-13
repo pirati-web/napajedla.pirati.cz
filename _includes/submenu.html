@@ -1,18 +1,16 @@
-{% if page.url contains 'volby-2018' %}
+{% if page.url contains 'krajske-volby' %}
 <nav class="c-top-sub-nav u-center-860-down">
   <div class="row">
     <div class="c-top-sub-nav-inner">
       <div class="u-cf">
-        <div class="c-top-sub-nav-header">
-          <div class="c-top-sub-nav__heading"> Volby 2018 </div>
-        </div>
+        
         <div class="c-top-sub-nav-divider"></div>
         <ul class="c-top-sub-nav-items">
           <li class="c-top-sub-nav__item">
-            <a href="{{'/volby-2018/program.html' | relative_url }}"> Program </a>
+            <a href="{{'/krajske-volby/kandidati.html' | relative_url }}"> Kandidáti </a>
           </li>
           <li class="c-top-sub-nav__item">
-            <a href="{{'/volby-2018/kandidati.html' | relative_url }}"> Kandidáti </a>
+            <a href="{{'/krajske-volby/program.html' | relative_url }}"> Program </a>
           </li>
         </ul>
       </div>
@@ -20,3 +18,4 @@
   </div>
 </nav>
 {% endif %}
+
