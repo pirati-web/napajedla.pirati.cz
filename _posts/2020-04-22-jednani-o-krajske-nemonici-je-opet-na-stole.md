@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Jednání o nové krajské nemocnici je opět na stole. Mezi odbory a vedením to vře'
-date: 2020-04-11
+date: 2020-04-16
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/kntb.jpg
