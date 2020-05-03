@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Pozvánka na 9. zastupitelstvo volebního období 2018-2022'
-date: 2020-03-05T01:30:00.032Z
+date: 2020-05-03
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/radnicni-dvur.jpg
@@ -19,15 +19,15 @@ Jednání bude probíhat za dodržení podmínek, které ukládá vláda České
 
 **ÚVODNÍ ČÁST**
 
-1. - Zahájení, slib nového člena ZM
+1 - Zahájení, slib nového člena ZM
 
-2. - Schválení zápisu z minulého zasedání
+2 - Schválení zápisu z minulého zasedání
 
-3. - Volba návrhové komise
+3 - Volba návrhové komise
 
-4. - Stanovení ověřovatelů zápisu
+4 - Stanovení ověřovatelů zápisu
 
-5. - Schválení programu
+5 - Schválení programu
 
 **PROJEDNÁNÍ PŘEDKLÁDANÝCH ZPRÁV**
 
@@ -51,9 +51,9 @@ Jednání bude probíhat za dodržení podmínek, které ukládá vláda České
 
 **ZÁVĚREČNÁ ČÁST**
 
-15. - Diskuse
+15 - Diskuse
 
-16. - Závěr
+16 - Závěr
 
 
 Přijďte na veřejné zasedání! 
