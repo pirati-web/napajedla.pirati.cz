@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Pozvánka na 8. zastupitelstvo volebního období 2018-2022'
+title: 'Pozvánka na 9. zastupitelstvo volebního období 2018-2022'
 date: 2020-03-05T01:30:00.032Z
 author: Michal Štěpaník
 authorId: michal.stepanik
@@ -9,15 +9,15 @@ image: /assets/img/posts/radnicni-dvur.jpg
 tags: 'Napajedla zastupitelstvo radnice'
 ---
 
-Mimořádně v pondělí 11.5.2020 proběhne další zasedání zastupitelstva města.Tentokrát na radničním dvoře od 15.00hod, jedníní nebude přenášeno NTV Cable ani přes Youtube kanál. 
+**Mimořádně v pondělí 11.5.2020 proběhne další, tentokrát 9.té zasedání zastupitelstva města. Tentokrát na radničním dvoře od 15.00hod, jedníní nebude přenášeno NTV Cable ani přes Youtube kanál.** 
 
 Zasedání zastupitelstva města jsou veřejná!
 
 Jednání bude probíhat za dodržení podmínek, které ukládá vláda České republiky sbírkou zákonů č. 151, usnesením č. 388 ze dne 6. dubna 2020 o přijetí krizového opatření. (Je přílohou pozvánky.)
 
-*Program:*
+**Program:**
 
-*ÚVODNÍ ČÁST*
+**ÚVODNÍ ČÁST**
 
 1. - Zahájení, slib nového člena ZM
 
@@ -29,7 +29,7 @@ Jednání bude probíhat za dodržení podmínek, které ukládá vláda České
 
 5. - Schválení programu
 
-*PROJEDNÁNÍ PŘEDKLÁDANÝCH ZPRÁV*
+**PROJEDNÁNÍ PŘEDKLÁDANÝCH ZPRÁV**
 
 6 - Uzavření kupních smluv na odkoupení spoluvlastnických podílů k pozemkům pod bytovým domem na ulici Zábraní a Nábřeží v k. ú. Napajedla
 
@@ -49,7 +49,7 @@ Jednání bude probíhat za dodržení podmínek, které ukládá vláda České
 
 14 - Pozvánka na valnou hromadu VaK Zlín, a.s.
 
-*ZÁVĚREČNÁ ČÁST*
+**ZÁVĚREČNÁ ČÁST**
 
 15. - Diskuse
 
