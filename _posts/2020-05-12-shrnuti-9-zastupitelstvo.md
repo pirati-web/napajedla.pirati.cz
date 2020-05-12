@@ -8,7 +8,7 @@ authorId: tomas.cabla
 image: /assets/img/posts/zastup9.jpg  
 tags: 'napajedla zastupitelstvo VAK SFZP'
 ---
-**Jednání zastupitelstva města (ZM) proběhlo netradičně na radničním nádvoří díky ochraně před možnou nákazou nemocí COVID-19, ale taktéž místo středy již v pondělí k kvůli Valné hromadě (VH) VaK Zlín, město Napajedla je akcionářem společnosti.** 
+**9.té jednání zastupitelstva města (ZM) proběhlo netradičně 11.5.2020 na radničním nádvoří díky ochraně před možnou nákazou nemocí COVID-19, ale taktéž místo středy již v pondělí k kvůli Valné hromadě (VH) VaK Zlín, město Napajedla je akcionářem společnosti.** 
 
 Slib zastupitele podepsal nový zastupitel Pavel Ratiborský ml., který vystřídal Romana Kuču za volební uskupení Mladí za Napajedla. Při schvalování programu jednání **došlo k hlasování o zařazení námi předloženého bodu týkajícího se změny Územního plánu v lokalitě Pahrbek, Jižní spojka. Zastupitelé však byli proti zařazení, dostali jsme však příslib k dalšímu jednání v červnu.** Úvodní body programu patřili majetkovým smlouvám a dotacím a oba pirátští zastupitelé hlasovali v souladu s většinou a souhlasili s navrženými usneseními. Posledním bodem programu byla delegace člena zastupitelstva na VH VaK Zlín.
 
