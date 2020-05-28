@@ -10,7 +10,7 @@ tags: 'napajedla zastupitelstvo VAK'
 ---
 Na začátku jednání, při volbě lidí do představenstva (PŘ) a dozorčí rady (DR), nominovaní odmítli odpovídat akcionářům na otázky. Přišlo i na soudní líčení mezi panem Březíkem a jedním z akcionářů, za výrok jenž uvedl na jeho osobu, cituji: „ pan Březík je lhář, největší lhář, podvodník a manipulátor“. Soud pan Březík prohrál. Jednalo se o vyvrácení lží a manipulací, které pan Březík přednesl na jednání zastupitelstva města Zlína.  
 
-Dále jsme vyslechli pana Březíka, hovořil o  výroční zprávě [odkaz](https://www.vakzlin.cz/spolecnost/valne-hromady){:target="_blank"}.
+Dále jsme vyslechli pana Březíka, hovořil o [výroční zprávě](https://www.vakzlin.cz/spolecnost/valne-hromady){:target="_blank"}.
 
 Sdělil nám své  plány pro obnovu kanalizací, ekologie čistíren odpadních vod a vytvoření bezpečnostního systému proti internetovým hackerům, jenž každý týden  napadají jednu společnost VaK v ČR a je třeba řešit tento problém. Je vytvořen exit společnosti a v představenstvu je to téma, které leží na stole, řeší se mediace mezi Otrokovicemi, Fryštákem, VaK Zlín a Moravskou vodárenskou a.s., bohužel bez detailů pro veřejnost. Je možné, že smlouva skončí dříve než v roce 2034. Pro PŘ je zásadní, zajistit dostatek vody. A je to priorita. Vzpomněl výročí 95 let od prvního vodovodu ve Zlíně za fungování Tomáše Bati a je si jistý prací představenstva a jeho postupem za společným zájmem zhodnocovat akcie VaK Zlín.
 
