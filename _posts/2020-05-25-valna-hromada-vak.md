@@ -17,19 +17,20 @@ Sdělil nám své  plány pro obnovu kanalizací, ekologie čistíren odpadních
 Předseda dozorčí rady sdělil, že rada je šestičlenná, celkem zasedali 8x ročně  ke kontrolní činnosti a vždy dva členové se zúčastnili i schůzí představenstva VaK Zlín. DR nezjistila žádné nedostatky!
 
 Co ovšem bylo zajímavé nejen pro Napajedla, tak zástupce Jižní vodárenské a.s., prohlásil:
-že zastupuje obec Hvozdnou. 
-že dalších 12 obcí nevykonává své akcionářské práva.
-že je domluvený se Statutárním městem Zlín (SMZ), které od Jižní vodárenské a.s. tyto práva odkoupí.
+ že zastupuje obec Hvozdnou. 
+ že dalších 12 obcí nevykonává své akcionářské práva.
+ že je domluvený se Statutárním městem Zlín (SMZ), které od Jižní vodárenské a.s. tyto práva odkoupí.
 
 
 **Je nutné podotknout, že malým obcím zbyli dvě akcie když o zbytek akcií je nedovoleným způsobem obcházející zákon  v roce 2001-2002 připravili SMZ, Jižní vodárenská a.s. a Česká spořitelna a.s. a ovládli naši vodárenskou společnost VaK Zlín.** Piráti Napajedla se nediví obcím, že jednání Valné hromady berou jako ztrátu času.
 
 Jeden z akcionářů vytkl předsedovi představenstva p. Březíkovi, že manipuluje s procenty akcionářů, kteří podporují kroky vedení VaK Zlín, a.s. Záměrně se zaměňuje pojem % akcionářů a % z hlasů přítomných na Valné hromadě! Tedy, pokud pan Březík ve výroční zprávě uvádí, že na Valné hromadě bylo přítomno 83,56% akcionářů a pro přijetí bodů jednání hlasovalo 86,82 % akcionářů, je to „lež jako věž“ a čísla by měla znít takto:
+
 Společnost Vak Zlín, a.s. má základní kapitál 1 030 018 000,-Kč, což odpovídá 1 030 018ks akcií. Dominantními vlastníky společnosti je 56 měst a obcí s 92,31% podílem na základním kapitálu, což odpovídá 953 769ks akcií.
  
 Pokud tedy před hlasováním byli na VH přítomni akcionáři s 83,56% podílem na základním kapitálu společnosti, znamená to, že když je pro usnesení 86,82% hlasů přítomných na Valné hromadě, jedná se ve skutečnosti o akcionáře s asi **72,5% podílem na základním kapitálu celé společnosti.**
 
-Vzhledem k tomu, že jen město **Zlín vlastní akcie se 46,25% podílem** na základním kapitálu společnosti a dlouhodobě hlasuje ve shodě s městy Valašské Klobouky 6,85%, Slavičín 6,67%, Luhačovice 5,43% a Brumov-Bylnice 2,22% **(dohromady 67,42% základního kapitálu)** je na světě koalice, která je zodpovědná za udržování protiprávního stavu ve VaK Zlín, a.s. V tomto popsaném případě disponuje **hlasovací sílou cca 80,68% z hlasů přítomných na valné hromadě. 
+Vzhledem k tomu, že jen město **Zlín vlastní akcie se 46,25% podílem** na základním kapitálu společnosti a dlouhodobě hlasuje ve shodě s městy Valašské Klobouky 6,85%, Slavičín 6,67%, Luhačovice 5,43% a Brumov-Bylnice 2,22% **(dohromady 67,42% základního kapitálu)** je na světě koalice, která je zodpovědná za udržování protiprávního stavu ve VaK Zlín, a.s. V tomto popsaném případě disponuje **hlasovací sílou cca 80,68% z hlasů přítomných na valné hromadě.** 
 
 **Těchto 5 akcionářů tvoří ani ne 10% z celkového počtu 56 akcionářů – samospráv obcí a de facto ovládá celou společnost. Dle obyvatel v působnosti VaK Zlín, a.s. se jedná asi o ½ z celkového počtu 170 tisíc odběratelů.**
 
