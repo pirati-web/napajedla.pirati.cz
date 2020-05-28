@@ -58,3 +58,8 @@ Závěrem připomeňme, že za pokoutnou privatizací VaK Zlín a.s. a **obcház
 
 Nic takového se nestalo a nemorální, lhostejní a mocichtiví lidé nám občanům slouží dál.
 
+
+
+
+---
+
