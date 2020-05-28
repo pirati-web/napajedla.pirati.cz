@@ -17,9 +17,9 @@ Sdělil nám své  plány pro obnovu kanalizací, ekologie čistíren odpadních
 Předseda dozorčí rady sdělil, že rada je šestičlenná, celkem zasedali 8x ročně  ke kontrolní činnosti a vždy dva členové se zúčastnili i schůzí představenstva VaK Zlín. DR nezjistila žádné nedostatky!
 
 Co ovšem bylo zajímavé nejen pro Napajedla, tak zástupce Jižní vodárenské a.s., prohlásil:
- že zastupuje obec Hvozdnou. 
- že dalších 12 obcí nevykonává své akcionářské práva.
- že je domluvený se Statutárním městem Zlín (SMZ), které od Jižní vodárenské a.s. tyto práva odkoupí.
+ - že zastupuje obec Hvozdnou. 
+ - že dalších 12 obcí nevykonává své akcionářské práva.
+ - že je domluvený se Statutárním městem Zlín (SMZ), které od Jižní vodárenské a.s. tyto práva odkoupí.
 
 
 **Je nutné podotknout, že malým obcím zbyli dvě akcie když o zbytek akcií je nedovoleným způsobem obcházející zákon  v roce 2001-2002 připravili SMZ, Jižní vodárenská a.s. a Česká spořitelna a.s. a ovládli naši vodárenskou společnost VaK Zlín.** Piráti Napajedla se nediví obcím, že jednání Valné hromady berou jako ztrátu času.
