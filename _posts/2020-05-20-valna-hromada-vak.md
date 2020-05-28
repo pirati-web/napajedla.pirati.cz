@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Piráti Napajedla sledovali průběh Valné Hromady VaK Zlín.'
-date: 2020-05-28
+date: 2020-05-20
 author: Mediální odbor
 authorId: 
 image: /assets/img/posts/vak.jpg  
