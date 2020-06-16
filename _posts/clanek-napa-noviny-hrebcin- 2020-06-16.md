@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Napajedelské noviny-Slavný hřebčín v ohrožení, rozšíření těžby štěrkopísku a pokusy radnice o otevřenost.'
-date: 2020-06-16
+date: 2020-06-17
 author: Michal Štěpaník
 authorId:michal.stepanik
 image: /assets/img/posts/nn.jpg  
