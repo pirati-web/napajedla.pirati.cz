@@ -6,7 +6,7 @@ date: 2020-06-16
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/nn.jpg  
-tags: 'napajedla zastupitelstvo hrebcin uzemni-plan'
+tags: 'napajedla zastupitelstvo hrebčín uzemní-plán'
 ---
 
 Takto lze jednoduše shrnout období, které uplynulo od komunálních voleb v říjnu 2018 do března 2020. Napajedelská radnice učinila jen malý krok k otevřenosti a transparenci, pokusy Pirátů o změnu jednacího řádu Zastupitelstva byly skoro vyslyšeny. Náš návrh na pořizování audio-video záznamu z jednání nebyl přijat a je opět v čekací lhůtě. Rovněž jsme nebyli podpořeni v návrhu na zřízení transparentního účtu či rozklikávacího rozpočtu na faktury.
