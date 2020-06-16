@@ -37,3 +37,6 @@ Probíhající změny v Územním plánu (ÚP) pokročily dále a návrh číslo
 další informace a fotky pokácených stromů najdete ve starším článku [zde](https://napajedla.pirati.cz/aktuality/zmena_UP_hrebcin.html){:target="_blank"}.
 
 
+
+
+---
