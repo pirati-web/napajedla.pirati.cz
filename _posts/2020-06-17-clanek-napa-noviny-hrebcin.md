@@ -34,4 +34,6 @@ Probíhající změny v Územním plánu (ÚP) pokročily dále a návrh číslo
 
 Území hřebčína, tak jak je vidím nejen já, není jen zemědělská půda, jak je označeno v Územním plánu, ale především živý organismus, který působí pro město Napajedla blahodárně a zmenšuje dopady znečištění. O ploše hřebčína s přilehlým historickým parkem můžeme hovořit jako o plicích našeho města zachytávajících prach, hluk, vlhkost. Zkrátka čistička vzduchu.  Pokácením tak vzrostlých stromů je narušením tohoto organismu a zhoršením životního prostředí. Argument, který zazněl na zastupitelstvu, že došlo k pádu větví a tím k úmrtí koně je sice politováníhodný, nicméně pokud se majitelé pozemků o stromy budou řádně a včas starat, mohou pak předejít těmto nebezpečím třeba včasným ořezem. Pokácené stromy tvořily stromořadí a vytvářely tak i ucelený obraz v krajině. Pod stromy žijí živočichové a rostou rostliny a stromy jim vytvářejí životní prostor. Svévolným pokácením nedošlo jen k likvidaci desítek let starých, většinou zdravých stromů, ale také k narušení prostředí pod nimi či v jejich okolí.
 
+další informace a fotky pokácených stromů najdete ve starším článku [zde](https://napajedla.pirati.cz/aktuality/zmena_UP_hrebcin.html){:target="_blank"}.
+
 
