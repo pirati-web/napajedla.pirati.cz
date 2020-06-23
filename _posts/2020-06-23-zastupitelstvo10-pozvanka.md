@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'Pozvánka na 10. zastupitelstvo volebního období 2018-2022'
 date: 2020-06-23
-author: Michal Štěpaník
-authorId: michal.stepanik
+author: Jiří Krkoška
+authorId: jiri.krkoska
 image: /assets/img/posts/radnice.jpg
 tags: 'Napajedla zastupitelstvo radnice'
 ---
