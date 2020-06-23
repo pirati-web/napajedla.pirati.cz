@@ -8,7 +8,7 @@ authorId:
 image: /assets/img/posts/vak.jpg  
 tags: 'napajedla zastupitelstvo VAK'
 ---
-12.5.2020 proběhla Valná hromada společnosti Vodovody a Kanalizace Zlín a.s.
+**12.5.2020 proběhla Valná hromada společnosti Vodovody a Kanalizace Zlín a.s.**
 
 Na začátku jednání, při volbě lidí do představenstva (PŘ) a dozorčí rady (DR), nominovaní odmítli odpovídat akcionářům na otázky. Přišlo i na soudní líčení mezi panem Březíkem a jedním z akcionářů, za výrok jenž uvedl na jeho osobu, cituji: „ pan Březík je lhář, největší lhář, podvodník a manipulátor“. Soud pan Březík prohrál. Jednalo se o vyvrácení lží a manipulací, které pan Březík přednesl na jednání zastupitelstva města Zlína.  
 
