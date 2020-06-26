@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Vizualizace rozšíření přístavní kapacity a prezentace Napajedla Výběhy.'
+title: 'Vizualizace rozšíření přístaviště a studie lokalit pro bydlení v Napajedlích.'
 date: 2020-06-26
 author: Michal Štěpaník
 authorId: michal.stepanik
