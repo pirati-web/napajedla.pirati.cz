@@ -15,9 +15,11 @@ Ve středu 10.6.2020 jsme se zůčastnili rozšířeného zasedání rady města
 - ulice K Pahrbku
 - území severně od Fatry – je zde prostor pro polyfunkční domy, doplněné o služby a malé výrobní aktivity,
 - lokalita u komunikace za přejezdem směrem na Žlutavu, kde už nějaké domy postavené jsou. 
-Celková výměra zastavitelných ploch je v Územním plánu Napajedla cca 20,5 ha. V územně
+
+
+**Celková výměra zastavitelných ploch je v Územním plánu Napajedla cca 20,5 ha. V územně
 analytických podkladech pro ORP Otrokovice je potřeba zastavitelných ploch stanovena
-pro Napajedla na cca 6,33 ha, v Napajedlích jsou tedy tyto plochy naddimenzovány. Trendem
+pro Napajedla na cca 6,33 ha, v Napajedlích jsou tedy tyto plochy naddimenzovány.** Trendem
 je zahušťovat zastavěné území nebo se provádí přestavby (v tom případě dochází ke změně
 funkce využití území). Město se ve výhledu bude zabývat vymístěním hřiště (z ul. Sadová) –
 je to cenný pozemek ve středu města, který je možno využít pro bydlení
