@@ -41,17 +41,19 @@ Prezentaci architektonické kanceláře RAW jsme shlédli jako poslední. Studie
 Varianta jedna je zpracována pouze na pozemku firmy SYGNUM, s.r.o. a zahrnuje výstavbu nízkopodlažních bytových domů. Varianta dvě se opírá o návrh změny územního plánu města
 Napajedla a řeší východní část přiléhajících pozemků, a to formou individuálního bydlení v rodinných domech. V prvním případě je dopravní napojení řešeno samostatně ze západní
 části pozemku, v druhém případě je zde navržena možnost propojení pozemku firmy SYGNUM s pozemky určenými pro zástavbu rodinnými domy. 
+
 **Varianta 1:** šlo by jen o výstavbu bytových domů – maximální počet pro zastavění této plochy je 11 bytových domů. Doprava by bylanapojena přes pozemky spol. SYGNUM, s.r.o. do ul. Zámecká. Bylo by zde cca 319 bytů
 o velikosti 2+KK (jsou možné i jiné velikostní varianty bytů, podle zájmu). Domy by bylytřípatrové, s výtahem, se zapuštěnými garážemi pod domy, ve stylu zahradních baťovských
 domů – s režným obkladem. Je zde navrženo hodně zeleně včetně zelených střech (na zelenéstřechy jsou dotace). Ze strany od Maliny I je naplánovaná mlatová cesta nahoru nad Malinua Starou horu. Je zde plánována mateřská škola a domov pro seniory (4-6 bytů). Vzhledemk výtahům v bytových domech a bezbariérovému vybavení bytů lze případně pro seniorypoužít i tyto bytové domy.
-Varianta 2:  budou využity i pozemky města a soukromých majitelů – jednalo by se o výstavbu bytových domů a rodinných domů. Je zde možnost výstavby 8 bytových domů a místo
+
+**Varianta 2:**  budou využity i pozemky města a soukromých majitelů – jednalo by se o výstavbu bytových domů a rodinných domů. Je zde možnost výstavby 8 bytových domů a místo
 3 bytových domů by byla zástavba rodinných domů (pozemky o velikosti cca 400 m2), která částečně zasahuje do lokality Stará hora. Dopravní propojení by bylo možné na více místech.
 
 Se svolením kanceláře je studie k dispozice veřejně [zde](https://drive.google.com/file/d/1w9W9ujXX_Lsqv2KDAGCIX9nWxHxgtrnX/view?usp=sharing){:target="_blank"}
 
 Posledním návrhem byl náš pirátský návrh na změny v lokalitě Jižní spojka kde bychom chtěli navrátit rekreační plochy které byli z Uzemního plánu odebrány v minulosti.
 
-Při jednání rady města 27.5.2020 byl projednán bod o rozšíření kapacity přístaviště v centru města. Přílohou jednání bylo "Dispozičně – architektonické řešení rozšíření přístavní kapacity ve městě Napajedla“.
+Při jednání rady města 27.5.2020 byl projednán bod o rozšíření kapacity **přístaviště v centru města.** Přílohou jednání bylo "Dispozičně – architektonické řešení rozšíření přístavní kapacity ve městě Napajedla“.
 Vizualizaci jsme si vyžádali na Ředitelství vodních cest a s jejich souhlasem si ji můžete prohlédnout [zde](https://drive.google.com/file/d/1FaMzCimaPXxhUbSR7LCppirh8FoeFHuJ/view?usp=sharing){:target="_blank"} 
 
 Odkaz na náš Youtube kanál je zde 
