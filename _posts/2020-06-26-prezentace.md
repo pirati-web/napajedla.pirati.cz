@@ -52,7 +52,7 @@ Napajedla a řeší východní část přiléhajících pozemků, a to formou in
 
 **Se svolením kanceláře je studie k dispozice [zde](https://drive.google.com/file/d/1w9W9ujXX_Lsqv2KDAGCIX9nWxHxgtrnX/view?usp=sharing){:target="_blank"}**
 
-Posledním návrhem byl náš pirátský návrh na změny v lokalitě Jižní spojka kde bychom chtěli navrátit rekreační plochy které byli z Uzemního plánu odebrány v minulosti.
+Posledním návrhem byl náš **pirátský návrh na změny v lokalitě Jižní spojka kde bychom chtěli navrátit rekreační plochy které byli z Uzemního plánu odebrány v minulosti. Fotogalerie s naším návrhem je [zde](https://drive.google.com/drive/folders/1bCWnx5duZrcUqiBmPi3oQDrOs7rQt-Oi?usp=sharing){:target="_blank"}**
 
 Při jednání rady města 27.5.2020 byl projednán bod o rozšíření kapacity **přístaviště v centru města.** Přílohou jednání bylo "Dispozičně – architektonické řešení rozšíření přístavní kapacity ve městě Napajedla“.
 **Vizualizaci jsme si vyžádali na Ředitelství vodních cest ČR a s jejich souhlasem si ji můžete prohlédnout [zde](https://drive.google.com/file/d/1FaMzCimaPXxhUbSR7LCppirh8FoeFHuJ/view?usp=sharing){:target="_blank"}** 
