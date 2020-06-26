@@ -56,7 +56,7 @@ Posledním návrhem byl náš pirátský návrh na změny v lokalitě Jižní sp
 Při jednání rady města 27.5.2020 byl projednán bod o rozšíření kapacity **přístaviště v centru města.** Přílohou jednání bylo "Dispozičně – architektonické řešení rozšíření přístavní kapacity ve městě Napajedla“.
 Vizualizaci jsme si vyžádali na Ředitelství vodních cest a s jejich souhlasem si ji můžete prohlédnout [zde](https://drive.google.com/file/d/1FaMzCimaPXxhUbSR7LCppirh8FoeFHuJ/view?usp=sharing){:target="_blank"} 
 
-Odkaz na náš Youtube kanál je zde 
+Náš YouTube kanál naleznete [zde](https://www.youtube.com/channel/UCgoN2Mo3r-xe0iO6N5HRWHA){:target="_blank"}
 
 
 
