@@ -9,7 +9,8 @@ image: /assets/img/posts/obecni_list.png
 tags: 'napajedla zastupitelstvo VAK'
 ---
 
-Na posledním červnovém zastupitelstvu 2020 pan Ratiborský (ODS) pochválil Michala Štěpaníka, za předložený materiál na zastupitelstvu a prohlásil: “Že je to první, který vidí takto přichystaný a zpracovaný a nikoliv jen dvěma větami v důvodové zprávě okomentovaný”.
+Na posledním červnovém zastupitelstvu 2020 pan Ratiborský (ODS) pochválil Michala Štěpaníka, za předložený materiál na zastupitelstvu a prohlásil: 
+> "Že je to první, který vidí takto přichystaný a zpracovaný a nikoliv jen dvěma větami v důvodové zprávě okomentovaný".
 
 Tato výtka pana Ratiborského patřila Tomáši Čablovi, který je v zastupitelstvu města od roku 2010. Proto se Piráti Napajedla rozhodli, že budou zveřejňovat postupně usnesení, aby se osvěžila panu Ratiborskému i ostatním občanům paměť. Nyní připomeňme jedno z usnesení které Tomáš Čabla podával v roce 2016. 
 
