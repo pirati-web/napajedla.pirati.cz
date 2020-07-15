@@ -5,7 +5,7 @@ fullname: Jiří K.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
-img: people/jirka.jpg   # 165 x 220
+img: people/ppp.jpg   # 165 x 220
 description: technik elektronik<br>zastupitel města 2018-2020  # kratký popis, max 160 znaků
 ---
 
