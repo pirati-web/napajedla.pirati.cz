@@ -5,7 +5,7 @@ title: 'Příprava materiálů pro jednání zastupitelstva města.'
 date: 2020-05-20
 author: Mediální odbor
 authorId: 
-image: /assets/img/posts/odvol1.jpg  
+image: /assets/img/posts/obecni_list.png  
 tags: 'napajedla zastupitelstvo VAK'
 ---
 
