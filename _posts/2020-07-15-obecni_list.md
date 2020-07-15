@@ -1,14 +1,14 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti Napajedla sledovali průběh Valné Hromady VaK Zlín.'
+title: 'Příprava materiálů pro jednání zastupitelstva města.'
 date: 2020-05-20
 author: Mediální odbor
 authorId: 
 image: /assets/img/posts/odvol1.jpg  
 tags: 'napajedla zastupitelstvo VAK'
 ---
-**Příprava materiálů pro jednání zastupitelstva města.**
+
 Na posledním červnovém zastupitelstvu 2020 pan Ratiborský (ODS) pochválil Michala Štěpaníka, za předložený materiál na zastupitelstvu a prohlásil: “Že je to první, který vidí takto přichystaný a zpracovaný a nikoliv jen dvěma větami v důvodové zprávě okomentovaný”.
 
 Tato výtka pana Ratiborského patřila Tomáši Čablovi, který je v zastupitelstvu města od roku 2010. Proto se Piráti Napajedla rozhodli, že budou zveřejňovat postupně usnesení, aby se osvěžila panu Ratiborskému i ostatním občanům paměť. Nyní připomeňme jedno z usnesení které Tomáš Čabla podával v roce 2016. 
