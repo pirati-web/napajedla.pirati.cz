@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Příprava materiálů pro jednání zastupitelstva města.'
-date: 2020-07-15
+date: 2020-07-14
 author: Mediální odbor
 authorId: 
 image: /assets/img/posts/obecni_list.png  
