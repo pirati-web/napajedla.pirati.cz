@@ -18,7 +18,7 @@ Tato výtka pana Ratiborského patřila Tomáši Čablovi, který je v zastupite
 
 Podkladové materiály pro odvolání radního a starostky a zápis ze ZM č. 13 ze dne 30.11.2016 jsou [zde](https://drive.google.com/drive/folders/1giqNk3nopXW5NHuQQ6gl8Bwi9aa7nGqL?usp=sharing){:target="_blank"}
 
-**Obecní list vydaný v roce 2016 Tomášem Čablou čtěte [zde](https://drive.google.com/drive/folders/1giqNk3nopXW5NHuQQ6gl8Bwi9aa7nGqL){:target="_blank"}**
+**Obecní list vydaný v roce 2016 Tomášem Čablou čtěte [zde](https://drive.google.com/file/d/1d6LfN8xOSGgUQmqSLH2w-jnVPtUdx8TG/view?usp=sharing){:target="_blank"}**
 
 
 
