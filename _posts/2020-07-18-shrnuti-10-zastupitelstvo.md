@@ -43,3 +43,11 @@ V situaci, kdy nejsou nastavená jasná pravidla justicí v předmětné otázce
 2.) jak a kdy budou  moci být využívány 
 
 Nakonec chceme poděkovat členům TJFS Napajedla, že pan Ratiborský, už není ve vedení této sportovní organizace a že nové vedení začalo řešit přístup ke svým majetkům.
+
+
+Náš YouTube kanál naleznete [zde](https://www.youtube.com/channel/UCgoN2Mo3r-xe0iO6N5HRWHA){:target="_blank"}
+
+
+
+---
+
