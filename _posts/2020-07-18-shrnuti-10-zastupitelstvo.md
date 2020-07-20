@@ -10,7 +10,7 @@ tags: 'napajedla zastupitelstvo klub-kultury zámek'
 ---
 29.6.2020 od 15.00hod se konalo zastupitelstvo města Napajedla, kterého jsme se zúčastnili. Vzhledem k situaci s pandemií Covid-19 se konalo venku na radničním dvoře. Myslíme si, že tato situace se dala vyřešit i projednáním zastupitelstva v Sokolovně. Není rozhodně příjemné sedět pod **deštníkem když půl hodiny venku prší a všude je mokro.** Sokolovna je důstojným místem pro veřejná projednání v měsících dubnu, červnu a září, kdy můžeme i s veřejností debatovat v prostorách, kde se člověk necítí jako sardinky. **Nevěříme, že v 21.stol. je technickým problémem živý přenos ze zasedání prostřednictvím kabelové televize NTV. A vhodným místem i při dodržení zásad se situací kolem koronaviru Covid-19.**
 
-Prvním bodem byl zápis z jednání Finančního výboru, kde předseda ing.Fojtů shrnul dosavadní čerpání rozpočtu a zdůraznil nízké čerpání investičních prostředků odborem IRM (Investice a Rozvoj města) v roce 2019 a letech předešlých. Výbor navrhl i opatření jak zvýšit čerpání prostředků.  Na “účtu 432” města je tak postupně od roku 2010 **k dispozici cca 220 mil. Kč. volných finančních prostředků.** Tyto peníze se znehodnocují nejen inflací, ale i vyšší cenou za práci, materiál a služby.
+Prvním bodem byl zápis z jednání Finančního výboru, kde předseda ing. Fojtů shrnul dosavadní čerpání rozpočtu a zdůraznil nízké čerpání investičních prostředků odborem IRM (Investice a Rozvoj města) v roce 2019 a letech předešlých. Výbor navrhl i opatření jak zvýšit čerpání prostředků.  Na “účtu 432” města je tak postupně od roku 2010 **k dispozici cca 220 mil. Kč. volných finančních prostředků.** Tyto peníze se znehodnocují nejen inflací, ale i vyšší cenou za práci, materiál a služby.
 
 
 **Mimochodem kumulativní inflace za posledních 9 let činí 15% dle www.finmag.cz.**
@@ -27,7 +27,7 @@ Nejdelší debata vznikla při projednání strategického dokumentu **Plán roz
 
 Domníváme se, že přesunem kurtů jde o vybydlování zámeckého parku, nikoliv rozvoj sportovišť v Napajedlích. Omezení přístupu v areálu zámku ve formě věcných břemen se hodí vedení města. Dlouhodobě tak dochází k devastaci budov v zámeckém areálu.
 
-Vedení radnice hovoří  o tom, že přístup **máme, ale na druhou stranu nemáme,** protože nemůžeme využívat co opravíme. Máme tomu rozumět, že vlastníme pozemky a budovy v hodnotě 100 -150 mil. Kč, ale můžeme se na ně jenom dívat?! A proč? Protože máme omezený přístup k majetku a museli bychom se domlouvat s novým majitelem. To je pro vedení města nepřijatelné.
+Vedení radnice hovoří  o tom, že **přístup máme, ale na druhou stranu nemáme,** protože nemůžeme využívat co opravíme. Máme tomu rozumět, že vlastníme pozemky a budovy v hodnotě 100 -150 mil. Kč, ale můžeme se na ně jenom dívat?! A proč? Protože máme omezený přístup k majetku a museli bychom se domlouvat s novým majitelem. To je pro vedení města nepřijatelné.
 
 To, že si vedení města protiřečí je nutno doplnit tím, že k chátrajícím budovám vymysleli plán.Tento plán však počítá se zničením pastvin hřebčína, aby se k budovám a pozemkům dalo dostat přes výběhy, které defakto pohřbí život koní v této historické lokalitě.  
 
