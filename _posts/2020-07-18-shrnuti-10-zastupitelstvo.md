@@ -39,7 +39,7 @@ V situaci, kdy nejsou nastavená jasná pravidla justicí v předmětné otázce
 
 **Jedině soud by jasně určil odpovědi na otázky, na fungování kultury a sportu** 
 
-1.. jak budou majetky města a TJFS  za desítky milionů spravovány  
-2.. jak a kdy budou  moci být využívány 
+1.) jak budou majetky města a TJFS  za desítky milionů spravovány  
+2.) jak a kdy budou  moci být využívány 
 
 Nakonec chceme poděkovat členům TJFS Napajedla, že pan Ratiborský, už není ve vedení této sportovní organizace a že nové vedení začalo řešit přístup ke svým majetkům.
