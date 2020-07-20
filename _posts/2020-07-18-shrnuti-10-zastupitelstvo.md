@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: '10.té jednání zastupitelstva města,(ne)hospodaření města a přesun tenisových kurtů!!'
+title: '10.té jednání zastupitelstva města, (ne)hospodaření města a přesun tenisových kurtů'
 date: 2020-07-18
 author: Tomáš Čabla
 authorId: tomas.cabla
