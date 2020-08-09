@@ -3,7 +3,7 @@ date:         2020-08-07
 category:     blog
 tags:         volby
 layout:       post
-title:        "Piráti v sobotu zahájí tour volebního autobusu budoucnosti. 11.8.2020 bude v Napajedlích!"
+title:        "Piráti v sobotu zahájí tour volebního autobusu budoucnosti. 11.8.2020 zastaví i v Napajedlích!"
 image:        /assets/img/posts/autobus.jpg
 ---  
 
