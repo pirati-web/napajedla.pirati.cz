@@ -8,6 +8,9 @@ authorId:
 title:        "Piráti zahájili tour volebního autobusu budoucnosti. 11.8.2020 zastaví i v Napajedlích!"
 image:        /assets/img/posts/autobus.jpg
 ---  
+**ŠANCE ZMĚNIT ZLÍNSKÝ KRAJ!🖤
+Na Masarykovo náměstí v Napajedlích už 11. srpna od 13.30hod.-14.30hod.  dorazí pirátský autobus budoucnosti!✅ Budete moci vyzkoušet nejrůznější moderní technologie od dronů přes 3D tiskárny až po hydroponické pěstování rostlin! 😲
+Přijďte za námi okusit budoucnost!🔥**
 
 Speciální pirátský volební autobus zahájil v sobotu 8. srpna 2020 svou předvolební jízdu, v průběhu dvou měsíců zavítá do všech koutů České republiky. Kromě představení programu pro krajské a senátní volby a prezentaci krajských kandidátů veřejnosti nabídne autobus také vhled do delší budoucnosti – ať už VR brýlemi, elektrickou jednokolkou nebo holografickým projektorem.
 
@@ -15,9 +18,7 @@ Autobus budoucnosti byl poprvé k vidění v sobotu 8. srpna od 17:00 na Palack�
 
 Každý den až do dne konání krajských a senátních voleb mohou občané dorazit na zastávky autobusu a debatovat s představiteli Pirátské strany. Těchto setkání se zúčastní jak jednotliví poslanci, krajští či senátní kandidáti, tak předseda strany Ivan Bartoš. 
 
-**ŠANCE ZMĚNIT ZLÍNSKÝ KRAJ!🖤
-Na Masarykovo náměstí v Napajedlích už 11. srpna od 13.30hod.-14.30hod.  dorazí pirátský autobus budoucnosti!✅ Budete moci vyzkoušet nejrůznější moderní technologie od dronů přes 3D tiskárny až po hydroponické pěstování rostlin! 😲
-Přijďte za námi okusit budoucnost!🔥**
+
 
 
 FB událost je [zde](https://www.facebook.com/events/297969521438920/){:target="_blank"}
