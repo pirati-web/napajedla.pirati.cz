@@ -13,9 +13,12 @@ Autobus budoucnosti bude poprvé k vidění v sobotu 8. srpna od 17:00 na Palack
 
 Každý den až do dne konání krajských a senátních voleb mohou občané dorazit na zastávky autobusu a debatovat s představiteli Pirátské strany. Těchto setkání se zúčastní jak jednotliví poslanci, krajští či senátní kandidáti, tak předseda strany Ivan Bartoš. 
 
-ŠANCE ZMĚNIT ZLÍNSKÝ KRAJ!🖤
-Na Masarykovo náměstí v Napajedlívh už 11. srpna dorazí pirátský autobus budoucnosti!✅ Budete moci vyzkoušet nejrůznější moderní technologie od dronů přes 3D tiskárny až po hydroponické pěstování rostlin! 😲
-Přijďte za námi okusit budoucnost!🔥
+**ŠANCE ZMĚNIT ZLÍNSKÝ KRAJ!🖤
+Na Masarykovo náměstí v Napajedlích už 11. srpna od 13.30hod.-14.30hod.  dorazí pirátský autobus budoucnosti!✅ Budete moci vyzkoušet nejrůznější moderní technologie od dronů přes 3D tiskárny až po hydroponické pěstování rostlin! 😲
+Přijďte za námi okusit budoucnost!🔥**
+
+
+FB událost je [zde](https://www.facebook.com/events/297969521438920/){:target="_blank"}
  
 
 * [Program tour autobusu a jednotlivých zastávek autobusu + kontaktní osoby](https://pirati.cz/assets/pdf/Roadplan-autobus.pdf)
