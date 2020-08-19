@@ -5,10 +5,12 @@ tags:         volby
 layout:       post
 author:       Michal Štěpaník
 authorId:     michal.stepanik
-title:        "Volebního autobusu budoucnosti před radnicí v Napajedlích!"
+title:        "Volební autobus budoucnosti před radnicí v Napajedlích!"
 image:        /assets/img/posts/autobus-napa.jpg
 ---  
 **ŠANCE ZMĚNIT ZLÍNSKÝ KRAJ!🖤
+
+
 11. srpna dorazil pirátský autobus budoucnosti do Napajedel! Mrkněte na fotky ze zastavení.
 
 
