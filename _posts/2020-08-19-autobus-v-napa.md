@@ -17,7 +17,7 @@ image:        /assets/img/posts/autobus-napa.jpg
 Fotogalerie je [zde](https://drive.google.com/drive/folders/1P21FcXZ3hehlY70fja2kdKh37cUGohUp?usp=sharing){:target="_blank"}
  
 
-* [Program tour autobusu a jednotlivých zastávek autobusu + kontaktní osoby](https://pirati.cz/assets/pdf/Roadplan-autobus.pdf)
+[Program tour autobusu a jednotlivých zastávek autobusu + kontaktní osoby](https://pirati.cz/assets/pdf/Roadplan-autobus.pdf)
 
 
 Náš YouTube kanál naleznete [zde](https://www.youtube.com/channel/UCgoN2Mo3r-xe0iO6N5HRWHA){:target="_blank"}
