@@ -8,10 +8,9 @@ authorId:     michal.stepanik
 title:        "Volební autobus budoucnosti před radnicí v Napajedlích!"
 image:        /assets/img/posts/autobus-napa.jpg
 ---  
-**ŠANCE ZMĚNIT ZLÍNSKÝ KRAJ!🖤
+**ŠANCE ZMĚNIT ZLÍNSKÝ KRAJ!🖤**
 
-
-11. srpna dorazil pirátský autobus budoucnosti do Napajedel! Mrkněte na fotky ze zastavení.
+11.srpna 2020 dorazil pirátský autobus budoucnosti do Napajedel! Mrkněte na fotky ze zastavení.
 
 
 
