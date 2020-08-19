@@ -23,7 +23,7 @@ Piráti představili čtyři hlavní programové priority pro Zlínský kraj, kt
 
 Cílem Pirátů je dosáhnout moderního kraje, který se bude starat o své občany a jejich zájmy. Bude dbát na ochranu kulturního dědictví a také zodpovědně přistupovat k naší krajině. Zlínský kraj potřebuje péči a zaslouží si změnu k lepšímu.
 
-Celou kandidátku najdete [ZDE](https://zlinsky.pirati.cz/krajske-volby/kandidati.html){:target="_blank"}
+Celou kandidátku najdete [ZDE](https://zlinsky.pirati.cz/volby-2020/?pohled=kandidati){:target="_blank"}
 Celý plán pro Zlínský kraj najdete [ZDE](https://zlinsky.pirati.cz/krajske-volby/program.html){:target="_blank"}
 
 ---
