@@ -5,7 +5,7 @@ tags:
 layout:       post
 author:       Michal Štěpaník
 authorId:     michal.stepanik
-title:        "Strategie rozvoje rozvoje města Napajedla do roku 2030"
+title:        "Strategie rozvoje města Napajedla do roku 2030"
 image:        /assets/img/posts/strategie.jpg
 ---  
 
