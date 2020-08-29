@@ -25,4 +25,4 @@ do úterý 15.09.2020.
 Následně proběhne veřejné projednání dokumentu strategie s již zapracovanými připomínkami veřejnosti. Termín bude upřesněn.
 
 
-Náš YouTube kanál naleznete [zde](https://www.youtube.com/channel/UCgoN2Mo3r-xe0iO6N5HRWHA){:target="_blank"}
+
