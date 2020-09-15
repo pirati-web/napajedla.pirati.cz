@@ -76,7 +76,7 @@ Přijďte na veřejné zasedání!
 
 
 
-Program zasedání v odkaze [zde](https://www.napajedla.cz/e_download.php?file=data/uredni_deska/obsah1861_7.pdf&original=ZM%20pozv.verejne%2029.06.2020.pdf){:target="_blank"}.
+Program zasedání v odkaze [zde](https://www.napajedla.cz/e_download.php?file=data/uredni_deska/obsah1919_11.pdf&original=ZM%20pozv.verejne%2016.09.2020.pdf){:target="_blank"}.
 
  
 
