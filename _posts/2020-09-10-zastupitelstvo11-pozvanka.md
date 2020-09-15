@@ -5,7 +5,7 @@ title: 'Pozvánka na 11. zastupitelstvo volebního období 2018-2022'
 date: 2020-09-10
 author: Michal Štěpaník
 authorId: michal.stepanik
-image: /assets/img/posts/radnice.jpg
+image: /assets/img/posts/radnice5.jpg
 tags: 'Napajedla zastupitelstvo radnice'
 ---
 
