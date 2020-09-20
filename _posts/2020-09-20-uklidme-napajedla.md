@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Ukliďme Česko, ukliďme Napajedla, 19.9.20202'
+title: 'Ukliďme Česko, ukliďme Napajedla, 19.9.2020'
 date: 2020-09-20
 author: Tomáš Čabla
 authorId: tomas.cabla
