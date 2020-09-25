@@ -14,7 +14,7 @@ tags: 'Napajedla strategicky-plan'
 Kde: Kino Napajedla, Na Kapli 459, 763 61 Napajedla**
 
 
-**Program veřejného projednání Strategie NAPAJEDLA 2030:
+**Program veřejného projednání Strategie NAPAJEDLA 2030:**
 
 1. Úvod
 
@@ -26,7 +26,7 @@ Kde: Kino Napajedla, Na Kapli 459, 763 61 Napajedla**
 
 5. Diskuze
 
-6. Závěr**
+6. Závěr
 
 
 Vzhledem k stále se vyvíjející epidemiologické situaci a přijatým opatřením Vás žádáme, o emailové
