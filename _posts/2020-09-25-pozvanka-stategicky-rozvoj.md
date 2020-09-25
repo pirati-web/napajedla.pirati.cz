@@ -10,8 +10,10 @@ tags: 'Napajedla strategicky-plan'
 ---
 
 
-**Kdy: úterý 29. září 2020 od 16:00 hod.
-Kde: Kino Napajedla, Na Kapli 459, 763 61 Napajedla**
+**Kdy: úterý 29. září 2020 od 16:00 hod.**
+
+**Kde: Kino Napajedla, Na Kapli 459, 763 61 Napajedla**
+
 
 
 **Program veřejného projednání Strategie NAPAJEDLA 2030:**
@@ -34,10 +36,12 @@ potvrzení účasti.
 
 
 Kontaktní email: NAPAJEDLA2030@modifo.cz
+
 Kontaktní tel.č.: 577 100 917
 
 
 Ing. Irena Brabcová - starostka města
+
 Ing. Pavel Grebeníček, Ph.D. - jednatel Agentura Modifo, s.r.o.
 
 
