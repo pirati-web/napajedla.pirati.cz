@@ -32,29 +32,29 @@ tags: 'Napajedla strategicky-plan'
 
 6.Závěr
 
-
+  
 Vzhledem k stále se vyvíjející epidemiologické situaci a přijatým opatřením Vás žádáme, o emailové
 potvrzení účasti.
 
-
+  
 
 Kontaktní email: NAPAJEDLA2030@modifo.cz
 
 Kontaktní tel.č.: 577 100 917
 
 
-
+  
 
 Ing. Irena Brabcová - starostka města
 
 Ing. Pavel Grebeníček, Ph.D. - jednatel Agentura Modifo, s.r.o.
 
 
-
-
-
-
-
+  
+  
+  
+  
+  
 Dokumenty a Strategický plán v odkaze [zde](https://www.napajedla.cz/aktualne/novinky/pozvanka-na-verejne-projednani-strategicky-rozvoj-mesta-1026cs.html){:target="_blank"}.
 
  
