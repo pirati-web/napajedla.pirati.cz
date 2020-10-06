@@ -44,7 +44,7 @@ Kdyby nynější KOALICE nebyla tak arogantní, nedemokratická a manipulativní
 
 Náš YouTube kanál naleznete [zde](https://www.youtube.com/channel/UCgoN2Mo3r-xe0iO6N5HRWHA){:target="_blank"}
 
-Náš FBprofil je [zde](https://www.facebook.com/piratinapa){:target="_blank"}
+Náš FB profil je [zde](https://www.facebook.com/piratinapa){:target="_blank"}
 
 
 ---
