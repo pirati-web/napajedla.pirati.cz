@@ -17,9 +17,7 @@ Dalšími projednávanými body programu byli záležitosti týkající se majet
 Seznámili jsme se zápisy z jednání Finančního a Kontrolního výboru. 
 
 
-Dlouze diskutován byl však bod **“Střednědobý výhled rozpočtu Napajedel s analýzou financí a ratingem”**, který okomentoval ing. L.Tesař, autor analýzy. Z analýzy vyplývá že město má finanční prostředky do budoucích let. S vypracovaným dokumentem souhlasíme, **ale musíme se ohradit ke slovům, které říkají, že město má ušetřeno přes 155 mil.Kč, které leží na účtu města a že tato finanční situace je excelentní.**
-
-**Majetek města, přesněji jen stavby představují z rozvahy cca 530 mil.Kč a to bez majetku v organizacích a společnostech. Provozní saldo, rok 2019 uzavíral na hodnotě 42 mil.Kč (v roce 2012 to bylo 15,6 mil.Kč), jsou to tedy vlastní finance které každoročně zbývají na “volnou útratu”, tedy na investice, které se kumulují, ale neprohospodařovávají se!**
+Dlouze diskutován byl však bod **“Střednědobý výhled rozpočtu Napajedel s analýzou financí a ratingem”**, který okomentoval ing. L.Tesař, autor analýzy. Z analýzy vyplývá že město má finanční prostředky do budoucích let. S vypracovaným dokumentem souhlasíme, **ale musíme se ohradit ke slovům, které říkají, že město má ušetřeno přes 155 mil.Kč, které leží na účtu města a že tato finanční situace je excelentní. Majetek města, přesněji jen stavby představují z rozvahy cca 530 mil.Kč a to bez majetku v organizacích a společnostech. Provozní saldo, rok 2019 uzavíral na hodnotě 42 mil.Kč (v roce 2012 to bylo 15,6 mil.Kč), jsou to tedy vlastní finance které každoročně zbývají na “volnou útratu”, tedy na investice, které se kumulují, ale neprohospodařovávají se!**
 
 **Přikláníme se tak k názoru, že vysoké finanční rezervy ztrácí výrazně hodnotu tím, jak se zdražují investice ve stavebnictví (dosud 10-15% ročně, jen za 1.Q 2019 dle ČSÚ růst o cca 5%)  a vysoký finanční obnos na účtech města, snižuje jejich hodnotu!!! Tedy ze 155 mil.Kč, prodělalo město při 5% růstu za stavební práce za letošní rok cca 7,5 mil. Kč. Peníze se kumulují v našem městě od roku 2011.** 
 
