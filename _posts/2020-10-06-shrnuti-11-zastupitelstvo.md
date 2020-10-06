@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: '11.té jednání zastupitelstva města, nákupy pozemků, finanční výhled 2020-2023'
-date: 2020-07-18
+date: 2020-10-06
 author: Tomáš Čabla
 authorId: tomas.cabla
 image: /assets/img/posts/radnice.jpg  
