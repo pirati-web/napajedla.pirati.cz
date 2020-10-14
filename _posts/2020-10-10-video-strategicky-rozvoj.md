@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Strategický rozvoj města do roku 2030 - veřejné projednání - video'
-date: 2020-10-10
+date: 2020-09-30
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/kino1.jpg
