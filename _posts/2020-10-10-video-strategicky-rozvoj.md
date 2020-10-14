@@ -5,7 +5,7 @@ title: 'Strategický rozvoj města do roku 2030 - veřejné projednání - video
 date: 2020-10-10
 author: Michal Štěpaník
 authorId: michal.stepanik
-image: /assets/img/posts/pozvanka_strategie.png
+image: /assets/img/posts/kino1.jpg
 tags: 'Napajedla strategicky-plan'
 ---
 
