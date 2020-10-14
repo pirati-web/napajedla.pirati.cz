@@ -5,7 +5,7 @@ title: 'Piráti ve Zlínském kraji uzavřeli memorandum o spolupráci s ODS, Č
 date: 2020-10-07
 author: Jaromír Horký
 authorId: jaromir.horky
-image: posts/novinky.jpg
+image: /assets/img/posts/novinky.jpg
 tags: 
 - zlinsky-kraj
 - hana-ancincova
