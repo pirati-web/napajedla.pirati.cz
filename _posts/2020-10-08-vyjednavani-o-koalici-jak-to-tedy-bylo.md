@@ -5,7 +5,7 @@ title: 'Jak to bylo ve skutečnosti? Aneb vyjednávání Pirátů o nové krajsk
 date: 2020-10-08
 author: Jaromír Horký
 authorId: jaromir.horky
-image: posts/vyjednavanijak.jpg
+image: /assets/img/posts/vyjednavanijak.jpg
 tags: 
 - zlinsky-kraj
 - krajske-volby
