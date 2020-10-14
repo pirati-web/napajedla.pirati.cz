@@ -13,7 +13,7 @@ tags: 'Napajedla strategicky-plan'
 
 V úterý 29.9.2020 proběhlo veřejné projednání Strategického plánu vypracovaného agenturou Modifo na období let 2021 - 2030.
 
-**Video záznam z jednání je k dispozici [zde](https://www.napajedla.cz/aktualne/novinky/pozvanka-na-verejne-projednani-strategicky-rozvoj-mesta-1026cs.html){:target="_blank"}.**
+**Video záznam z jednání je k dispozici [zde](https://youtu.be/hnWlEov5NqE){:target="_blank"}.**
 
 
  
