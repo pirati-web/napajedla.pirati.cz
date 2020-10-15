@@ -5,7 +5,7 @@ title: 'Hejtman Jiří Čunek podepsal po volbách odkup pozemků pro novou nemo
 date: 2020-10-15
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/nemocnicezlin.jpg
+image: /assets/img/posts/kntb.jpg
 tags: 
 - zlinsky-kraj
 - nemocnice
