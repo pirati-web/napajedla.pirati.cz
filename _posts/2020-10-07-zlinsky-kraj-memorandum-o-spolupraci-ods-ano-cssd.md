@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 category: CLANKY
 title: 'Piráti ve Zlínském kraji uzavřeli memorandum o spolupráci s ODS, ČSSD a ANO'
 date: 2020-10-07
