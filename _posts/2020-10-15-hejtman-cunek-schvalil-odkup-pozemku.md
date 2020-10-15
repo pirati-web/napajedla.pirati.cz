@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 category: CLANKY
 title: 'Hejtman Jiří Čunek podepsal po volbách odkup pozemků pro novou nemocnici'
 date: 2020-10-15
