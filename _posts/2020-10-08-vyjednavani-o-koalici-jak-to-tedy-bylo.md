@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 category: CLANKY
 title: 'Jak to bylo ve skutečnosti? Aneb vyjednávání Pirátů o nové krajské koalici'
 date: 2020-10-08
