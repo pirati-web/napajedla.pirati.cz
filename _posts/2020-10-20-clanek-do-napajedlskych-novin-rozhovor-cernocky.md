@@ -93,8 +93,7 @@ plnokrevného chovu v Napajedlích, tak mě to skutečně nepohoršuje.*
  
  
 *Co se tady odehrává, není likvidace koní jako takových, ale likvidace chovu anglického
-plnokrevníka v Napajedlích. Likvidace slavného hřebčína, který založil hrabě Baltazzi v roce
-1886. V roce 1931 zachránil koně stát, když díky ing.Tichotovi odkoupil zbytek
+plnokrevníka v Napajedlích. Likvidace slavného hřebčína, který založil hrabě Baltazzi v roce 1886. V roce 1931 zachránil koně stát, když díky ing.Tichotovi odkoupil zbytek
 napajedelského stáda. V roce 1937 směnil stát s firmou Baťa pozemky a od té doby byl
 hřebčín spravován státem. Hřebčín tedy přežil první republiku, válku, komunisty a po roce
 1989 měl jít do přímého prodeje. Při zběsilé a „úspěšné“ kupónové privatizaci se stal
