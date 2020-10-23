@@ -29,14 +29,14 @@ napajedelského hřebčína? Překvapila Vás tato informace?**
  *Poprvé mě oslovil bývalý majitel hřebčína s nynější spolumajitelkou někdy v létě roku 2018.
 Ptali se mě, co bych řekl na to, kdyby byla vedena cesta z Maliny I přes pastviny do
 zámeckého parku. Jednoznačně jsem tehdy řekl NE! V té době ještě o nějakém sídlišti ani
-nebyla řeč.  
+nebyla řeč.*  
  
  
 **2. Co říkáte na způsob komunikace ze strany města? Tento zásadní projekt na
 změnu územního plánu se objevil na zastupitelstvu hned po volbách.** 
 
 
- *Ono se to objevilo, ale tak nějak potichu a mnoho občanů si toho ani nevšimlo.
+ *Ono se to objevilo, ale tak nějak potichu a mnoho občanů si toho ani nevšimlo.*
  
  
 **3. Měli by podle Vás o takto klíčových otázkách rozhodovat občané v místním
@@ -46,7 +46,7 @@ referendu?**
 *Určitě! Je to zásadní otázka. Hřebčín vždy patřil k městu a opačně. Když se řeklo Napajedla,
 tak si každý hned vybavil napajedelský hřebčín s chovem anglického plnokrevníka.
 Napajedelští občané a zejména rodáci si toho vždy vážili a měli by dostat možnost se
-k plánované změně vyjádřit.  
+k plánované změně vyjádřit.*  
  
  
 **4. Souhlasíte s tvrzením, že občané nemohou určovat majiteli soukromého
@@ -63,7 +63,7 @@ právo říct co zde chtějí. Zatím je zde slavný Hřebčín Napajedla. Chova
 můžou, ale v této lokalitě by to asi problém byl. Také jsem slyšel, že by zde mohli pěstovat
 řepku. Nebylo by to asi to nejlepší řešení a mrzelo by mě to. Po řepce je ale možné zde mít
 zpětně znovu pastvinu. Když však zabetonují cca 8 ha pastvin, tak není cesty zpátky a to by si
-měli uvědomit zejména zastupitelé, oni mají poslední slovo.  
+měli uvědomit zejména zastupitelé, oni mají poslední slovo.*  
 
 
 **5. Někteří (viz. prázdninové Napajedelské noviny 2020) Vás podezírají, že kvůli
@@ -75,7 +75,7 @@ svést. To si mám myslet, že kupující z celé republiky, případně i ze z
 odradit od nákupu perspektivního dostihového koně lokální rozmíškou? Potencionální kupci
 mají jednotlivé chovy a jejich produkty dobře zmapované a prostudované. Původy koní a
 jejich výkonnost znají po několik generací. Při rozhodování o koupi koně často rozhoduje i
-renomé hřebčína. Proto se koně z Napajedel vždy dobře prodávali.
+renomé hřebčína. Proto se koně z Napajedel vždy dobře prodávali.*
  
  
 **6. Někteří občané Vás označují za potížistu, který je ovládán svým egem. Co byste
@@ -86,7 +86,7 @@ jim vzkázal?**
 ale hodný, musím je respektovat a neubližovat jim. Snažil jsem se tím řídit a za celý život
 jsem se setkal jen s výjimečně zlým koněm, který nechtěl spolupracovat. Téměř vždy tomu
 byli ale na vině lidé. Pokud je považováno za egoismus to, že bojuji za zachování
-plnokrevného chovu v Napajedlích, tak mě to skutečně nepohoršuje.
+plnokrevného chovu v Napajedlích, tak mě to skutečně nepohoršuje.*
  
  
 **7. Obáváte se úplné likvidace chovu koní?**
