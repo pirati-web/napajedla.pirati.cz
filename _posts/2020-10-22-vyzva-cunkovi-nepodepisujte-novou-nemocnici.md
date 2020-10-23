@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 category: CLANKY
 title: 'Nová krajská koalice vyzývá Jiřího Čunka, aby nepodepisoval projekt nové nemocnice'
 date: 2020-10-22
