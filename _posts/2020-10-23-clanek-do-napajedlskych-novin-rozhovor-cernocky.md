@@ -28,11 +28,13 @@ zámeckého parku. Jednoznačně jsem tehdy řekl NE! V té době ještě o n�
 nebyla řeč.  
  
 **2. Co říkáte na způsob komunikace ze strany města? Tento zásadní projekt na
-změnu územního plánu se objevil na zastupitelstvu hned po volbách.  
+změnu územního plánu se objevil na zastupitelstvu hned po volbách.** 
+
  Ono se to objevilo, ale tak nějak potichu a mnoho občanů si toho ani nevšimlo.
  
 **3. Měli by podle Vás o takto klíčových otázkách rozhodovat občané v místním
-referendu? 
+referendu?**
+
 Určitě! Je to zásadní otázka. Hřebčín vždy patřil k městu a opačně. Když se řeklo Napajedla,
 tak si každý hned vybavil napajedelský hřebčín s chovem anglického plnokrevníka.
 Napajedelští občané a zejména rodáci si toho vždy vážili a měli by dostat možnost se
@@ -63,9 +65,10 @@ mají jednotlivé chovy a jejich produkty dobře zmapované a prostudované. P�
 jejich výkonnost znají po několik generací. Při rozhodování o koupi koně často rozhoduje i
 renomé hřebčína. Proto se koně z Napajedel vždy dobře prodávali.
  
-6. Někteří občané Vás označují za potížistu, který je ovládán svým egem. Co byste
-jim vzkázal?
-         Od malička jsem miloval koně a staříček mně vedl k tomu, že mám být na koně přísný,
+**6. Někteří občané Vás označují za potížistu, který je ovládán svým egem. Co byste
+jim vzkázal?**
+
+Od malička jsem miloval koně a staříček mně vedl k tomu, že mám být na koně přísný,
 ale hodný, musím je respektovat a neubližovat jim. Snažil jsem se tím řídit a za celý život
 jsem se setkal jen s výjimečně zlým koněm, který nechtěl spolupracovat. Téměř vždy tomu
 byli ale na vině lidé. Pokud je považováno za egoismus to, že bojuji za zachování
@@ -98,7 +101,6 @@ zmiňované likvidace slavného chovu?**
 
 Nejde jen o likvidaci hřebčína proslaveného chovem anglického plnokrevníka, ale to je i
 likvidaci zeleně a krásné přírody v centru Napajedel. Stavět na poli či louce by se mělo co
-
 nejméně. Dosud se zemědělskou půdou plýtvalo ve velkém a to je třeba zastavit. Jak se
 jednou něco zabetonuje, již není cesty zpátky. Že bylo v hřebčíně pokáceno více jak 50
 stromů i zdravých, včetně dubů, které zasadil hrabě Baltazzi při založení hřebčína je smutné.
@@ -113,7 +115,8 @@ a životní prostředí. A tato paní si hraje na “mrtvého brouka“ i to je 
 Asi ne, ale to je otázka na samotné majitele. Proč by však usilovali o změnu územního plánu?
 Když se podíváte, jaký má předmět podnikání firma Sygnum, s.r.o. a kdo je jejím
 společníkem, tak je to víc než „jasná zpráva“. 
- 
+
+
 **SYGNUM - Hřebčín Napajedla je v majetku společnosti s ručením omezeným Sygnum.
 Společníkem je v ní pražská akciová společnost Omega Seven Holding s předměty činností
 pronájem nemovitostí, bytů a nebytových prostor, správa vlastního majetku a správa
