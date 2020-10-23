@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'Rozhovor s Antonínem Černockým otisklý v napajedelských novinách - říjen 2020'
 date: 2020-10-23
-author: Tomáš Čabla
-authorId: tomas.cabla
+author: Michal Štěpaník
+authorId: michal.stepanik
 image: /assets/img/posts/noviny4.jpg  
 tags: 'napajedla hrebcin napajedelske-noviny'
 ---
