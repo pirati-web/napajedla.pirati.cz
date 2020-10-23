@@ -5,7 +5,7 @@ title: 'Nová krajská koalice vyzývá Jiřího Čunka, aby nepodepisoval proje
 date: 2020-10-22
 author: Jaromír Horký
 authorId: jaromir.horky
-image: posts/vyzvanemocnice.png
+image: assets/img/posts/vyzvanemocnice.png
 tags: 
 - zlinsky-kraj
 - hana-ancincova
