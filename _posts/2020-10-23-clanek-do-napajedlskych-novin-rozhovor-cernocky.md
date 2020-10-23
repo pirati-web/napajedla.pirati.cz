@@ -6,7 +6,7 @@ date: 2020-10-23
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/noviny4.jpg  
-tags: 'napajedla hrebcin napajedelske-noviny'
+tags: 'Napajedla hřebčín napajedelské-noviny'
 ---
 
 Řada obyvatel města Napajedla, v čele s Piráty, se jednoznačně vymezuje proti územnímu
