@@ -19,6 +19,7 @@ Hlavním iniciátorem aktivit za zachování napajedelského hřebčína je Anto
 bývalý hlavní zootechnik a veterinář hřebčína a také bývalý starosta města Napajedla. Zeptali
 jsme na jeho stanovisko k navrhovanému projektu.  
  
+ 
 **1. Kdy jste poprvé slyšel o projektu stavby činžovních domů v prostorách
 napajedelského hřebčína? Překvapila Vás tato informace?**
  
