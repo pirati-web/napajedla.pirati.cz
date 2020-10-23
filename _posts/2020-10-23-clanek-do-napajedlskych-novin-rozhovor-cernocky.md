@@ -128,6 +128,7 @@ rovněž smutné… Nejmenovaná paní, která než se dala do politiky, byla po
 Hřebčína Napajedla. Nyní je v poslanecké sněmovně a radní Zlínského kraje pro zemědělství
 a životní prostředí. A tato paní si hraje na “mrtvého brouka“ i to je žalostné.
  
+ 
 **10. Myslíte si, že majitelům hřebčína nevadí, jak dramaticky zasáhnou do
 územního plánu a tím i do historie Napajedel?**
 
