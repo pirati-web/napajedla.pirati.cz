@@ -6,7 +6,7 @@ date: 2020-06-26
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/kolaz1.jpg  
-tags: 'napajedla přístaviště výběhy hrebčín uzemní-plán'
+tags: 'napajedla přístaviště výběhy hřebčín uzemní-plán'
 ---
 Ve středu 10.6.2020 jsme se zůčastnili rozšířeného zasedání rady města o zastupitele. Nejprve jsme vyslechli analytickou část strategického plánu. V další části (text vychází ze zápisu jednání rady a zastupitelů) jsme seznámili s plochami stanovenými v platném Územního plánu Napajedla jako plochy pro bydlení. V současném územním plánu jsou k bydlení určeny lokality:
 - Výhledy,
