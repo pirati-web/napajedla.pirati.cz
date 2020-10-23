@@ -15,10 +15,12 @@ parkovacími místy. Poukazují na likvidaci slavného chovu anglického plnokre
 drastický zásah do přírodního bohatství našeho města.
  
  
-Hlavním iniciátorem aktivit za zachování napajedelského hřebčína je Antonín Černocký,
-bývalý hlavní zootechnik a veterinář hřebčína a také bývalý starosta města Napajedla. Zeptali
-jsme na jeho stanovisko k navrhovanému projektu.  
+ 
+**Hlavním iniciátorem aktivit za zachování napajedelského hřebčína je Antonín Černocký,
+bývalý hlavní zootechnik a veterinář hřebčína a také bývalý starosta města Napajedla.**
+Zeptali jsme na jeho stanovisko k navrhovanému projektu.  
  
+ 
  
 **1. Kdy jste poprvé slyšel o projektu stavby činžovních domů v prostorách
 napajedelského hřebčína? Překvapila Vás tato informace?**
