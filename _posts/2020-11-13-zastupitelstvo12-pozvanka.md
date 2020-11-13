@@ -80,6 +80,6 @@ Zasedání zastupitelstva města jsou veřejná!
 
 **C) ZÁVĚREČNÁ ČÁST**
 
-28. - Diskuse
+28 - Diskuse
 
-29. - Závěr
+29 - Závěr
