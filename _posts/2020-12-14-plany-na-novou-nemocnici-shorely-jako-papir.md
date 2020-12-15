@@ -5,7 +5,7 @@ title: 'Plány na novou nemocnici shořely jako papír. Kraj nemá a neměl fina
 date: 2020-12-14
 author: Hana Ančincová
 authorId: hana.ancincova
-image: posts/tw.jpg
+image:  /assets/img/posts/tw.jpg
 tags: 
 - zlinsky-kraj
 - nemocnice
