@@ -7,6 +7,8 @@ author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/radnice-vanoce.jpg  
 tags: 'napajedla zastupitelstvo '
+----
+
 
 Poslední letošní jednání zastupitelstva proběhlo 25.11.2020 od 15.00hod v obřadní síni radnice. Na programu bylo 28 bodů jednání, očekávané projednání případných změn v Územním plánu však mezi body nebylo. V prvním bloku jsme schvalovali majetkové body kde jsme souhlasili s návrhy tak jak byli připraveny a doporučeny radou města. Za zmínku stojí bod č.13 Smlouva o právu provést změnu stavby „SILNICE III/49725: NAPAJEDLA, MOST EV.Č. 49725-1". - chystá se velká rekonstrukce silničního mostu u Fatry, která silně zasáhne do života všech obyvatel města i okolí. Totální rekonstrukce mostní konstrukce zahrnuje kompletní demolici mostu se zachováním pilířů. V podmínkách uzavření smlouvy s investorem, což je Zlínský kraj (přes ŘSZK), je dokončení ulice Dr. Edvarda Beneše a její napojení na silnici I/55. Pro občany tak zátěž nebude končit stavbou dálnice D55 - obchvat Otrokovic, ale bude dále pokračovat dalších předpokládaných 18 měsíců. V rozpravě jsme se dotazovali jak bude řešen příjem signálu NTV CABLE pro obyvatele Zámoraví po demolici mostu, když stávající kabel je uložen na tělese mostu.
 
