@@ -1,8 +1,8 @@
 ---
 layout: blog
 category: CLANKY
-title: '11.té jednání zastupitelstva města, rozpočet města 2021 a Strategický plán'
-date: 2020-10-06
+title: '12.té jednání zastupitelstva města, rozpočet města 2021 a Strategický plán'
+date: 2020-12-16
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/radnice-vanoce.jpg  
@@ -17,7 +17,7 @@ Za zmínku určitě stojí bod **č.13 Smlouva o právu provést změnu stavby �
 
 V bodu č.16 jsme podpořili koupi pozemku a stavby na něm v bezprostřední blízkosti halenkovského přejezdu. V důvodové zprávě se hovoří o tom, že město nemá v lokalitě pozemky a že by bylo možno jej využít pro kontejnerové stání. My bychom se raději dívali do budoucna a to k přesunu vlakové zastávky, která je nevhodně umístěna mimo dosah většího počtu každodenních cestujících a vybudování nové zastávky právě v prostoru přejezdu po jeho plánovaném mimoúrovňovém nově budovaném křížení s železnicí severněji než nyní. I vzhledem k plánované lávce přes řeku Moravu v prostoru ulice Na kapli a podchodu pod trasou dálnice D55 se nabízí blízké a rychlé spojení z centra města pro chodce k vlakové zastávce a využití příměstské dopravy do okolních větších měst.
 
-V bodu č.24 jsme hlasovali **proti podpoře Strategickému dokumentu Napajedla 2021-2030 zpracovaný agenturou Modifo** a veřejně projednaný v kině dne 29.9.2020. K dokumentu jsme **podali tři desítky připomínek a jejich vypořádání považujeme za nedostatečné.** Podle naší analýzy je dokument příliš obsáhlý, tzv. “pohádka o obci”, měl by mít max.50 stran, vize a cíle jsou příliš obecné, chybí vazba cílů na finance (není jasno jak se budou cíle financovat). Dokument byl zpracován dle zadání koalice a podporuje její předvolební sliby. Námi podané připomínky naleznete na našem webu [napajedla.pirati.cz](https://drive.google.com/file/d/1jCAEzYjT5lMh3KX6JAVSblFKPalX6EOF/view?usp=sharing){:target="_blank"}
+V bodu č.24 jsme hlasovali **proti podpoře Strategickému dokumentu Napajedla 2021-2030 zpracovaný agenturou Modifo** a veřejně projednaný v kině dne 29.9.2020. K dokumentu jsme **podali tři desítky připomínek a jejich vypořádání považujeme za nedostatečné.** Podle naší analýzy je dokument příliš obsáhlý, tzv. “pohádka o obci”, měl by mít max.50 stran, vize a cíle jsou příliš obecné, chybí vazba cílů na finance (není jasno jak se budou cíle financovat). Dokument byl zpracován dle zadání koalice a podporuje její předvolební sliby. Námi podané připomínky naleznete [zde](https://drive.google.com/file/d/1jCAEzYjT5lMh3KX6JAVSblFKPalX6EOF/view?usp=sharing){:target="_blank"}
 
 
 Naši podporu získali body týkající se prodeje starého hasičského auta, oprava el.instalace v areálu MŠ, energetické úspory a vybudování výtahu v objektu radnice (vč. žádosti o dotace).
