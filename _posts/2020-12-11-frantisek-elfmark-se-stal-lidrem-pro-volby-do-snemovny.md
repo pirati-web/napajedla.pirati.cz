@@ -5,7 +5,7 @@ title: Lídrem Pirátů ve Zlínském kraji pro volby do PSP se stal František 
 date: 2020-12-11
 author: Jaromír Horký
 authorId: jaromir.horky
-image: posts/elfmarkvolby.jpg
+image:  /assets/img/posts/elfmarkvolby.jpg
 tags: 
 - zlinsky-kraj
 - frantisek-elfmark
