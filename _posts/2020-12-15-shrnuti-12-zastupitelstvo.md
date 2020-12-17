@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: '12.té jednání zastupitelstva města, rozpočet města 2021 a Strategický plán'
-date: 2020-12-16
+date: 2020-12-15
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/radnice-vanoce.jpg  
