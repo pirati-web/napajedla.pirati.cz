@@ -31,3 +31,11 @@ Za pravdu nám dávají i naši zastupitelé z jiných měst Zlínského kraje a
 
 Tyto odměny jsou už nyní velkým tématem v debatách na sociálních sítích našeho města. Opravdu si nechají za svou práci představitelé města platit několikrát? Tyto odměny jsou pro nás neodůvodnitelné a budeme vás informovat o jejich výši a také jak je vedení města zdůvodní.
 
+Celý program jednání najde [zde](https://napajedla.pirati.cz/aktuality/zastupitelstvo13_pozvanka.html){:target="_blank"}
+
+Náš YouTube kanál naleznete [zde](https://www.youtube.com/channel/UCgoN2Mo3r-xe0iO6N5HRWHA){:target="_blank"}
+
+Náš FB profil je [zde](https://www.facebook.com/piratinapa){:target="_blank"}
+
+
+
