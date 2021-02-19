@@ -25,8 +25,8 @@ Můžeme jen spekulovat o výši odměn pro starostku a místostarostu, které s
 
 V minulém roce jsme na tyto odměny upozorňovali v [reportu](https://napajedla.pirati.cz/aktuality/shrnuti-8-zastupitelstvo.html){:target="_blank"}, kdy jsme zpochybňovali mimořádné a významné úkoly pro město. 
 
-> Za pravdu nám dávají i naši zastupitelé z jiných měst Zlínského kraje a také například místostarosta města Kroměříže Vratislav Krejčíř, který se nám vyjádřil i nyní:
-*“Rok 2020 byl vším jiný, například covidovou pandemií, která přinesla mnoho práce a úsilí pro vedení města. Na druhou stranu se nekonalo mnoho akcí a aktivit, které byly odloženy. Osobně jsem měl na starosti finanční podporu a program pro podnikatele, pomoc při zásobování rouškami, dezinfekcí, krizové řízení a informování obyvatel. To vše jsem dělal ale za svůj plat, který mi z uvolněné funkce náleží. Rozhodně bych za tuto činnost pro občany města nepřijal odměnu. Je to má práce, proto si mě lidé zvolili, abych pracoval pro ně.”*
+Za pravdu nám dávají i naši zastupitelé z jiných měst Zlínského kraje a také například místostarosta města Kroměříže Vratislav Krejčíř, který se nám vyjádřil i nyní:
+> *“Rok 2020 byl vším jiný, například covidovou pandemií, která přinesla mnoho práce a úsilí pro vedení města. Na druhou stranu se nekonalo mnoho akcí a aktivit, které byly odloženy. Osobně jsem měl na starosti finanční podporu a program pro podnikatele, pomoc při zásobování rouškami, dezinfekcí, krizové řízení a informování obyvatel. To vše jsem dělal ale za svůj plat, který mi z uvolněné funkce náleží. Rozhodně bych za tuto činnost pro občany města nepřijal odměnu. Je to má práce, proto si mě lidé zvolili, abych pracoval pro ně.”*
 
 
 Tyto odměny jsou už nyní velkým tématem v debatách na sociálních sítích našeho města. Opravdu si nechají za svou práci představitelé města platit několikrát? Tyto odměny jsou pro nás neodůvodnitelné a budeme vás informovat o jejich výši a také jak je vedení města zdůvodní.
