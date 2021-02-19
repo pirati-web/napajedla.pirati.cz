@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'odměny vedení radnice za rok 2020 ??'
+title: 'Odměny vedení radnice za rok 2020 ??'
 date: 2021-02-19
 author: Michal Štěpaník
 authorId: michal.stepanik
