@@ -21,3 +21,5 @@ Ve volném čase se věnuje spolku motokros-zlutava z.s. kde je předsedou. Spol
 Do politiky chtěl vstoupit již dříve jen mu chyběl impuls který našel právě u přístupu Pirátů k politice. Myslí, že právě Pirátská strana je ta pravá volba pro uspokojení svých ideálů a vizí.
 
 Je rozvedený a má dvě děti.
+
+Odměny z veřejných zdrojů zveřejňuje [zde](https://nalodeni.pirati.cz/odmeny/michal.stepanik){:target="_blank"}
