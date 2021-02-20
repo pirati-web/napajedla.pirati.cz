@@ -24,4 +24,4 @@ Zapálení pro dobrou věc, boj za demokratické ideály, aktivita v oblasti lid
 
 Věří, že Pirátská strana je novým politickým subjektem, který vstoupí do domácí i světové politiky a zaktivizuje mladou generaci, která se začne podílet na fungování státu a EU.
 
-**Odměny z veřejných zdrojů zveřejňuje [zde](https://nalodeni.pirati.cz/odmeny/tomas.cabla){:target="_blank"}
+**Odměny z veřejných zdrojů zveřejňuje [zde](https://nalodeni.pirati.cz/odmeny/tomas.cabla){:target="_blank"}**
