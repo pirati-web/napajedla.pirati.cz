@@ -23,3 +23,5 @@ Po osmi letech, kdy se vrátil zpět do rodného města, se nyní coby člen zas
 Zapálení pro dobrou věc, boj za demokratické ideály, aktivita v oblasti lidských práv a ekologie mu zůstala do dnešních dní.
 
 Věří, že Pirátská strana je novým politickým subjektem, který vstoupí do domácí i světové politiky a zaktivizuje mladou generaci, která se začne podílet na fungování státu a EU.
+
+**Odměny z veřejných zdrojů zveřejňuje [zde](https://nalodeni.pirati.cz/odmeny/tomas.cabla){:target="_blank"}
