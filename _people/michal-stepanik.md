@@ -22,4 +22,4 @@ Do politiky chtěl vstoupit již dříve jen mu chyběl impuls který našel pr�
 
 Je rozvedený a má dvě děti.
 
-**Odměny z veřejných zdrojů zveřejňuje [zde](https://nalodeni.pirati.cz/odmeny/michal.stepanik){:target="_blank"}
+**Odměny z veřejných zdrojů zveřejňuje [zde](https://nalodeni.pirati.cz/odmeny/michal.stepanik){:target="_blank"}**
