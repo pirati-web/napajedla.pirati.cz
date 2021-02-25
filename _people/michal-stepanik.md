@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/michal.jpg   # 165 x 220
-description: elektrotechnik<br>zastupitel města od února 2020<br>odměny z veřejných zdrojů zveřejňuje [zde](https://nalodeni.pirati.cz/odmeny/michal.stepanik){:target="_blank"}
+description: elektrotechnik<br>zastupitel města od února 2020<br>odměny z veřejných zdrojů zveřejňuje (https://nalodeni.pirati.cz/odmeny/michal.stepanik)
 mail:
 - michal.stepanik@pirati.cz<br>stepanik@napajedla.cz
 profiles:
