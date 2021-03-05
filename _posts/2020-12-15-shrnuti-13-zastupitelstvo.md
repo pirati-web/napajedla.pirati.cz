@@ -1,8 +1,8 @@
 ---
 layout: blog
 category: CLANKY
-title: '13.té jednání zastupitelstva města, rozpočet města 2021 a Strategický plán'
-date: 2021-03-05
+title: '13.té jednání zastupitelstva města'
+date: 2020-03-05
 author: Tomáš Čabla
 authorId: tomas.cabla
 image: /assets/img/posts/studie_jiraskova_7a.png  
