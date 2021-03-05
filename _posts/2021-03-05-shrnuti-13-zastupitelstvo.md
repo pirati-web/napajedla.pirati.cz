@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: '13.té jednání zastupitelstva města, lokalita Úvoz, odměny vedení města!'
-date: 2020-03-05
+date: 2021-03-05
 author: Tomáš Čabla
 authorId: tomas.cabla
 image: /assets/img/posts/studie_jiraskova_7a.png  
