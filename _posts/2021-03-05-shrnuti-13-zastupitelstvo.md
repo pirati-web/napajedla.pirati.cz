@@ -9,7 +9,7 @@ image: /assets/img/posts/studie_jiraskova_7a.png
 tags: 'napajedla zastupitelstvo '
 
 ---
-První letošní a zároveň celkově 13. jednání zastupitelstva města proběhlo 24.2.2021 v obřadní síni radnice. Na programu byli majetkové věci které jsme podpořili, stejně jako prodej hasičského auta či přijmutí daru v podobě parkovacích stání v ulici Nábřeží.
+První letošní a zároveň celkově 13. jednání zastupitelstva města proběhlo 24.2.2021 v obřadní síni radnice. Na programu byly majetkové věci které jsme podpořili, stejně jako prodej hasičského auta či přijmutí daru v podobě parkovacích stání v ulici Nábřeží.
 
 Byly schváleny dvě OZV (o nočním klidu a poplatku z pobytu) a výše úhrad za odpady. Stejně tak jsme podpořili schválení dotací pro spolky a sportovní kluby, přerozdělení dotací pro žadatele v rámci Městské památkové zóny či změny v rámci rozpočtu města.
 
