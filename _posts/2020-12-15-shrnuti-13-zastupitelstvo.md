@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: '13.té jednání zastupitelstva města'
+title: '13.té jednání zastupitelstva města, odměny!?'
 date: 2020-03-05
 author: Tomáš Čabla
 authorId: tomas.cabla
@@ -15,9 +15,9 @@ Byly schváleny dvě OZV (o nočním klidu a poplatku z pobytu) a výše úhrad 
 
 Bylo schváleno zadání studie Jižní spojka, jejíž vypracování požaduje Územní plán schválený v roce 2016 a seznámili jsme se vypracovanou studií Jiráskova, kde je navržena výstavba 7 rodinných domů developera pana Rapanta.
 
-Poslední dva body byly předloženy radním panem Tilšerem a jejich schválením byla vyplacena mimořádná odměna starostce a místostarostovi města ve výši jednoho platu (v úplně prvním návrhu byly platy dva  :-1: ). Tyto body jsme nepodpořili a hlasovali jsme proti vyplacení. K vyplacení nevidíme důvody které pan Tilšer na jednání obhajoval, ztížené pracovní prostředí vlivem pandemie Covid-19. Při takové společenské krizi jako je pandemie by měli představitelé měst a státu být skromnější a empatičtí. Pokud se jim zdá, že mají nízké platy mají si najít jinou práci. Tento návrh mohou při jednání odmítnout. Neučinili tak. Naopak by měli odměny být směřovány do lidí pracujících v sociálních službách či ponechány v rozpočtu města. :)
+**Poslední dva body byly předloženy radním panem Tilšerem a jejich schválením byla vyplacena mimořádná odměna starostce a místostarostovi města ve výši jednoho platu (v úplně prvním návrhu byly platy dva). Tyto body jsme nepodpořili a hlasovali jsme proti vyplacení. K vyplacení nevidíme důvody které pan Tilšer na jednání obhajoval, ztížené pracovní prostředí vlivem pandemie Covid-19. Při takové společenské krizi jako je pandemie by měli představitelé měst a státu být skromnější a empatičtí. Pokud se jim zdá, že mají nízké platy mají si najít jinou práci. Tento návrh mohou při jednání odmítnout. Neučinili tak. Naopak by měli odměny být směřovány do lidí pracujících v sociálních službách či ponechány v rozpočtu města.**
 
- [zde.](https://napajedla.pirati.cz/aktuality/shrnuti-11-zastupitelstvo.html){:target="_blank"}
+
 
 
 
