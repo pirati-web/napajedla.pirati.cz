@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: '13.té jednání zastupitelstva města, odměny!?'
+title: '13.té jednání zastupitelstva města, odměny vedení města!'
 date: 2020-03-05
 author: Tomáš Čabla
 authorId: tomas.cabla
