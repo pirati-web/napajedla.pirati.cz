@@ -20,13 +20,13 @@ Jak víme, zvedla se vlna občanské angažovanosti a vytvořila se [petice](htt
 
 Zastupitelstvo města, na svém jednání 26.2.2020 o vydání Opatření obecné povahy změny č.1A ÚP Napajedla, bylo informováno, že 4 návrhy (lokalita Horní díly, lokalita Zámoraví – nahrazení železničních přejezdů, lokalita Severní průmyslová zóna a lokalita Výběhy) budou řešeny v návrzích na pořízení změny označeném 1B. Při projednávání jsme i my namítali, že tyto lokality nelze projednávat a o nich rozhodovat společně. Po připomínkách zastupitelů na rozdělení návrhu č. 1B paní starostka sdělila, ”že se na tom bude pracovat, aby to byl samostatný bod”.
 
-V prosinci 2020  [Rada města schválila smlouvu o dílo,(bod 22 zápisu)](https://www.napajedla.cz/e_download.php?file=data/uredni_deska/obsah1989_15.pdf&original=RM_%C4%8D._32_dne_14._12._2020.pdf){:target="_blank"} na zhotovení projektové dokumentace na akci “Územní plán Napajedla – změna č.1B”. Na stavebním úřadě, jsme se dozvěděli, že zatím k rozdělení nedošlo a že architektonická kancelář vypracovává změnu č. 1B jako celek. 
+V prosinci 2020  [Rada města schválila smlouvu o dílo, (bod 22 zápisu)](https://www.napajedla.cz/e_download.php?file=data/uredni_deska/obsah1989_15.pdf&original=RM_%C4%8D._32_dne_14._12._2020.pdf){:target="_blank"} na zhotovení projektové dokumentace na akci “Územní plán Napajedla – změna č.1B”. Na stavebním úřadě, jsme se dozvěděli, že zatím k rozdělení nedošlo a že architektonická kancelář vypracovává změnu č. 1B jako celek. 
 
 A zde vidíme kámen úrazu, že návrhy změny č.1B nejdou již rozdělit a hlasovat tak o lokalitě Výběhy zvlášť. To znamená buď všechno nebo nic. 
 
-Jako Piráti Napajedla budeme při budoucím projednávání hlasovat proti schválení návrhu změny č.1B a budeme navrhovat nové zpracování těchto změn a to odděleně, tak jak bylo deklarováno starostkou města na veřejném jednání zastupitelstva. A budeme prosazovat místní Referendum, aby o tak závažném zásahu do Územního plánu o plánované výstavbě cca319 bytů rozhodli občané a nikoliv 21 exotů zvolených do zastupitelstva.
+Jako Piráti Napajedla budeme při budoucím projednávání hlasovat proti schválení návrhu změny č.1B a budeme navrhovat nové zpracování těchto změn a to odděleně, tak jak bylo deklarováno starostkou města na veřejném jednání zastupitelstva. A budeme prosazovat místní [Referendum](https://youtu.be/qP1DMo0AxqU){:target="_blank"}, aby o tak závažném zásahu do Územního plánu o plánované výstavbě cca319 bytů rozhodli občané a nikoliv 21 exotů zvolených do zastupitelstva.
 
-Na druhou stranu, máme nyní v územním plánu několik lokalit, které nejsou zastaveny a jsou určeny pro výstavbu. Celková navrhovaná výměra zastavitelných ploch je v Územním plánu Napajedla cca 20,5 ha. V územně analytických podkladech pro ORP Otrokovice je potřeba zastavitelných ploch stanovena pro Napajedla na cca 6,33 ha, v Napajedlích jsou tedy tyto plochy naddimenzovány. Pokud chceme další místa na možný rozvoj města, tak jsme několikrát hovořili o lokalitě Jižní spojka (plánované spojení silnice Napajedla-Topolná na silnici I/55 přes Moravu kolem Pahrbku), kde bylo jak místo pro hromadnou rekreaci (sportoviště), tak by zde byla rezerva pro bydlení (za ulicemi Příční a K Pahrbku) 
+Na druhou stranu, máme nyní v územním plánu několik lokalit, které nejsou zastaveny a jsou určeny pro výstavbu. Celková navrhovaná výměra zastavitelných ploch je v Územním plánu Napajedla cca 20,5 ha. V územně analytických podkladech pro ORP Otrokovice je potřeba zastavitelných ploch stanovena pro Napajedla na cca 6,33 ha, v Napajedlích jsou tedy tyto plochy naddimenzovány. Pokud chceme další místa na možný rozvoj města, tak jsme několikrát [hovořili](https://napajedla.pirati.cz/aktuality/shrnuti-11-zastupitelstvo.html) o lokalitě [Jižní spojka](https://drive.google.com/drive/folders/1bCWnx5duZrcUqiBmPi3oQDrOs7rQt-Oi?usp=sharing){:target="_blank"} (plánované spojení silnice Napajedla-Topolná na silnici I/55 přes Moravu kolem Pahrbku), kde bylo jak místo pro hromadnou rekreaci (sportoviště), tak by zde byla rezerva pro bydlení (za ulicemi Příční a K Pahrbku) 
 
 A každý občan by si měl položit otázku, jestli při budoucím rozvoji města chce další sídliště či rodinné domy.
 
@@ -42,14 +42,6 @@ A každý občan by si měl položit otázku, jestli při budoucím rozvoji měs
 
 
 
-
-
-**Se svolením kanceláře je studie k dispozice [zde](https://www.napajedla.cz/e_download.php?file=data/uredni_deska/obsah1989_15.pdf&original=RM_%C4%8D._32_dne_14._12._2020.pdf){:target="_blank"}**
-
-Posledním návrhem byl náš **pirátský návrh na změny v lokalitě Jižní spojka kde bychom chtěli navrátit rekreační plochy které byli z Uzemního plánu odebrány v minulosti. Fotogalerie s naším návrhem je [zde](https://drive.google.com/drive/folders/1bCWnx5duZrcUqiBmPi3oQDrOs7rQt-Oi?usp=sharing){:target="_blank"}**
-
-Při jednání rady města 27.5.2020 byl projednán bod o rozšíření kapacity **přístaviště v centru města.** Přílohou jednání bylo "Dispozičně – architektonické řešení rozšíření přístavní kapacity ve městě Napajedla“.
-**Vizualizaci jsme si vyžádali na Ředitelství vodních cest ČR a s jejich souhlasem si ji můžete prohlédnout [zde](https://drive.google.com/file/d/1FaMzCimaPXxhUbSR7LCppirh8FoeFHuJ/view?usp=sharing){:target="_blank"}** 
 
 
 
