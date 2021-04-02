@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Změny v Územním plánu...'
-date: 2021-04-15
+date: 2021-04-01
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: /assets/img/posts/kolaz1.jpg  
