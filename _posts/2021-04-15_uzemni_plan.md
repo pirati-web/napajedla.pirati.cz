@@ -32,16 +32,7 @@ A každý občan by si měl položit otázku, jestli při budoucím rozvoji měs
 
 
 
-
-
-
-
-
-
-
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qP1DMo0AxqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
