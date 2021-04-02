@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Vizualizace rozšíření přístaviště a studie lokalit pro bydlení v Napajedlích.'
+title: 'Změny v Územním plánu...'
 date: 2021-04-15
 author: Michal Štěpaník
 authorId: michal.stepanik
