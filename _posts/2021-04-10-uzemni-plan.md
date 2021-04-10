@@ -22,7 +22,7 @@ Zastupitelstvo města, na svém jednání 26.2.2020 o vydání Opatření obecn�
 
 V prosinci 2020  [Rada města schválila smlouvu o dílo, (bod 22 zápisu)](https://www.napajedla.cz/e_download.php?file=data/uredni_deska/obsah1989_15.pdf&original=RM_%C4%8D._32_dne_14._12._2020.pdf){:target="_blank"} na zhotovení projektové dokumentace na akci “Územní plán Napajedla – změna č.1B”. Na stavebním úřadě, jsme se dozvěděli, že zatím k rozdělení nedošlo a že architektonická kancelář vypracovává změnu č. 1B jako celek. 
 
-A zde vidíme kámen úrazu, že návrhy změny č.1B nejdou již rozdělit a hlasovat tak o lokalitě Výběhy zvlášť. To znamená buď všechno nebo nic. 
+**A zde vidíme kámen úrazu, že návrhy změny č.1B nejdou již rozdělit a hlasovat tak o lokalitě Výběhy zvlášť. To znamená buď všechno nebo nic. **
 
 **Jako Piráti Napajedla budeme při budoucím projednávání hlasovat proti schválení návrhu změny č.1B a budeme navrhovat nové zpracování těchto změn a to odděleně, tak jak bylo  [deklarováno starostkou města na veřejném jednání zastupitelstva (bod 12 zápisu)](https://www.napajedla.cz/e_download.php?file=data/uredni_deska/obsah1790_1.pdf&original=ZM%20%C4%8D.%2008%20dne%2026.02.2020..pdf){:target="_blank"}. A budeme prosazovat místní [Referendum](https://youtu.be/qP1DMo0AxqU){:target="_blank"}, aby o tak závažném zásahu do Územního plánu o plánované výstavbě cca319 bytů rozhodli občané a nikoliv 21 exotů zvolených do zastupitelstva.**
 
