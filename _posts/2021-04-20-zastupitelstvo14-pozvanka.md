@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-4title: 'Pozvánka na 14. zastupitelstvo volebního období 2018-2022'
+title: 'Pozvánka na 14. zastupitelstvo volebního období 2018-2022'
 date: 2021-04-20
 author: Michal Štěpaník
 authorId: michal.stepanik
@@ -31,6 +31,7 @@ Zasedání zastupitelstva města jsou veřejná!
 **B) PROJEDNÁNÍ PŘEDKLÁDANÝCH ZPRÁV**
 
  6 - Uzavření kupní smlouvy na odkoupení spoluvlastnického podílu pozemku pod bytovým domem na Nábřeží v k. ú. Napajedla
+ 
  7 - Odkoupení pozemků v rámci rekonstrukce silnice III/4973: Napajedla – ulice Bartošova
  
  8 - Uzavření kupní smlouvy - ul. Smetanova
