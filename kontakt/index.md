@@ -6,11 +6,11 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contentSize: even
 contactPersons:
-  - id: martina.urbankova
-    position: Předsedkyně MS Zlín
   - id: michal.stepanik
+    position: Kontakt na zastupitele
   - id: tomas.cabla
-    position: Kontakt na zastupitele  
+  - id: martina.urbankova
+    position: Předsedkyně MS Zlín  
   - id: lucie.svehlikova
     position: Kontakt pro sněmovní volby 2021
   - id: yveta.martinkova
