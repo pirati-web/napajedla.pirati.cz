@@ -11,7 +11,7 @@ rbar: ""
 <ol>
 <li><strong><a href="https://napajedla.pirati.cz/lide/tomas-cabla/">Tomáš Čabla</a></strong>, 40 let, zastupitel města Napajedla, člen Pirátů</li>
 <li><strong><a href="https://napajedla.pirati.cz/lide/jiri-krkoska/">Jiří Krkoška</a></strong>, 36 let, zastupitel města Napajedla 2018-2020, nezávislý kandidát</li>
-<li><strong><a href="https://napajedla.pirati.cz/lide/michal-stepanik/">Michal Štěpaník</a>, 40 let, zastupitel města od roku 2020, člen Kontrolního výboru města Napajedla, člen Pirátů</li>
+<li><strong><a href="https://napajedla.pirati.cz/lide/michal-stepanik/">Michal Štěpaník</a></strong>, 40 let, zastupitel města od roku 2020, člen Kontrolního výboru města Napajedla, člen Pirátů</li>
 </ol>
 <p>&nbsp;</p>
 <p>Z&aacute;kladn&iacute;m principem demokracie je občansk&aacute; angažovanost a možnost se k rozvoji města vyj&aacute;dřit m&iacute;stn&iacute;m referendem.</p>
