@@ -1,8 +1,8 @@
 ---
 layout: pirate-center
-heroHeadline: Programové body Pirátů Zlín
-heroDescription: Komunální volby 2018 
-img: pardupice/krizovatka.jpg
+heroHeadline: 'Program Pirátů pro Napajedla 2018-2022'
+heroDescription: '„Město nevládne občanům, ale občané vládnou městu.”' 
+img: pardupice/napajedlav.jpg
 addressNote: zatím nemáme místní adresu,
              najdete nás na našich schůzích nebo akcích 
 rbar: ""
