@@ -8,8 +8,9 @@ contentSize: even
 contactPersons:
   - id: martina.urbankova
     position: Předsedkyně MS Zlín
-  - id: lucie.svehlikova
-    position: Mediální specialistka
+  - id: michal.stepanik
+  - id: tomas.cabla
+    position: Kontakt na zastupitele  
   - id: lucie.svehlikova
     position: Kontakt pro sněmovní volby 2021
   - id: yveta.martinkova
