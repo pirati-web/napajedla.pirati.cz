@@ -7,6 +7,13 @@ addressNote: zatím nemáme místní adresu,
              najdete nás na našich schůzích nebo akcích 
 rbar: ""
 ---
+<h2><strong>Piráti v Napajedlích</strong></h2>
+<ol>
+<li><strong><a href="https://napajedla.pirati.cz/lide/tomas-cabla/">Tomáš Čabla</a></strong>, 40 let, zastupitel města Napajedla, člen Pirátů</li>
+<li><strong><a href="https://napajedla.pirati.cz/lide/jiri-krkoska/">Jiří Krkoška</a></strong>, 36 let, zastupitel města Napajedla 2018-2020, nezávislý kandidát</li>
+<li><strong><a href="https://napajedla.pirati.cz/lide/michal-stepanik/">Michal Štěpaník</a>, 40 let, zastupitel města od roku 2020, člen Kontrolního výboru města Napajedla, člen Pirátů</li>
+</ol>
+<p>&nbsp;</p>
 <p>Z&aacute;kladn&iacute;m principem demokracie je občansk&aacute; angažovanost a možnost se k rozvoji města vyj&aacute;dřit m&iacute;stn&iacute;m referendem.</p>
 <h2><strong>1. Z&aacute;meck&yacute; park </strong></h2>
 <p>Uchov&aacute;n&iacute; městsk&yacute;ch kulturn&iacute;ch a sportovn&iacute;ch budov v z&aacute;meck&eacute;m parku. Oprava divadeln&iacute;ho s&aacute;lu, kancel&aacute;ř&iacute; a venkovn&iacute;ho h&aacute;zenk&aacute;řsk&eacute;ho hři&scaron;tě. Mysl&iacute;me si, že budovy v tak v&yacute;znamn&eacute; lokalitě by neměly b&yacute;t prod&aacute;ny, ale uchov&aacute;ny pro dal&scaron;&iacute; generace a využity na 100%.</p>
@@ -72,7 +79,7 @@ rbar: ""
 <ul>
 <li><strong>Kanalizace na Z&aacute;morav&iacute;</strong></li>
 </ul>
-<p>Kanalizace na Z&aacute;morav&iacute;, &Scaron;ardici a Radovanech nen&iacute; plně funkčn&iacute; a doře&scaron;ena.<br />&nbsp;&nbsp;</p>
+<p>Kanalizace na Z&aacute;morav&iacute;, &Scaron;ardici a Radovanech nen&iacute; plně funkčn&iacute; a doře&scaron;ena.</p>
 <h2><strong>7. Kultura, sport a činnost spolků v Napajedl&iacute;ch</strong></h2>
 <ul>
 <li>Podporujeme st&aacute;vaj&iacute;c&iacute; projekty a akce Klubu kultury. Zachov&aacute;me v&scaron;echny akce kter&eacute; se pravidelně opakuj&iacute; každ&yacute; rok s t&iacute;m, že financov&aacute;n&iacute; zastropujeme.</li>
@@ -133,7 +140,6 @@ rbar: ""
 <p>Občan&eacute; dnes nemaj&iacute; &scaron;anci zjistit, kolik peněz bylo komu a za co zaplaceno. Chceme, aby obec pře&scaron;la k využ&iacute;v&aacute;n&iacute; transparentn&iacute;ch bankovn&iacute;ch &uacute;čtů a otevřen&eacute;ho &uacute;četnictv&iacute; v&scaron;ude tam, kde to z&aacute;kon dovoluje. V&scaron;ichni tak budou moci kontrolovat, za co konkr&eacute;tně se finančn&iacute; prostředky obce utr&aacute;cej&iacute;. Pro společnosti, ve kter&yacute;ch je vět&scaron;inov&yacute;m vlastn&iacute;kem obec, mus&iacute; platit stejn&eacute; povinnosti otevřen&eacute;ho hospodařen&iacute; jako pro obec samotnou. Otevřen&yacute; &uacute;čet zprostředkov&aacute;v&aacute; př&iacute;mo banka.</p>
 <h2><strong>4. Veřejn&eacute; zak&aacute;zky</strong></h2>
 <p><strong>Zveřejňov&aacute;n&iacute; smluv. Kontrola při v&yacute;běrov&yacute;ch ř&iacute;zen&iacute;, kde v &bdquo;hodnot&iacute;c&iacute; komisi&ldquo; bude zasedat 3-5 zastupitelů i s občany. Transparentn&iacute;m ř&iacute;zen&iacute;m přil&aacute;k&aacute;me v&iacute;ce z&aacute;jemců. Tak sn&iacute;ž&iacute;me ceny a zv&yacute;&scaron;&iacute;me kvalitu.</strong></p>
-<p><strong>&nbsp;</strong></p>
 <p><strong>Zad&aacute;v&aacute;n&iacute; veřejn&yacute;ch zak&aacute;zek:</strong></p>
 <ul>
 <li>Zad&aacute;vac&iacute; ř&iacute;zen&iacute; budeme administrovat předev&scaron;&iacute;m v r&aacute;mci př&iacute;slu&scaron;n&eacute;ho odboru na radnici a podle jasn&yacute;ch a veřejně dostupn&yacute;ch pravidel, kter&aacute; definuj&iacute; osobn&iacute; odpovědnost. Hodnot&iacute;c&iacute; komise bude tvořena ze zastupitelů a občanů.</li>
