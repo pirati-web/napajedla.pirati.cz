@@ -7,15 +7,11 @@ addressNote: zatím nemáme místní adresu,
              najdete nás na našich schůzích nebo akcích 
 rbar: ""
 ---
-<h2><strong><em>&ldquo;Město nevl&aacute;dne občanům, ale občan&eacute; vl&aacute;dnou městu.&rdquo;</em></strong></h2>
 <p>Z&aacute;kladn&iacute;m principem demokracie je občansk&aacute; angažovanost a možnost se k rozvoji města vyj&aacute;dřit m&iacute;stn&iacute;m referendem.</p>
-<p>&nbsp;</p>
 <h2><strong>1. Z&aacute;meck&yacute; park </strong></h2>
 <p>Uchov&aacute;n&iacute; městsk&yacute;ch kulturn&iacute;ch a sportovn&iacute;ch budov v z&aacute;meck&eacute;m parku. Oprava divadeln&iacute;ho s&aacute;lu, kancel&aacute;ř&iacute; a venkovn&iacute;ho h&aacute;zenk&aacute;řsk&eacute;ho hři&scaron;tě. Mysl&iacute;me si, že budovy v tak v&yacute;znamn&eacute; lokalitě by neměly b&yacute;t prod&aacute;ny, ale uchov&aacute;ny pro dal&scaron;&iacute; generace a využity na 100%.</p>
-<p>&nbsp;</p>
 <h2><strong>2. Mě&scaron;ťansk&eacute; domy Palack&eacute;ho 94-95</strong></h2>
 <p>Opravit budovy a zachovat jejich historick&yacute; vzhled. Budouc&iacute; využit&iacute; těchto budov může b&yacute;t v realizaci bytů, kancel&aacute;ř&iacute;, obchodů, soci&aacute;ln&iacute;ch bytů či bytů pro seniory nebo startovac&iacute;ch bytů pro rodiny. Investice takto vynaložen&aacute; je do budouc&iacute;ch let n&aacute;vratn&aacute;, naproti tomu dal&scaron;&iacute; divadeln&iacute; s&aacute;l je finančn&iacute; z&aacute;těž&iacute; města.</p>
-<p>&nbsp;</p>
 <h2><strong>3. &Uacute;zemn&iacute; pl&aacute;n města</strong></h2>
 <p>Zastropov&aacute;n&iacute; průmyslu, kter&yacute; se č&iacute;m d&aacute;l t&iacute;m v&iacute;ce roz&scaron;iřuje a přibližuje k obytn&yacute;m z&oacute;n&aacute;m a rekreačn&iacute;m m&iacute;stům. Město nedostatečně tvoř&iacute; rezervy pozemků, kter&eacute; by mohly b&yacute;t využity ke směn&aacute;m při tvorbě bioregionů, k pozemkov&yacute;m &uacute;prav&aacute;m a k stavbě rodinn&yacute;ch domů, sportovn&iacute;mu či rekreačn&iacute;mu využit&iacute;.&nbsp;&nbsp;</p>
 <ul>
@@ -38,10 +34,9 @@ rbar: ""
 <li><strong>Chmelnice</strong></li>
 </ul>
 <p>Klidov&aacute; z&oacute;na parku s možn&yacute;m využ&iacute;v&aacute;n&iacute;m sportovn&iacute; činnosti a v&yacute;stavbou&nbsp;bytov&yacute;ch domů.</p>
-<p>&nbsp;</p>
 <h2><strong>4. Zř&iacute;zen&iacute; Mateřsk&eacute; &scaron;kolky v z&aacute;meck&eacute;m are&aacute;lu</strong></h2>
 <p>Alternativn&iacute; v&yacute;chova by mohla tvořit dal&scaron;&iacute; možnost vzděl&aacute;v&aacute;n&iacute; v Napajedl&iacute;ch (po vzoru Lesn&iacute; či Waldorfsk&eacute; &scaron;kolky) v budov&aacute;ch Klubu kultury.</p>
-<p>&nbsp;</p>
+
 <h2><strong>5. Budeme se zasazovat, aby se město připojilo k:</strong></h2>
 <ul>
 <li>asociaci N&aacute;rodn&iacute; s&iacute;ť Zdrav&yacute;ch měst ČR (NSZM), jenž je certifikov&aacute;na ze strany Světov&eacute; zdravotn&iacute; organizace <a href="https://www.zdravamesta.cz/index.shtml?apc=r2081939t">Světov&eacute; zdravotn&iacute; organizace</a> (WHO) jako kvalitn&iacute; realizačn&iacute; platforma programu <a href="https://www.zdravamesta.cz/index.shtml?apc=r2081924t">Zdrav&eacute; město WHO v Česku</a>. Celost&aacute;tn&iacute; s&iacute;ťov&aacute; spolupr&aacute;ce umožňuje členům NSZM sd&iacute;let zku&scaron;enosti a dobrou praxi v nejrůzněj&scaron;&iacute;ch oblastech jejich rozvoje. Zapojen&iacute; do&nbsp;NSZM přin&aacute;&scaron;&iacute; i možnost&nbsp;mezin&aacute;rodn&iacute; spolupr&aacute;ce&nbsp;po&nbsp;cel&eacute; Evropě.&nbsp; <a href="https://www.zdravamesta.cz/index.shtml">https://www.zdravamesta.cz/index.shtml</a></li>
@@ -50,7 +45,6 @@ rbar: ""
 <p style="text-align: center;">&ldquo;s &uacute;ctou k odkazu předků,</p>
 <p style="text-align: center;">s ohledem na potřeby současn&iacute;ků,</p>
 <p style="text-align: center;">s odpovědnost&iacute; za budoucnost potomků&rdquo;</p>
-<p>&nbsp;</p>
 <h2><strong>6. Vodovody a kanalizace Napajedla</strong></h2>
 <p>Provozn&iacute; model tak jak je nastaven, je l&eacute;ta nev&yacute;hodn&yacute; pro občany, městskou vod&aacute;rnu i města, bohatne na něm soukrom&aacute; nadn&aacute;rodn&iacute; společnost. <strong>Česk&aacute; pir&aacute;tsk&aacute; strana považuje vodu za strategickou surovinu a dod&aacute;vky vody a jej&iacute; či&scaron;těn&iacute; za službu veřejnosti.</strong> Napajedla maj&iacute; cca&nbsp; 25 km vodovodů a kanalizac&iacute; a Čist&iacute;rnu odpadn&iacute;ch vod v hodnotě 200 milionů.</p>
 <p>Kolem Vodovodů a kanalizac&iacute; Zl&iacute;n (VaK Zl&iacute;n) prob&iacute;h&aacute; l&eacute;ta protipr&aacute;vn&iacute; komplot a Vrchn&iacute; soud v Olomouci označil pravomocně Statut&aacute;rn&iacute; město Zl&iacute;n, Jižn&iacute; vod&aacute;renskou a.s. (Veolia ) a Českou spořitelnu a.s. za pachatele tohoto jedn&aacute;n&iacute;. Proto <strong>zneplatnil valnou hromadu z 30.dubna 2004, kde se protipr&aacute;vně schv&aacute;lil prodej provozn&iacute; divize a pron&aacute;jem provozov&aacute;n&iacute;.&nbsp; Vrchn&iacute; soud v Olomouci&nbsp; konstatuje:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -87,16 +81,13 @@ rbar: ""
 <li>Budeme podporovat volnočasov&eacute; aktivity pro děti, kter&eacute; poskytuj&iacute; DDM Mat&yacute;sek, ZU&Scaron; R. Firku&scaron;n&eacute;ho a sportovn&iacute; odd&iacute;ly. Podporujeme činnost m&iacute;stn&iacute;ch spolků a m&iacute;stn&iacute; knihovnu (jej&iacute; digitalizaci - knihovna tak zapůjč&iacute; jakoukoliv knihu).</li>
 <li>Je třeba udržovat kulturu a pam&aacute;tky, kter&eacute; jsou bohatstv&iacute;m obce, zpř&iacute;stupňovat je veřejnosti a informovat o nich.</li>
 </ul>
-<p>&nbsp;</p>
 <h2><strong>8. Sloučen&iacute; NBTH, NTV Cable a Služeb města Napajedla</strong></h2>
 <p>Slouč&iacute;me společnosti města do jedn&eacute; organizace a zř&iacute;d&iacute;me dozorč&iacute; radu, kde občan&eacute; mohou dělat kontrolu.</p>
-<p>&nbsp;</p>
 <h2><strong>9. Odpady, životn&iacute; prostřed&iacute;, biokoridory</strong></h2>
 <p>Dokonč&iacute;me &uacute;pravy kontejnerov&yacute;ch st&aacute;n&iacute;, ne v&scaron;ude jsou dokončeny. Vyvol&aacute;me diskuzi k digitalizaci sběru odpadu a přid&aacute;n&iacute; popelnic na olej a tuky.</p>
 <p>Stromy ve městě budeme pravidelně doplňovat tam, kde dojde k &uacute;hynu. Vyvol&aacute;me s odborn&iacute;ky diskuzi, co s ka&scaron;tany na ulici Komensk&eacute;ho (pah&yacute;ly), zda v dne&scaron;n&iacute; době nebude vhodněj&scaron;&iacute; n&aacute;hrada - vysadit např&iacute;klad Platanovou alej.</p>
 <p>Zaměř&iacute;me se na tvorbu biokoridorů, začneme ře&scaron;it &uacute;pravy pozemků tak, aby de&scaron;ťov&aacute; voda byla zadržena v půdě a v m&iacute;stě dopadu. Chceme zabraňovat erozi půdy a komunikac&iacute; s majiteli a n&aacute;jemci pozemků vytv&aacute;řet rem&iacute;zky a ovlivňovat druh a skladbu vysazen&yacute;ch plodin.</p>
 <p>De&scaron;ťovou vodu z městsk&yacute;ch budov tam kde to lze zrealizovat a využ&iacute;t zadrž&iacute;me pro pozděj&scaron;&iacute; využit&iacute; (WC &scaron;kolsk&yacute;ch zař&iacute;zen&iacute;, Služby města Napajedla, tenisov&eacute; kurty...</p>
-<p>&nbsp;</p>
 <h2><strong>10. Doprava</strong></h2>
 <ul>
 <li><strong>Autobusov&aacute; obslužnost Napajedel</strong></li>
@@ -110,25 +101,18 @@ rbar: ""
 <li><strong>Cyklostezky</strong></li>
 </ul>
 <p>Dokonč&iacute;me v&yacute;stavbu cyklostezky mezi Stavebninami a Pahrbkem. Zah&aacute;j&iacute;me diskuzi o stavbě cyklostezky pod&eacute;l I/55 do Otrokovic.</p>
-<p>&nbsp;</p>
 <h2><strong>11. Městsk&aacute; Policie</strong></h2>
 <p>S pl&aacute;novan&yacute;m zru&scaron;en&iacute;m Obvodn&iacute;ho oddělen&iacute; PČR v Napajedl&iacute;ch budeme situaci ře&scaron;it person&aacute;ln&iacute;m pos&iacute;len&iacute; městsk&eacute; policie tak aby byla zaji&scaron;těna jej&iacute; činnost.</p>
-<p>&nbsp;</p>
 <h2><strong>12. Soci&aacute;ln&iacute; služby</strong></h2>
 <p>Podporujeme činnost DPS, Pečovatelsk&eacute; služby a Klubu důchodců. Zajist&iacute;me jejich financov&aacute;n&iacute; i do budoucna.</p>
-<p>&nbsp;</p>
 <h2><strong>13. Podpora m&iacute;stn&iacute;ho podnik&aacute;n&iacute;</strong></h2>
 <p>Budeme usilovat o kvalitn&iacute; podnikatelsk&eacute; prostřed&iacute; v obc&iacute;ch tak, aby nebyla sv&eacute;volně mařena aktivita m&iacute;stn&iacute;ch občanů a firem. Podporu m&iacute;stn&iacute;ho podnik&aacute;n&iacute;, transparentnost a otevřenost ve vztaz&iacute;ch obce, občanů a podnikaj&iacute;c&iacute;ch subjektů považujeme za z&aacute;klad ekonomick&eacute;ho rozvoje obc&iacute; a regionů. Upřednostňujeme drobn&eacute; lok&aacute;ln&iacute; podnikatele v obci před nadn&aacute;rodn&iacute;mi.</p>
-<p>&nbsp;</p>
 <h2><strong>14. &Scaron;kolstv&iacute;</strong></h2>
 <p>Ch&aacute;peme vzděl&aacute;v&aacute;n&iacute; jako n&aacute;stroj pro osobn&iacute; rozvoj, nejen pro z&iacute;sk&aacute;n&iacute; pr&aacute;ce. &Scaron;kola je jedn&iacute;m z nejdůležitěj&scaron;&iacute;ch m&iacute;st obce. Do př&iacute;pravy a projedn&aacute;v&aacute;n&iacute; budouc&iacute; koncepce a v&yacute;voje &scaron;koly by měli b&yacute;t zapojeni i star&scaron;&iacute; ž&aacute;ci a veřejnost. Z&aacute;roveň zavedeme do &scaron;kol transparentn&iacute; hospodařen&iacute; a informačn&iacute; syst&eacute;m, kter&yacute; umožn&iacute; zapojen&iacute; v&scaron;ech, kteř&iacute; maj&iacute; na chodu &scaron;koly z&aacute;jem, a okamžitou kontrolu proveden&yacute;ch rozhodnut&iacute;. Podporujeme zav&aacute;děn&iacute; demokratick&yacute;ch principů na &uacute;rovni &scaron;kol. Co &scaron;kolu tr&aacute;p&iacute;, v&iacute; nejl&eacute;pe &scaron;kola sama. Chceme pos&iacute;lit zapojen&iacute; učitelů, rodičů a ž&aacute;ků do rozhodov&aacute;n&iacute; a pl&aacute;nov&aacute;n&iacute; &scaron;kol, a to formou samospr&aacute;vn&yacute;ch org&aacute;nů. Podm&iacute;nkou pro spr&aacute;vn&aacute; rozhodov&aacute;n&iacute; jsou kvalitn&iacute; informace. &Scaron;kola mus&iacute; pružně reagovat na podněty a informovat v&scaron;echny z&uacute;častněn&eacute;.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <h1><strong>Pir&aacute;ti Napajedla pro otevřenou radnici</strong></h1>
 <h2><strong>1. Kvalitn&iacute; informace</strong></h2>
 <p><strong>Kvalitn&iacute;mi informacemi umožn&iacute;me obyvatelům zapojovat se do rozhodov&aacute;n&iacute; a předch&aacute;zet podezřen&iacute;m z nekal&eacute;ho jedn&aacute;n&iacute;.</strong></p>
 <p>Zajist&iacute;me, aby každ&yacute; jednodu&scaron;e na&scaron;el, jak a kde se pt&aacute;t i na co se ptali občan&eacute; před n&iacute;m. Umožn&iacute;me snadn&yacute; př&iacute;stup k archivům &uacute;ředn&iacute;ch desek. Maxim&aacute;ln&iacute; množstv&iacute; informac&iacute; (např. o rozpočtu, dopravě, kriminalitě, životn&iacute;m prostřed&iacute; a vod&aacute;renstv&iacute;) zveřejn&iacute;me ve formě otevřen&yacute;ch dat, aby byly d&aacute;le využiteln&eacute; např. pro tvorbu užitečn&yacute;ch aplikac&iacute;, vědeck&eacute; v&yacute;zkumy, studentsk&eacute; pr&aacute;ce atd.</p>
-<p>&nbsp;</p>
 <h2><strong>2. Rozhodov&aacute;n&iacute; s &uacute;čast&iacute; občanů</strong></h2>
 <p><strong>Podpoř&iacute;me zapojen&iacute; občanů do rozhodov&aacute;n&iacute; a jejich soun&aacute;ležitost s m&iacute;stem, kde žij&iacute;. Na zased&aacute;n&iacute;ch v&scaron;ech org&aacute;nů bereme občany jako partnery, ne pouh&eacute; př&iacute;sed&iacute;c&iacute;. K tomu jim poskytneme ve&scaron;ker&eacute; podklady. Podpoř&iacute;me občanskou kontrolu chodu města ve v&yacute;borech, komis&iacute;ch a v dozorč&iacute;ch rad&aacute;ch městsk&yacute;ch společnost&iacute;.</strong></p>
 <ul>
@@ -144,11 +128,9 @@ rbar: ""
 <li>Podpoř&iacute;me komunikaci mezi soused&iacute;c&iacute;mi samospr&aacute;vami a jejich obyvateli, aby se probl&eacute;my neře&scaron;ily izolovaně.</li>
 <li>Zavazujeme se, že v&scaron;ichni na&scaron;i z&aacute;stupci obce se budou zab&yacute;vat v&scaron;emi peticemi a st&iacute;žnostmi. T&iacute;mto způsobem bychom r&aacute;di uk&aacute;zali zaběhnut&yacute;m stran&aacute;m ve veden&iacute; města, že v&scaron;echny v&yacute;tky občanů je nutno ře&scaron;it. Nen&iacute; podstatn&eacute;, zda petice budou na pap&iacute;ře či elektronicky, zastupitel by se jim měl věnovat a podporovat vyhl&aacute;&scaron;en&iacute; referenda, pokud jde o důležitou ot&aacute;zku a je to k vyře&scaron;en&iacute; petice nebo iniciativy nezbytn&eacute;. <strong>Petice dosud konč&iacute; pouze v rukou rady města a nedostanou se na veřejn&eacute; zased&aacute;n&iacute; zastupitelstva.</strong></li>
 </ul>
-<p>&nbsp;</p>
 <h2><strong>3. Transparentn&iacute; bankovn&iacute; &uacute;čet</strong></h2>
 <p><strong>Zavedeme transparentn&iacute; bankovn&iacute; &uacute;čty a transparentn&iacute; &uacute;četnictv&iacute; obce.</strong></p>
 <p>Občan&eacute; dnes nemaj&iacute; &scaron;anci zjistit, kolik peněz bylo komu a za co zaplaceno. Chceme, aby obec pře&scaron;la k využ&iacute;v&aacute;n&iacute; transparentn&iacute;ch bankovn&iacute;ch &uacute;čtů a otevřen&eacute;ho &uacute;četnictv&iacute; v&scaron;ude tam, kde to z&aacute;kon dovoluje. V&scaron;ichni tak budou moci kontrolovat, za co konkr&eacute;tně se finančn&iacute; prostředky obce utr&aacute;cej&iacute;. Pro společnosti, ve kter&yacute;ch je vět&scaron;inov&yacute;m vlastn&iacute;kem obec, mus&iacute; platit stejn&eacute; povinnosti otevřen&eacute;ho hospodařen&iacute; jako pro obec samotnou. Otevřen&yacute; &uacute;čet zprostředkov&aacute;v&aacute; př&iacute;mo banka.</p>
-<p>&nbsp;</p>
 <h2><strong>4. Veřejn&eacute; zak&aacute;zky</strong></h2>
 <p><strong>Zveřejňov&aacute;n&iacute; smluv. Kontrola při v&yacute;běrov&yacute;ch ř&iacute;zen&iacute;, kde v &bdquo;hodnot&iacute;c&iacute; komisi&ldquo; bude zasedat 3-5 zastupitelů i s občany. Transparentn&iacute;m ř&iacute;zen&iacute;m přil&aacute;k&aacute;me v&iacute;ce z&aacute;jemců. Tak sn&iacute;ž&iacute;me ceny a zv&yacute;&scaron;&iacute;me kvalitu.</strong></p>
 <p><strong>&nbsp;</strong></p>
@@ -172,86 +154,12 @@ rbar: ""
 <li>V&scaron;echny smlouvy budou zveřejněny na webu města nebo v registru smluv;&nbsp; občan tak bude m&iacute;t přehled, kter&aacute; firma zak&aacute;zku obdržela, i kolik finančn&iacute;ch prostředků město použilo.&nbsp;</li>
 <li>Ve&scaron;ker&eacute; podklady, z&aacute;pisy a protokoly k v&yacute;běrov&yacute;m ř&iacute;zen&iacute;m budou zpř&iacute;stupněny občanům na webu města. Občan tak bude vědět, kter&aacute; firma a kter&aacute; v&yacute;běrov&aacute; komise dělala jakou zak&aacute;zku ať v roce 2011 nebo 2022.</li>
 </ul>
-<p>&nbsp;</p>
 <h2><strong>5. &Uacute;zemn&iacute; pl&aacute;n</strong></h2>
 <p><strong>Umožn&iacute;me občanům prosazovat pr&aacute;vo na kvalitn&iacute; životn&iacute; prostřed&iacute; i ovlivňovat podobu okol&iacute; jejich domova.</strong></p>
 <p>Zveřejn&iacute;me <a href="http://napajedla.cz/cz/uzemni-plan">n&aacute;vrhy &uacute;zemn&iacute;ho pl&aacute;nu města</a> na informačn&iacute;ch tabul&iacute;ch. N&aacute;vrhy pl&aacute;nů rozvoje, souvisej&iacute;c&iacute; dokumentaci i současn&yacute; stav budeme zveřejňovat tak, aby byly přehledn&eacute;, rychle dostupn&eacute; a umožňovaly participaci (spolurozhodov&aacute;n&iacute;) občanů.</p>
-<p>&nbsp;</p>
 <h2><strong>6. Radničn&iacute; m&eacute;dia</strong></h2>
 <p><strong>Otevřeme radničn&iacute; m&eacute;dia a jejich kvalitou podpoř&iacute;me skutečnou n&aacute;zorovou pluralitu a otevřenou diskuzi v obci.</strong></p>
 <p>Otevřenost a transparentnost je dne&scaron;n&iacute;mu veden&iacute; města ciz&iacute;. Redakčn&iacute; rada je tvořena loaj&aacute;ln&iacute;mi lidmi a nen&iacute; vytvořena např&iacute;č politick&yacute;mi stranami a ani nebyla veřejně diskutovan&aacute; na zastupitelstvu města. Radničn&iacute; noviny, ale i dal&scaron;&iacute; komunikačn&iacute; kan&aacute;ly samospr&aacute;vy, mus&iacute; splňovat z&aacute;kladn&iacute; principy obvykl&eacute; pro veřejn&aacute; m&eacute;dia. Za samozřejm&eacute; považujeme zveřejňov&aacute;n&iacute; n&aacute;zorů alternativn&iacute;ch vůči veden&iacute; radnice.&nbsp;</p>
-<p>&nbsp;</p>
 <h2><strong>7. Nekal&eacute; jedn&aacute;n&iacute; a střet z&aacute;jmů</strong></h2>
 <p><strong>Zmen&scaron;&iacute;me rizika, že zastupitel&eacute; a &uacute;ředn&iacute;ci budou jednat k vlastn&iacute;mu a nikoli k veřejn&eacute;mu prospěchu.</strong></p>
 <p>Prosad&iacute;me etick&eacute; kodexy pro zastupitele i &uacute;ředn&iacute;ky, upravuj&iacute;c&iacute; nad r&aacute;mec z&aacute;kona pravidla pro střet z&aacute;jmů i poskytov&aacute;n&iacute; informac&iacute;.&nbsp;&nbsp;</p>
-
-### Cíl č.1 ZLÍN - Transparentnost
-
-
-* **Šetříme vaše peníze:** Zveřejňování faktur, uzavřených smluv, hospodaření příspěvkových organizací a obchodních společností s účastí města
-
-* **Kdo je kdo?:** Zveřejníme, která strana delegovala konkrétní zástupce města, do výborů a komisí města, také do dozorčích rad a představenstev obchodních společností s účastí města Zlína
-
-* **Každý má šanci:** Otevřená výběrová řízení – při výběru zaměstnanců i dodavatelů
-
-* **Dotace a dary:** Komu a kolik město přiděluje dotací a darů včetně žádostí
-
-* **Práce zastupitelstva:** O termínech zasedání zastupitelstva, rady, výborů, komisí i jejich programu budeme informovat s dostatečným předstihem, s podrobnými podklady a elektronicky
-
-* **Personální politika:** Ředitele městských firem musí vybírat renomovaná personální agentura a ne kamarád politik.
-
-
-### Cíl č.2 ZLÍN – město 21. století
-
-
-* **Smart city není prázdná fráze:** Opravdu chytré město je to, kde lidé rádi žijí, a když z něj odjedou, chlubí se jím
-
-* **Rozšíříme městské WI-FI na více lokalit:** Zajistíme dotace EU, o místech rozhodnou lidi v anketě
-
-* **Činy místo papírů:** Místo tvorby analýz a databází chodníků chodníky spravíme.
-
-* **Nebudeme svítit pánu bohu do oken:** Naším cílem je úprava osvětlení tak, aby opravdu plnilo svůj účel. Špatně navržené osvětlení zvyšuje finanční náklady, protože zbytečně spotřebovává energii.
-
-
-### Cíl č.3 Zlín  Zlíňáci jsou Zlín
-
-* **Společně to půjde:** Pomocí participativního rozpočtu podpoříme vaše nápady na úpravu veřejných prostranství a  občanské aktivity ve městě (chceme navýšit participativní rozpočet, rozšířit ho i na místní části.)
-
-* **Zjednodušení dotačních procesů:** Podmínky pro přidělení dotací musí lákat k vytváření projektů, nikoli odrazovat od aktivního zapojení občanů.
-
-* **Dáme Vám prostor:** Vytvoříme městský inkubátor, podpora kvalitních nápadů a kreativní rozvoj města
-
-* **Domluva místo pokut:** Zabráníme, aby pokutování občanů sloužilo k zaplňování děr v rozpočtu města
-
-* **Místní referendum a občanská iniciativa:** Na obecní úrovni budeme vyhovovat návrhům na vyhlášení referenda i v případě menšího počtu podpisů v petici, než jaký zákon požaduje.
-
-* **Bydlet chce každý:** Změníme územní plán města a tak podpoříme výstavbu  i městských bytů za dostupné ceny
-
-
-### Cíl č.4 ZLÍN – město na celý život
-
-
-* **Voda patří Zlíňákům:** Řešení problému městské společnosti VAK ve prospěch občanů Zlína změnou ve vedení společnosti
-
-* **Nenecháme Zlín na suchu:** Voda v ulicích – vodní prvky snižující prašnost, zachytávání dešťovky – nechceme kropit park pitnou vodou, analýza revitalizace Kudlovské přehrady
-
-* **Zlínská doprava:** Podpoříme projekt zlínského dopravního terminálu
-
-* **Zlín je kraj, kraj je Zlín:** Spolupráce s krajským úřadem na rozvoji Zlína jako sídla kraje je hlavní priorita
-
-* **Čistota půl zdraví:** Stávající skvělé parky doplníme o více recyklačních nádob. Městské akce se budeme snažit dělat udržitelnější vůči životnímu prostředí.
-
-
-### Cíl č.5 ZLÍN – město dobrých sousedů
-
-* **Rodina je základ:** Podpora rodičů na mateřských a jejich kvalitní vyžití ve veřejném prostranství a zájmových spolcích
-
-* **Důstojné stáří:** Aktivní zapojení občanů do dění ve městě, dobrovolnictví při činnostech organizovaných městem, hlídání přechodů u škol a školek, (inspirace např. Spolek hurá na výlet)
-
-* **Mládí vpřed:** Učiníme Zlín atraktivní městem pro práci-život i rodinu pro naše mladé absolventy, jak by si to přáli bratři Baťovi.
-
-* **Podpora lokálních zemědělců:** Občané Zlína si zaslouží důstojné tržiště. Změníme přístup k nájemníkům prodejních míst na tržišti pod kaštany, budeme preferovat zemědělce a ne přeprodejce.
-
-* **Rozvoj sportovišť:** Raději sport než hraní na počítačích, dostatek osvětlených sportovišť, budeme výhradně podporovat amatérský sport a sport dětí.
-
-* **Hajný je lesa pán:** Za jeden pokácený vysadit dva a minimálně jeden musí vysázen v okruhu maximálně 100 metrů.

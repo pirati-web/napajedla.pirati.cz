@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 category: CLANKY
 title: '4. zasedání zastupitelstva 23.4.2019-návrhy na změny v Územním plánu'
 date: 2019-05-03T01:30:00.032Z
