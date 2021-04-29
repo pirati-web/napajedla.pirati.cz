@@ -4,8 +4,8 @@ category: CLANKY
 title: 'V Uherském Hradišti už funguje regionální poslanecká kancelář'
 date: 2018-01-10T12:06:00.032Z
 author: Marek Houser
-authorId: marek.houser
-image: /posts/frantakancl.jpg
+authorId: 
+image: posts/frantakancl.jpg
 tags: 
 - sněmovna 
 - poslanec 
