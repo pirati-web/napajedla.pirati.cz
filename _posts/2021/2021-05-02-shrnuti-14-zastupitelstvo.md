@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: '14.té jednání zastupitelstva města, rekonstrukce Dr.Beneše, přístavba Sokolovny'
+title: 'Report ze 14. zastupitelstva města Napajedla: Rekonstrukce ulice Dr. Beneše a přístavba Sokolovny'
 date: 2021-05-02
 author: Tomáš Čabla
 authorId: tomas.cabla
