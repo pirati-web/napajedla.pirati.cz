@@ -19,7 +19,7 @@ V prvních třech bodech jsme stejně jako ostatní zastupitelé podpořili maje
 
 
 
-Seznámili jsme se zápisem z Finančního výboru. Zastupitel pan V.Skála byl delegován na valnou hromadu společnosti VaK Zlín, která se bude konat 25.května 2021. Podpořili jsme dotace do sociálních služeb. 
+Seznámili jsme se zápisem z Finančního výboru. Zastupitel V.Skála byl delegován na valnou hromadu společnosti VaK Zlín, která se bude konat 25.května 2021. Podpořili jsme dotace do sociálních služeb. 
 
 
 Schváleny byly taky změny v rozpočtu na letošní rok, na straně příjmů jde o dotaci na rekonstrukci domu č.p.737, příjem z prodeje hasičského auta Avia a nakladače UNC a poplatek od Cemex Sand, k.s za odvod z vynětí půdy ze zemědělského půdního fondu. Na výdajové straně jde o částku cca 8,5 mil.Kč na rekonstrukce ulice Dr.Beneše, která proběhne zřejmě již letos. Investorem je Ředitelství silnic Zlínského kraje a město Napajedla bude financovat svoji část rekonstrukce (zatrubnění příkopu, vybudování společné stezky pro pěší a cyklisty, přesun autobusové zastávky a veřejné osvětlení) a částku 256 tis. Kč pro DDM Matýsek na IT rozvody a osvětlení.
