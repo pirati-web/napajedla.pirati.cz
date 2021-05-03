@@ -5,7 +5,7 @@ title: 'Pozvánka na 10. zastupitelstvo volebního období 2018-2022'
 date: 2020-06-23
 author: Jiří Krkoška
 authorId: jiri.krkoska
-image: posts/radnice.jpg
+image: posts/radnice7.jpg
 tags: 
 - Napajedla 
 - zastupitelstvo +
