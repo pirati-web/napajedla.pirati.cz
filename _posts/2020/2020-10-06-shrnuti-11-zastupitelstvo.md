@@ -5,7 +5,7 @@ title: '11.té jednání zastupitelstva města, nákupy pozemků, finanční vý
 date: 2020-10-06
 author: Tomáš Čabla
 authorId: tomas.cabla
-image: posts/radnice.jpg  
+image: posts/radnice7.jpg  
 tags: 
 - napajedla 
 - zastupitelstvo
