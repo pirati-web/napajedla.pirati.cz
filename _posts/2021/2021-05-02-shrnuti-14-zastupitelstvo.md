@@ -10,7 +10,7 @@ tags:
 - napajedla 
 - zastupitelstvo
 
-important: true
+
 ---
 Tradičně ve středu v 15:00 proběhlo tentokrát už 14. jednání Zastupitelstva města Napajedla. Na programu bylo 14 bodů k jednání. 
 
