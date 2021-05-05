@@ -12,7 +12,6 @@ tags:
 - jiri-jaros
 - krajske-volby
 
-important: true
 ---
  Piráti společně s ODS, hnutím ANO a ČSSD uzavřeli memorandum o koaliční spolupráci ve Zlínském kraji. Cílem Pirátů je především přilákání velkých investorů do našeho kraje, zajištění dostatečného počtu zubařů a noční zubní pohotovosti, udržení vody v krajině a zřízení integrovaného dopravního systému. S koaličními stranami sdílíme také shodu v těchto zmíněných tématech. Stěžejní je pak zastavení projektu výstavby nové nemocnice minimálně do doby vytvoření expertního posudku na tento miliardový projekt.  Piráti mají dle memoranda získat v radě tři pozice, ODS dvě, hnutí ANO tři a ČSSD jednu. Haně Ančincové za Piráty připadne post 1. náměstkyně hejtmana pro oblast životního prostředí a zemědělství.
 
