@@ -11,6 +11,8 @@ tags:
 - nemocnice
 - hana-ancincova
 - vratislav-krejcir
+- 
+important: true
 ---
 
 Stávající hejtman Zlínského kraje Jiří Čunek schválil a podepsal smlouvy na odkup pozemků pro výstavbu nové nemocnice v hodnotě téměř 42 milionů korun. Piráti považují takové jednání za nezodpovědné a nemorální vzhledem k tomu, že o budoucnosti nové nemocnice měla rozhodnout až nově sestavená koalice.
