@@ -10,6 +10,8 @@ tags:
 - Napajedla 
 - zastupitelstvo
 - radnice
+
+important: true
 ---
 
 Ve středu 24.2.2021 v 15:00 se bude konat v zasedací místnosti radnice 13.té jednání zastupitelstva města Napajedla. Rádi bychom vám přiblížili některé body, které nás čekají. Celé zastupitelstvo můžete sledovat živě na youtube kanálu nebo na kabelové televizi. Link pro živé vysílání vám dodáme v den vysílání.
