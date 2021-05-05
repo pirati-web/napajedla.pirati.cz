@@ -10,6 +10,7 @@ tags:
 - napajedla 
 - zastupitelstvo
 
+important: true
 ---
 
 
