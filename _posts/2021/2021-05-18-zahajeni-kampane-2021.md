@@ -6,6 +6,7 @@ layout:       post
 title:        "Vráťme zemi budoucnost: Piráti a STAN zahájili kampaň do sněmovních voleb. Chtějí vyvést Česko z krize, modernizovat ekonomiku i zdravotnictví či zajistit dostupnější bydlení"
 image:        /assets/img/zahajeni-kampane-2021.jpg
 author:       Mediální odbor
+important: true
 ---
  
  
