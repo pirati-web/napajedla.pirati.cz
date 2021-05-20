@@ -1,6 +1,6 @@
 ---
 date:         2021-05-18
-category:     blog
+category:     CLANKY
 tags:         volby
 layout:       post
 title:        "Vráťme zemi budoucnost: Piráti a STAN zahájili kampaň do sněmovních voleb. Chtějí vyvést Česko z krize, modernizovat ekonomiku i zdravotnictví či zajistit dostupnější bydlení"
