@@ -6,7 +6,7 @@ layout:       post
 title:        "Na pivo s pirátskými zastupiteli"
 image:        posts/pozvanka_pivo.jpg
 author:       Mediální odbor
-important: true
+important: 
 ---
  
  Vážení přátelé, příznivci a občané města Napajedla, konečně to situace dovoluje, proto si vás dovolujeme pozvat na další z nepravidelných setkání ❗️
@@ -20,8 +20,9 @@ Setkání proběhne v neformálním duchu v příjemném prostředí Hotelu Mali
 Moc se na vás těšíme!
 
 
-**KDY? ➡️ pondělí 28.6. od 17:00
-KDE? ➡️ Hotel Malina, Na Malině 1380, 763 61 Napajedla**
+**KDY? ➡️ pondělí 28.6. od 17:00**
+
+**KDE? ➡️ Hotel Malina, Na Malině 1380, 763 61 Napajedla**
 
 
 
