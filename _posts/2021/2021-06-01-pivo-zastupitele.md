@@ -1,7 +1,7 @@
 ---
 date:         2021-06-01
 category:     CLANKY
-tags:         volby
+tags:         napajedla
 layout:       post
 title:        "Na pivo s pirátskými zastupiteli"
 image:        posts/pozvanka_pivo.jpg
