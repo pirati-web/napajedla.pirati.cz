@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Pozvánka na 14. zastupitelstvo volebního období 2018-2022'
+title: 'Pozvánka na 15. zastupitelstvo volebního období 2018-2022'
 date: 2021-06-15
 author: Michal Štěpaník
 authorId: michal.stepanik
@@ -11,7 +11,7 @@ tags:
 - zastupitelstvo 
 - radnice
 
-important: true
+important: 
 ---
 
 **Ve středu 23.6.2021 proběhne 15.té zasedání zastupitelstva města od 15.00hod.** 
