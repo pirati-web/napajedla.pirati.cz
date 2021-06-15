@@ -11,7 +11,7 @@ tags:
 - zastupitelstvo 
 - radnice
 
-important: 
+important: true
 ---
 
 **Ve středu 23.6.2021 proběhne 15.té zasedání zastupitelstva města od 15.00hod.** 
