@@ -5,7 +5,7 @@ title: '15.té jednání zastupitelstva města, změna Územního plánu č.2, z
 date: 2021-07-03
 author: Michal Štěpaník
 authorId: michal.stepanik
-image: uzemni_plan2.jpg
+image: posts/uzemni_plan2.jpg
 tags: 
 - napajedla 
 - zastupitelstvo
