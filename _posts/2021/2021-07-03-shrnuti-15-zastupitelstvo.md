@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: '15.té jednání zastupitelstva města, změna Územního plánu č.2, závěrečný účet města za rok 2020'
-date: 2021-07-04
+date: 2021-07-03
 author: Tomáš Čabla
 authorId: tomas.cabla
 image: navrh_zmeny_uzemni_plan2.JPG
