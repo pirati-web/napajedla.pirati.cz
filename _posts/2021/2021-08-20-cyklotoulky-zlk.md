@@ -8,7 +8,7 @@ image: posts/cyklotour.jpg
 tags: 
 - pirati-a-starostove
 - volby-2021
-important: true
+important:
 ---
 
 Lídr kandidátky Pirátů a Starostů František Elfmark spolu s kandidátem Zdeňkem Třosem začali kampaň na kole po Zlínském kraji. Během posledních prázdninových týdnů a v září budou objíždět větší města i menší obce a projíždět cyklostezky a přírodní zajímavosti kraje.
