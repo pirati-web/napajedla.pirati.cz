@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Pozvánka na 16. zastupitelstvo volebního období 2018-2022'
-date: 2021-06-15
+date: 2021-09-15
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: posts/pozvanka_zari_2021.png
