@@ -10,7 +10,7 @@ tags:
 - napajedla 
 - zastupitelstvo
 
-important: true
+important:
 ---
 Tradičně ve středu v 15:00 proběhlo tentokrát už 16. jednání zastupitelstva města Napajedla. Na programu bylo 20 bodů k jednání. Jednání jsem se zúčastnil z Pirátů jen já, Tomáš Čabla byl omluven.
 
