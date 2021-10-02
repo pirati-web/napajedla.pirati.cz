@@ -14,7 +14,7 @@ important:
 ---
 Tradičně ve středu v 15:00 proběhlo tentokrát už 16. jednání zastupitelstva města Napajedla. Na programu bylo 20 bodů k jednání. Jednání jsem se zúčastnil z Pirátů jen já, Tomáš Čabla byl omluven.
 
-V prvních čtyřech bodech jsem stejně jako ostatní zastupitelé podpořil **majetkové převody**. U bodu 10 jsem se hlasování zdržel, jednalo se o koupi pozemku v lokalitě Chmelnice pro plánovanou revitalizaci území, navržená kupní cena cca 145 tis.kč je podle mne vysoká ( 100 Kč/m2). Nákup pozemku do majetku města byl i přesto schválen. 
+V prvních čtyřech bodech jsem stejně jako ostatní zastupitelé podpořil **majetkové převody**. U bodu 10 jsem se hlasování zdržel, jednalo se o koupi pozemku v lokalitě Chmelnice pro plánovanou revitalizaci území, navržená kupní cena cca 145 tis.kč je podle mne vysoká (100 Kč/m2). Nákup pozemku do majetku města byl schválen. 
 
 Seznámili jsme se zápisem z Finančního výboru a s **přehledem čerpání financí v investičních záměrech a opravách v letošním roce**, který předložil odbor Investic. Znovu, kvůli změně dotačního titulu, bylo hlasováno a všemi přítomnými zastupiteli podpořeno **financování přístavby Sokolovny**, o kterém jsme psali v reportu z dubna letošního roku. Podpořil jsem i přerozdělení dotace z Ministerstva kultury pro městskou památkovou zónu, pro Římsko-katolickou farnost (120 tis.Kč) a Zámek s.r.o. (60 tis.Kč) na restaurování.
 
