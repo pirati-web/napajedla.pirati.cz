@@ -1,6 +1,6 @@
 ---
 date:         2021-11-08
-category:     blog
+category:     CLANKY
 tags:         vláda piráti koalice koaliční-smlouva
 layout:       post
 title:        "Koalice SPOLU a koalice Piráti a Starostové podepsaly koaliční smlouvu"
