@@ -4,7 +4,7 @@ category:     CLANKY
 tags:         vláda piráti koalice koaliční-smlouva
 layout:       post
 title:        "Koalice SPOLU a koalice Piráti a Starostové podepsaly koaliční smlouvu"
-image:        posts/podpis-koalicni-smlouvy.jpg 
+image:        posts/podpis-koalice.jpg 
 author:       medialni odbor
 ---
 
