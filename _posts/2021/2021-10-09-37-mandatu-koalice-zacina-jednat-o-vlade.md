@@ -4,7 +4,7 @@ category:     blog
 tags:         volby
 layout:       post
 title:        "Koalice Pirátů a Starostů získala ve volbách 37 mandátů a začne jednat o vládě"
-image:        /posts/bartos-rakusan01.jpg
+image:        posts/bartos-rakusan01.jpg
 author:       
 ---
 
