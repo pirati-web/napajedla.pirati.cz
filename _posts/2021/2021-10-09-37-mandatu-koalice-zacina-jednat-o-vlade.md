@@ -7,7 +7,7 @@ author: mediální odbor
 image: posts/bartos-rakusan01.jpg
 tags: volby
 important: true
-------
+---
 
 
  Praha, 9. října 2021 - Koalice Pirátů a Starostů získala ve sněmovních volbách 37 mandátů. Nyní je připravena zahájit vyjednávání se všemi demokratickými stranami o vzniku nové vlády. Již dopředu otevřeně avizovala, že odmítá jednání s ANO či SPD. Prioritou koalice je ozdravení veřejných financí, podpora ekonomického růstu a zastavení brutálního zadlužování i rozkrádání státu. Koalice se zavázala chránit krajinu a pomocí citlivé modernizace průmyslu chce zajistit rozvoj firem a lépe placených pracovních míst. Klíčová je pro ni také podpora špičkového školství, vzdělávání a inovací.
