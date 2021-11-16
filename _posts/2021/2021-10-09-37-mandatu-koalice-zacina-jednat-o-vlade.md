@@ -1,11 +1,11 @@
 ---
 date:         2021-10-09
-category:     blog
+category:     CLANKY
 tags:         volby
 layout:       post
 title:        "Koalice Pirátů a Starostů získala ve volbách 37 mandátů a začne jednat o vládě"
 image:        posts/bartos-rakusan01.jpg
-author:       
+author:       mediální odbor
 ---
 
  
