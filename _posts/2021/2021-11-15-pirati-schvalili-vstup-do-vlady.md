@@ -6,6 +6,7 @@ layout:       post
 title:        "Členové a členky Pirátské strany odsouhlasili vstup do vlády"
 image:        posts/pirati-vlada.jpg
 author:       mediální odbor
+important: true
 ---
 
 Praha, 15. listopadu 2021 - Členové a členky Pirátské strany v celostranickém hlasování odsouhlasili znění koaliční smlouvy, a tedy faktický vstup Pirátů do vlády. Podporu návrhu vyjádřilo 82,1 procent hlasujících (888 pro z 1082 hlasů). Hlasování zaznamenalo rekordní účast, zapojilo se 90,7 procenta Pirátů a Pirátek. Tedy 1082 ze 1193.
