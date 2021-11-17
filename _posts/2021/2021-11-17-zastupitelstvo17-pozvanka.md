@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Pozvánka na 17. zastupitelstvo volebního období 2018-2022'
 date: 2021-11-17
-author: Tomáš Čabla
-authorId: tomas.cabla
+author: Michal Štěpaník
+authorId: michal.stepanik
 image: posts/pozvanka_listopad_2021.png
 tags: 
 - Napajedla 
