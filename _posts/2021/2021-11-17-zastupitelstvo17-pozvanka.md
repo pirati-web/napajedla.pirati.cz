@@ -11,7 +11,7 @@ tags:
 - zastupitelstvo 
 - radnice
 
-important: true
+
 ---
 
 **Ve středu 24.11.2021 proběhne 17.té zasedání zastupitelstva města od 15.00hod.** 
