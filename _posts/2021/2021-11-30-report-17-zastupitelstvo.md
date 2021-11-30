@@ -1,11 +1,11 @@
 ---
 layout: post
 category: CLANKY
-title: '17.té jednání zastupitelstva města, dotace pro památky, koupě pozemku na Chmelnici a záměr nákupu zastřešené ledové plochy'
+title: '17.té jednání zastupitelstva města, rozpočet na  rok 2022, směnná smlouva Pahrbek, OZV o poplatku za odpady, majetkové věci'
 date: 2021-12-02
 author: Michal Štěpaník
 authorId: michal.stepanik
-image: posts/ledova_plocha.jpg
+image: posts/radnice-vanoce.jpg
 tags: 
 - napajedla 
 - zastupitelstvo
