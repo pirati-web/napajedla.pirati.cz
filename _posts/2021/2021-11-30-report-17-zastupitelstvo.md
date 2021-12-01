@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Report ze 17. zastupitelstva města Napajedla: směnná smlouva Pahrbek, poplatek za odpady, rozpočet 2022: proč nesouhlasíme s rozvojem města současné koalice!'
-date: 2021-12-01
+date: 2021-11-30
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: posts/radnice-vanoce.jpg
