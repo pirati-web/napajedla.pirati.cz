@@ -9,6 +9,9 @@ image: posts/ledova_plocha.jpg
 tags: 
 - napajedla 
 - zastupitelstvo
+- sokolovna
+- kluziště
+- odpady
 
 important:
 ---
