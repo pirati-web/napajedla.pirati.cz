@@ -12,7 +12,7 @@ tags:
 
 important:
 ---
-Tradičně ve středu v 15:00 proběhlo tentokrát už 17. jednání Zastupitelstva města Napajedla, ale bez přenosu v NTV Cable či YouTubu. Na programu bylo 18 bodů k jednání. Body 19 a 20 byly zařazeny až při schválení programu. 
+Tradičně ve středu v 15:00 proběhlo tentokrát už 17. jednání Zastupitelstva města Napajedla, ale bez přenosu v NTV Cable či online na YouTubu. Na programu bylo 18 bodů k jednání. Body 19 a 20 byly zařazeny až při schválení programu. 
 
 Hned první dva body byly spojeny do jedné diskuze, šlo o zprávu z finančního výboru a rozpočet města na rok 2022. Finanční výbor konstatoval, že v letošním roce je opět nedostatečné čerpání investic, některé **akce plánované na letošní rok jsou opět odsouvány na rok 2022.** Příjmy rozpočtu města na rok 2022 jsou plánovány na cca 153 mil.Kč a výdaje na 205 mil. Kč, přičemž rozdíl ve výši 52 mil.Kč bude financován z přebytků z minulých let. Díky takovému způsobu strategie v hospodaření města se ztráta na inflaci a ceně práce a materiálu (za dobu posledních 10 let, kdy městu zbývá na účtu od 100 do 200 milionů korun v rezervě/přebytcích) šplhá do výše cca 25-30 mil. Kč. 
 
