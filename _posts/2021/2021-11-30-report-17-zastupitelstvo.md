@@ -9,8 +9,10 @@ image: posts/radnice-vanoce.jpg
 tags: 
 - napajedla 
 - zastupitelstvo
+- rozpočet
+- investice
 
-important:
+important: true
 ---
 Tradičně ve středu v 15:00 proběhlo tentokrát už 17. jednání Zastupitelstva města Napajedla, ale bez přenosu v NTV Cable či online na YouTubu. Na programu bylo 18 bodů k jednání. Body 19 a 20 byly zařazeny až při schválení programu. 
 
