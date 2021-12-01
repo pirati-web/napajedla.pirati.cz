@@ -9,6 +9,8 @@ image: posts/radnice-vanoce.jpg
 tags: 
 - napajedla 
 - zastupitelstvo
+- rozpocet
+- strategicky-plan
 
 important: true
 ---
