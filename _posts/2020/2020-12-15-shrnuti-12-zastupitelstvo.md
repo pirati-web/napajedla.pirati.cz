@@ -27,7 +27,7 @@ Naši podporu získali body týkající se prodeje starého hasičského auta, o
 
 Největší diskuze proběhla u **rozpočtu města na rok 2021, kdy je plánován rozpočet schodkový -33 mil.Kč** a bude financován z vysokých rezerv, příjmy jsou plánovány ve výši 145,2 mil.Kč a nepočítají s možnými výpadky příjmů, které budou způsobeny propadem na dani z příjmu fyzických a právnických osob. Výdaje jsou plánovány ve výši 178,5 mil.Kč. V rozpočtu nejsou zásadním způsobem plánovány výdaje pro realizaci předvolebních slibů koalice na stavbu bazénu v areálu školy, nadstavby lékárny na DPS….. U investic stojí za zmínku snad jen revitalizace lokality Husova a Jiráskova. Konečně se po letech investuje i mimo centrum města.
 
-A protože máme jiný pohled na budování a rozvoj města, deklarujeme za nás jakým způsobem by město mělo být spravováno. A proč nesouhlasíme s rozvojem města, tak jak nám jej dnešní koalice ANO - 2011, Mladí za Napajedla, KDU-ČSL, ODS předkládá a provádí. To vše je v našem článku z 11. jednání ZM [zde.](https://napajedla.pirati.cz/tiskove-zpravy/shrnuti-11-zastupitelstvo/){:target="_blank"}
+A protože máme jiný pohled na budování a rozvoj města, deklarujeme za nás jakým způsobem by město mělo být spravováno. A proč nesouhlasíme s rozvojem města, tak jak nám jej dnešní koalice NF-ANO 2011, Mladí za Napajedla, KDU-ČSL, ODS předkládá a provádí. To vše je v našem článku z 11. jednání ZM [zde.](https://napajedla.pirati.cz/tiskove-zpravy/shrnuti-11-zastupitelstvo/){:target="_blank"}
 
 
 
