@@ -9,6 +9,8 @@ image: posts/uzemni_plan2.jpg
 tags: 
 - napajedla 
 - zastupitelstvo
+- zaverecny-ucet
+- uzemni-plan
 
 important: 
 ---
