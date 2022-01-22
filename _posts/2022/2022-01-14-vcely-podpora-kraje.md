@@ -10,7 +10,7 @@ tags:
 - vcelarstvi
 - hana-ancincova
 - zlinsky-kraj
-important: true
+important:
 ---
 
 Letos budou moci včelaři požádat o příspěvek na pořízení vybavení a vůbec poprvé dotace čerpat i na nákup osiva nebo medonosných rostlin. V minulém roce kraj díky tomuto programu podpořil celkem 111 včelařů!
