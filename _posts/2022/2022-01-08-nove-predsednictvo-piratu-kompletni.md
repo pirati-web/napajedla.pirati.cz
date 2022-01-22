@@ -4,7 +4,7 @@ category:     blog
 tags:         piráti volby
 layout:       post
 title:        "Piráti zvolili nové předsednictvo - kromě Bartoše je povede Kolaja, Hajnová, Charvátová a Jiránek"
-image:        /posts/predsednictvo-cf2022.jpg
+image:        posts/predsednictvo-cf2022.jpg
 author:       
 ---
 
