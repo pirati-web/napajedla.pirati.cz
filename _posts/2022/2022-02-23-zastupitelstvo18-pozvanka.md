@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Pozvánka na 18. zastupitelstvo volebního období 2018-2022'
-date: 2022-12-15
+date: 2022-02-15
 author: Michal Štěpaník
 authorId: michal.stepanik
 image: posts/pozvanka_unor_2022.png
