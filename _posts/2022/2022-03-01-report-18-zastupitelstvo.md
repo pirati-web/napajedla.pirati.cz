@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Report z 18. jednání ZM Napajedla: Územní plán (Zámoraví, Kvítkovice a Nad mezí), odměny starostce a místostarostovi. Piráti jsou proti!'
+title: 'Report z 18. jednání ZM Napajedla: Územní plán (Zámoraví, Kvítkovice a Nad Mezí), odměny starostce a místostarostovi. Piráti jsou proti!'
 date: 2022-02-28
 author: Mediální odbor
 authorId: 
