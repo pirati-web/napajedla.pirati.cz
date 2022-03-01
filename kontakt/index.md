@@ -11,7 +11,7 @@ contactPersons:
   - id: tomas.cabla
   - id: martina.urbankova
     position: Předsedkyně MS Zlín  
-  - id: lucie.svehlikova
+  - id: vratislav.krejcir
     position: Kontakt pro média
   - id: yveta.martinkova
     position: Kontakt pro dobrovolníky
