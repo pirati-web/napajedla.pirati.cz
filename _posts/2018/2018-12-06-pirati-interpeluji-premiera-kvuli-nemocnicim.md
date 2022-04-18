@@ -9,7 +9,7 @@ image: posts/kntb.jpg
 tags: 
 - nemocnice 
 - sněmovna 
-- zlínský-kraj
+- zlinsky-kraj
 
 important: true
 ---
