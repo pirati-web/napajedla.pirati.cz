@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Ukliďme Česko, ukliďme Napajedla. Sobota 16.dubna 2022'
 date: 2022-04-17
-author: Michal Štěpaník
-authorId: michal.stepanik
+author: Tomáš Čabla
+authorId: tomas.cabla
 image: posts/uklid_2022.jpg
 tags: 
 - uklidme-cesko
