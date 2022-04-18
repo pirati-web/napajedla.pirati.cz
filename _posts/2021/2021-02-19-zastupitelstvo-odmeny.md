@@ -10,6 +10,7 @@ tags:
 - Napajedla 
 - zastupitelstvo
 - radnice
+- odmeny
 
 important: true
 ---
