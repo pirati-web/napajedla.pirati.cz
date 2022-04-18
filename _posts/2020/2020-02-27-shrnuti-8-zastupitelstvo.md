@@ -9,6 +9,8 @@ image: posts/zastup8.jpg
 tags: 
 - napajedla 
 - zastupitelstvo
+- radnice
+- odmeny
 ---
 Napajedla, 27.2.2020 – **Na středečním zasedání Zastupitelstva města Napajedla byl nejen koaličními zastupiteli schválen návrh na udělení mimořádné odměny v celkové výši převyšující 130 tisíc korun. Tato odměna byla přidělena starostce Ireně Brabcové a místostarostovi Zbyňkovi Ohnoutkovi. Podle Pirátských zastupitelů a zkušeností z jiných obcí Zlínského kraje jde pouze o další účelové vysávání městské kasy.** 
 
