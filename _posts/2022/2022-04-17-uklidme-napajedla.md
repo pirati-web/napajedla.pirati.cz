@@ -8,7 +8,7 @@ authorId: tomas.cabla
 image: posts/uklid_2022.jpg
 tags: 
 - uklidme-cesko
-- Napajela
+- Napajedla
 - uklidme-napajedla
 important: true
 ---
