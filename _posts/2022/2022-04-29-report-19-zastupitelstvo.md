@@ -20,7 +20,7 @@ Poslední dva body byly o akciové společnosti VaK Zlín. Do diskuze se přihl�
 
 V diskuzi se Michal Štěpaník zeptal na termín realizace výměny tyčí **Chmelnické lávky** a následný nátěr. Předpoklad zahájení výměny je 20.května s termínem dokončení 22.července a následný nátěr by měl být ukončen do konce září 2022. Druhým dotazem byla realizace **“revitalizace lokality Husova”**, zde již práce byly zahájeny a termín dokončení je k poslednímu říjnu 2022.
 
-[náš článek z valné hromady z roku 2020](https://napajedla.pirati.cz/tiskove-zpravy/valna-hromada-vak/){:target="_blank"}
+Náš článek z valné hromady z roku 2020 je [zde](https://napajedla.pirati.cz/tiskove-zpravy/valna-hromada-vak/){:target="_blank"}
 
 
 
