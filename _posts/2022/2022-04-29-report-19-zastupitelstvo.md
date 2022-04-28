@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Report z 19. jednání ZM Napajedla: OZV o nočním klidu, Valná hromada VaK Zlín, a.s, oprava Chmelnické lávky '
+title: 'Report z 19. jednání ZM Napajedla: Valná hromada VaK Zlín, a.s, oprava Chmelnické lávky, OZV'
 date: 2022-03-01
 author: Mediální odbor
 authorId: 
