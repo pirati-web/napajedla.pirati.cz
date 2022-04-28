@@ -53,7 +53,7 @@ Náš článek z valné hromady z roku 2020 je [zde](https://napajedla.pirati.cz
 
 
 
-
+---
 
 
 Náš YouTube kanál naleznete [zde](https://www.youtube.com/channel/UCgoN2Mo3r-xe0iO6N5HRWHA){:target="_blank"}
