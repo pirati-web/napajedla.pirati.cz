@@ -11,7 +11,7 @@ tags:
 - zastupitelstvo
 - vak-zlin
 
-important: true
+important:
 ---
 24.2.2022 proběhlo 14. jednání zastupitelstva města v obřadní síni radnice. Na programu byli majetkové věci které jsme podpořili, stejně jako změny v rozpočtu, kde byly vyčleněny finance na koupi vozíku za hasičské auto (40 tis.Kč) či přijetí dotací na financování rekonstrukce domu čp. 737 (780 tis.Kč) a na akci instalace retenčních nádrží v areálu 2.ZŠ (3,3 mil.Kč). Z běžné rezervy města byla vyčleněny částka 500 tis.Kč na výdaje spojené s pomocí uprchlíkům z Ukrajiny v důsledku války.
 Byla schválena  OZV (o nočním klidu) a do majetku města přibude krajská silnice, konec ulice Dr. Beneše (bývalá “kostkovice”). Seznámili jsme se  i se zprávou z Finančního výboru.  
