@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Report z 19. jednání ZM Napajedla: Valná hromada VaK Zlín, a.s, oprava Chmelnické lávky'
-date: 2021-03-01
+date: 2019-03-01
 author: Mediální odbor
 authorId: 
 image: posts/vak.jpg
