@@ -26,27 +26,32 @@ Náš článek z valné hromady z roku 2020 je [zde](https://napajedla.pirati.cz
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KMx-EZvV6ec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-čas-09:31 bod 06 - Odkoupení pozemku pod bytem 
+čas - 09:31 bod 06 - Odkoupení pozemku pod bytem 
 
-čas-12:15 bod 07 - Odkup pozemku v k.ú Napajedla
+čas - 12:15 bod 07 - Odkup pozemku v k.ú Napajedla
 
-čas-14:05 bod 08 - Žádost o prodej pozemku Jiráskova
+čas - 14:05 bod 08 - Žádost o prodej pozemku Jiráskova
 
-čas-16:23 bod 09 - Nabídka pozemků ke směně 
+čas - 16:23 bod 09 - Nabídka pozemků ke směně 
 
-čas-19:17 bod 10 - Silnice III-49724 - převod do vlastnictví města
+čas - 19:17 bod 10 - Silnice III-49724 - převod do vlastnictví města
 
-čas-26:37 bod 11+13 - Zápis z finančního výboru a úpravy rozpočtu na rok 2022 (pomoc uprchlíkům v Napajedlích, kapacita školky a škol)
+čas - 26:37 bod 11+13 - Zápis z finančního výboru a úpravy rozpočtu na rok 2022 (pomoc uprchlíkům v Napajedlích, kapacita školky a škol)
 
-čas-01:07:32 bod 12 - Dotace na poskytování sociálních služeb na rok 2022
+čas - 01:07:32 bod 12 - Dotace na poskytování sociálních služeb na rok 2022
 
-čas-01:10:53 bod 13 - Úpravy rozpočtu na rok 2022
+čas - 01:10:53 bod 13 - Úpravy rozpočtu na rok 2022
 
-čas-01:12:00 bod 14 - OZV o nočním klidu
+čas - 01:12:00 bod 14 - OZV o nočním klidu
 
-čas-01:14:52 bod 15+16 - Plná moc pro Jižní vodárenskou + Delegace na valnou hromadu VaK zlín, a.s
+čas - 01:14:52 bod 15+16 - Plná moc pro Jižní vodárenskou + Delegace na valnou hromadu VaK zlín, a.s
 
-čas-01:46:30 bod 17 Diskuze
+čas - 01:46:30 bod 17 Diskuze
+
+
+
+
+
 
 
 
