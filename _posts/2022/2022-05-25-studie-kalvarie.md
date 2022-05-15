@@ -11,6 +11,7 @@ tags:
 - studie 
 - uzemní-plán 
 - kalvarie 
+- important: true
 ---
 
 Na základě dotazů od občanů města a obyvatel často navštěvujících lesopark Kalvárie jsme se rozhodli přes zákon 106/1999 Sb. o svobodném přístupu k informacím požádat o zaslání studií a dendrologických posudků k revitalizaci lesoparku, která momentálně probíhá. 
