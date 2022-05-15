@@ -25,3 +25,8 @@ Piráti Napajedla (Občané Napajedel s podporou Pirátu - pro komunální volby
 
 
 ---
+
+
+Náš YouTube kanál naleznete [zde](https://www.youtube.com/channel/UCgoN2Mo3r-xe0iO6N5HRWHA){:target="_blank"}
+
+Náš FB profil je [zde](https://www.facebook.com/piratinapa){:target="_blank"}
